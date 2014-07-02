@@ -1,0 +1,141 @@
+Report for Institution Code SNOMNH, Resource mammals
+Usage stats for June, 2014, generated on 2014/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 100
+Number of records retrieved in searches: 1084
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Chile ; Times: 3
+	Country: Mexico ; Times: 21
+	Country: United States ; Times: 68
+	Country: Unknown ; Times: 1
+	Country: Venezuela ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-06-12 ; Times: 17
+	Date: 2014-06-13 ; Times: 1
+	Date: 2014-06-14 ; Times: 4
+	Date: 2014-06-18 ; Times: 1
+	Date: 2014-06-20 ; Times: 29
+	Date: 2014-06-22 ; Times: 1
+	Date: 2014-06-23 ; Times: 10
+	Date: 2014-06-24 ; Times: 1
+	Date: 2014-06-25 ; Times: 3
+	Date: 2014-06-26 ; Times: 2
+	Date: 2014-06-27 ; Times: 5
+	Date: 2014-06-28 ; Times: 1
+	Date: 2014-06-29 ; Times: 6
+	Date: 2014-06-30 ; Times: 19
+
+List of queries that retrieved data from the resource: 
+	Query: "geomys pinetis" ; Times: 1
+	Query: "country:"Argentina" genus:Calomys institutioncode:SNOMNH tissue:1" ; Times: 1
+	Query: "trichechus manatus" ; Times: 2
+	Query: "ocelot" ; Times: 1
+	Query: "southeastern pocket gopher type:specimen (southeastern pocket gopher geomys pinetis ) year <= 2014" ; Times: 1
+	Query: "genus:Calomys catalognumber:35237 institutioncode:SNOMNH tissue:1" ; Times: 1
+	Query: "stateprovince:"Chaco" country:"Argentina" genus:Calomys institutioncode:SNOMNH tissue:1" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 2
+	Query: "stateprovince:"Tucuman" country:"Argentina" genus:Calomys institutioncode:SNOMNH tissue:1" ; Times: 1
+	Query: "Liomys irroratus stateprovince:"Veracruz" year >= 1700 year <= 2014" ; Times: 1
+	Query: "Chrotopterus auritus tissue:1" ; Times: 1
+	Query: "Promops" ; Times: 2
+	Query: "stateprovince:"Santiago del Estero" country:"Argentina" genus:Calomys institutioncode:SNOMNH tissue:1" ; Times: 2
+	Query: "Osgoodomys banderanus" ; Times: 1
+	Query: "Dipodomys phillipsii stateprovince:"Veracruz" year >= 1700 year <= 2014" ; Times: 1
+	Query: "specificepithet:microtis genus:Micronycteris" ; Times: 1
+	Query: "Molossus rufus stateprovince:"Veracruz"" ; Times: 1
+	Query: "bigfoot" ; Times: 1
+	Query: "Reithrodontomys fulvescens stateprovince:"Veracruz"" ; Times: 2
+	Query: "genus:Calomys catalognumber:35260 institutioncode:SNOMNH tissue:1" ; Times: 3
+	Query: "tennessee graves" ; Times: 1
+	Query: "stateprovince:"Minnesota" specificepithet:gapperi genus:Myodes" ; Times: 1
+	Query: "ctenomys maulinus" ; Times: 1
+	Query: ""geomys texensis"" ; Times: 1
+	Query: "Lagidium viscacia" ; Times: 2
+	Query: "Pteronotus parnellii stateprovince:"Veracruz"" ; Times: 1
+	Query: "Reithrodontomys sumichrasti stateprovince:"Veracruz"" ; Times: 1
+	Query: "gray jay" ; Times: 1
+	Query: "tadarida brasiliensis country:"jamaica"" ; Times: 1
+	Query: "country:"Argentina" genus:Calomys catalognumber:35369 institutioncode:SNOMNH tissue:1" ; Times: 1
+	Query: "sylvilagus transitionalis" ; Times: 10
+	Query: "stateprovince:"San Juan" country:"Argentina" genus:Calomys institutioncode:SNOMNH tissue:1" ; Times: 1
+	Query: "stateprovince:"Formosa" country:"Argentina" genus:Calomys institutioncode:SNOMNH tissue:1" ; Times: 1
+	Query: "stateprovince:"Jujuy" country:"Argentina" genus:Calomys institutioncode:SNOMNH tissue:1" ; Times: 1
+	Query: "stateprovince:"San Luis" country:"Argentina" genus:Calomys institutioncode:SNOMNH tissue:1" ; Times: 1
+	Query: "specificepithet:sylvestris genus:Glyphonycteris" ; Times: 1
+	Query: "Ictidomys tridecemlineatus" ; Times: 1
+	Query: "sylvilagus transitionalis type:specimen" ; Times: 2
+	Query: "stateprovince:"Chubut" country:"Argentina" genus:Calomys institutioncode:SNOMNH tissue:1" ; Times: 1
+	Query: "jaguarundi" ; Times: 1
+	Query: "hyena type:specimen" ; Times: 1
+	Query: "lutreolina" ; Times: 1
+	Query: "Molossus rufus stateprovince:"Veracruz" year >= 1800 year <= 2014" ; Times: 1
+	Query: "specificepithet:albus genus:Diclidurus" ; Times: 1
+	Query: "Philander opossum stateprovince:"Veracruz" year >= 1700 year <= 2014" ; Times: 1
+	Query: "Promops nasutus" ; Times: 2
+	Query: "tennessee graves mammals" ; Times: 2
+	Query: "Anoura geoffroyi stateprovince:"Veracruz"" ; Times: 1
+	Query: "neotoma goldmani" ; Times: 1
+	Query: "Bolomys lasiurus" ; Times: 1
+	Query: "Oligoryzomys fulvescens stateprovince:"Veracruz"" ; Times: 1
+	Query: "country:"Argentina" genus:Calomys catalognumber:35144 institutioncode:SNOMNH tissue:1" ; Times: 1
+	Query: "geomys texensis" ; Times: 2
+	Query: "sumichrast stateprovince:"Veracruz"" ; Times: 1
+	Query: "Liomys irroratus stateprovince:"Veracruz"" ; Times: 1
+	Query: "stateprovince:"Santiago del Estero" genus:Calomys institutioncode:SNOMNH tissue:1" ; Times: 1
+	Query: "genus:Calomys catalognumber:35072 institutioncode:SNOMNH tissue:1" ; Times: 1
+	Query: "sigmodon hispidus stateprovince:"Mississippi"" ; Times: 2
+	Query: "Glyphonycteris sylvestris year >= 1700 year <= 2014" ; Times: 1
+	Query: "nutria" ; Times: 1
+	Query: "Calomys type:specimen country:"Brazil"" ; Times: 1
+	Query: "stateprovince:"Salta" country:"Argentina" genus:Calomys institutioncode:SNOMNH tissue:1" ; Times: 1
+	Query: "coati" ; Times: 3
+	Query: "peromyscus leucopus stateprovince:"Alabama"" ; Times: 2
+	Query: "sumichrast mammal stateprovince:"Veracruz"" ; Times: 1
+	Query: "Bolomys" ; Times: 1
+	Query: "mole" ; Times: 1
+	Query: "Sylvilagus floridanus stateprovince:"Veracruz" year >= 1700 year <= 2014" ; Times: 1
+	Query: "peromyscus leucopus stateprovince:"Mississippi"" ; Times: 1
+	Query: "stateprovince:"Mendoza" country:"Argentina" genus:Calomys institutioncode:SNOMNH tissue:1" ; Times: 1
+	Query: "Promops centralis" ; Times: 1
+	Query: "tlacuatzin" ; Times: 2
+	Query: "stateprovince:"Catamarca" country:"Argentina" genus:Calomys institutioncode:SNOMNH tissue:1" ; Times: 1
+	Query: "specificepithet:auritus genus:Chrotopterus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 100
+Total number of records retrieved from searches: 1084
+Number of download events that retrieved data from the resource: 0
+Total number of records downloaded: 0
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 100
+Total number of records retrieved from searches: 1084
+Number of download events that retrieved data from the resource: 0
+Total number of records downloaded: 0
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
