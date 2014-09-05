@@ -1,0 +1,268 @@
+Report for Institution Code OMNH, Resource mammals
+Usage stats for August, 2014, generated on 2014/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 210
+Number of records retrieved in searches: 1327
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 4
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 4
+	Country: Colombia ; Times: 2
+	Country: Ecuador ; Times: 1
+	Country: Guatemala ; Times: 6
+	Country: Mexico ; Times: 6
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 167
+	Country: Unknown ; Times: 9
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-02 ; Times: 1
+	Date: 2014-08-04 ; Times: 4
+	Date: 2014-08-05 ; Times: 2
+	Date: 2014-08-06 ; Times: 6
+	Date: 2014-08-07 ; Times: 3
+	Date: 2014-08-08 ; Times: 5
+	Date: 2014-08-09 ; Times: 3
+	Date: 2014-08-10 ; Times: 2
+	Date: 2014-08-11 ; Times: 7
+	Date: 2014-08-12 ; Times: 2
+	Date: 2014-08-13 ; Times: 6
+	Date: 2014-08-14 ; Times: 6
+	Date: 2014-08-15 ; Times: 1
+	Date: 2014-08-16 ; Times: 3
+	Date: 2014-08-17 ; Times: 1
+	Date: 2014-08-18 ; Times: 27
+	Date: 2014-08-19 ; Times: 8
+	Date: 2014-08-20 ; Times: 10
+	Date: 2014-08-21 ; Times: 15
+	Date: 2014-08-22 ; Times: 4
+	Date: 2014-08-23 ; Times: 1
+	Date: 2014-08-24 ; Times: 2
+	Date: 2014-08-25 ; Times: 3
+	Date: 2014-08-26 ; Times: 12
+	Date: 2014-08-27 ; Times: 5
+	Date: 2014-08-28 ; Times: 6
+	Date: 2014-08-29 ; Times: 56
+	Date: 2014-08-30 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Ctenomys maulinus" ; Times: 1
+	Query: "Chaetophractus" ; Times: 2
+	Query: "stateprovince:"Florida" specificepithet:parva genus:Cryptotis" ; Times: 1
+	Query: "nutria" ; Times: 3
+	Query: "Ochotona collaris" ; Times: 1
+	Query: "chaetophractus villosus tissue:1" ; Times: 1
+	Query: "institutioncode:omnh tissue:1" ; Times: 2
+	Query: "Tapirus bairdii" ; Times: 4
+	Query: "Ailurus fulgens" ; Times: 1
+	Query: "eastern gray squirrel" ; Times: 1
+	Query: "heermann" ; Times: 2
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 1
+	Query: "catalognumber:11824 institutioncode:OMNH" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 2
+	Query: "Histiotus" ; Times: 1
+	Query: "coendou" ; Times: 2
+	Query: "chital" ; Times: 1
+	Query: "Lepus americanus stateprovince:"Michigan"" ; Times: 1
+	Query: "loxodonta africana" ; Times: 20
+	Query: "Mustela nigripes type:specimen" ; Times: 2
+	Query: "american pika" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "genus:Ctenomys AND (NOT Bolivia) year >= 1971 year <= 1971" ; Times: 3
+	Query: "suricata suricatta" ; Times: 2
+	Query: "stateprovince:"illinois" specificepithet:lotor genus:procyon" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:myotis" ; Times: 3
+	Query: "sylvilagus brasiliensis type:specimen year >= 1941 year <= 2014" ; Times: 1
+	Query: "specificepithet:bicornis genus:diceros tissue:1" ; Times: 1
+	Query: "Noctilio leporinus distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "dinomys" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "specificepithet:bicornis genus:diceros" ; Times: 2
+	Query: "panthera tigris" ; Times: 7
+	Query: "Elephantidae" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 2
+	Query: "vole" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 18
+	Query: "Chaetophractus type:specimen tissue:1" ; Times: 2
+	Query: "specificepithet:prehensilis genus:coendou" ; Times: 5
+	Query: "Histiotus tissue:1" ; Times: 1
+	Query: "stateprovince:"Oklahoma" specificepithet:aquaticus genus:Scalopus" ; Times: 1
+	Query: "genus:Coendou prehensilis" ; Times: 1
+	Query: "specificepithet:prehensilis genus:Coendou" ; Times: 13
+	Query: "Bradypus variegatus" ; Times: 1
+	Query: "chaetodipus intermedius county:"lincoln"" ; Times: 1
+	Query: "Giraffe" ; Times: 3
+	Query: "Leopardus tigrinus" ; Times: 2
+	Query: "chaetophractus tissue:1" ; Times: 1
+	Query: "mustela nigripes" ; Times: 1
+	Query: "Pika" ; Times: 1
+	Query: "stateprovince:"wisconsin" specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "Ailurus fulgens type:specimen" ; Times: 1
+	Query: "brown bear" ; Times: 1
+	Query: "Chrotopterus" ; Times: 1
+	Query: ""Tissues" institutioncode:OMNH" ; Times: 3
+	Query: "type:specimen stateprovince:"Virginia" class:Mammalia institutioncode:OMNH AND (NOT West Virginia)" ; Times: 1
+	Query: "gunnisoni stateprovince:"New Mexico"" ; Times: 1
+	Query: "snowshoe hare" ; Times: 1
+	Query: "Eligmodontia typus" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:Myotis" ; Times: 3
+	Query: "Nutria" ; Times: 1
+	Query: "type:specimen specificepithet:prehensilis genus:Coendou" ; Times: 1
+	Query: "estado de mexico" ; Times: 1
+	Query: "type:specimen county:"humboldt" stateprovince:"california" genus:neurotrichus AND (NOT HSU)" ; Times: 1
+	Query: "carnegie museum of natural history noctilio" ; Times: 1
+	Query: "coendou prehensilis" ; Times: 8
+	Query: "armadillo texas" ; Times: 1
+	Query: "Cratogeomys castanops" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 25
+	Query: "mouse" ; Times: 1
+	Query: "sylvilagus brasiliensis type:specimen year >= 1961 year <= 2014" ; Times: 3
+	Query: "Lagidium viscacia" ; Times: 1
+	Query: "specificepithet:axis axis" ; Times: 2
+	Query: "viscacia" ; Times: 1
+	Query: "cryptotis parva type:specimen" ; Times: 1
+	Query: "Acinonyx jubatus type:specimen" ; Times: 1
+	Query: "tapir" ; Times: 1
+	Query: "genus:Ctenomys year >= 1971 year <= 1971" ; Times: 1
+	Query: "specificepithet:axis" ; Times: 4
+	Query: "type:specimen genus:loxodonta" ; Times: 1
+	Query: "stateprovince:"Michigan" specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "stateprovince:"oklahoma" specificepithet:floridana genus:neotoma year >= 1991 year <= 1991" ; Times: 1
+	Query: "genus:loxodonta" ; Times: 2
+	Query: "primate type:specimen" ; Times: 1
+	Query: "armadillo" ; Times: 1
+	Query: "Xenomys" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 75 (out of 273 download events in this period)
+Total number of records downloaded: 8817 (out of 1909881 records downloaded for all resources in this period)
+Total number of unique records downloaded: 7751
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 1
+	Country: Brazil ; Times: 7
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Guatemala ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: United States ; Times: 46
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-05 ; Times: 9
+	Date: 2014-08-06 ; Times: 1
+	Date: 2014-08-08 ; Times: 3
+	Date: 2014-08-11 ; Times: 2
+	Date: 2014-08-12 ; Times: 1
+	Date: 2014-08-13 ; Times: 3
+	Date: 2014-08-14 ; Times: 2
+	Date: 2014-08-15 ; Times: 1
+	Date: 2014-08-16 ; Times: 3
+	Date: 2014-08-17 ; Times: 3
+	Date: 2014-08-18 ; Times: 8
+	Date: 2014-08-19 ; Times: 1
+	Date: 2014-08-20 ; Times: 1
+	Date: 2014-08-21 ; Times: 1
+	Date: 2014-08-22 ; Times: 11
+	Date: 2014-08-25 ; Times: 2
+	Date: 2014-08-26 ; Times: 8
+	Date: 2014-08-27 ; Times: 5
+	Date: 2014-08-28 ; Times: 6
+	Date: 2014-08-29 ; Times: 1
+	Date: 2014-08-30 ; Times: 2
+	Date: 2014-08-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "neotoma fuscipes" ; Times: 2
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "Baja California Sur mammals" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "stateprovince:"Florida" specificepithet:parva genus:Cryptotis" ; Times: 2
+	Query: "Ammospermophilus nelsoni" ; Times: 2
+	Query: "tepic" ; Times: 1
+	Query: "Martes pennanti type:specimen AND (NOT Canada NOT Alaska NOT Michigan)" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:myotis" ; Times: 2
+	Query: "Peromyscus boylii" ; Times: 1
+	Query: "sorex hoyi type:specimen" ; Times: 1
+	Query: "Ochotona collaris" ; Times: 1
+	Query: "desmodus rotundus country:"brazil" specificepithet:rotundus genus:Desmodus" ; Times: 1
+	Query: "condylura cristata type:specimen" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "Sciurus aberti" ; Times: 1
+	Query: "Martes americana type:specimen" ; Times: 1
+	Query: "chaetodipus intermedius county:"lincoln"" ; Times: 1
+	Query: "Mustela nivalis type:specimen" ; Times: 1
+	Query: "urocitellus" ; Times: 1
+	Query: "Peromyscus gossypinus type:specimen" ; Times: 1
+	Query: "Mephitis mephitis type:specimen" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "ayacucho" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 2
+	Query: "neotoma cinerea" ; Times: 1
+	Query: "cryptotis parva type:specimen" ; Times: 1
+	Query: "Mustela erminea" ; Times: 1
+	Query: "spermophilus beecheyi" ; Times: 1
+	Query: "nayarit" ; Times: 1
+	Query: "Dipodomys ingens" ; Times: 2
+	Query: "Acinonyx jubatus type:specimen" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 2
+	Query: "Otospermophilus beecheyi" ; Times: 1
+	Query: "country:"Suriname"" ; Times: 1
+	Query: "class:Mammalia Panthera leo" ; Times: 1
+	Query: ""Urocitellus parryii" OR "Spermophilus parryii"" ; Times: 1
+	Query: "ochotona princeps" ; Times: 1
+	Query: "type:specimen stateprovince:"Virginia" class:Mammalia" ; Times: 1
+	Query: "scalopus aquaticus type:specimen" ; Times: 1
+	Query: "Ailurus fulgens type:specimen" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "Spilogale putorius type:specimen" ; Times: 2
+	Query: "specificepithet:axis" ; Times: 1
+	Query: "country:"brazil"" ; Times: 2
+	Query: "Geomys breviceps" ; Times: 1
+	Query: "specificepithet:axis axis" ; Times: 1
+	Query: "eptesicus" ; Times: 1
+	Query: "Herpestidae type:specimen" ; Times: 1
+	Query: "Hodomys" ; Times: 1
+	Query: "Alouatta" ; Times: 1
+	Query: "alouatta seniculus" ; Times: 1
+	Query: "Perognathus inornatus inornatus" ; Times: 4
+	Query: "country:"Kenya" class:Mammalia" ; Times: 1
+	Query: "urocitellus beldingi" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "Noctilio leporinus distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "Coahuila mammals type:specimen" ; Times: 1
+	Query: "country:"Colombia" class:Mammalia" ; Times: 1
+	Query: "Dipodomys" ; Times: 1
+	Query: "myocastor coypus" ; Times: 1
+	Query: "Diphylla ecaudata" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 354
+Total number of records retrieved from searches: 3779
+Number of download events that retrieved data from the resource: 178
+Total number of records downloaded: 55062
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 354
+Total number of records retrieved from searches: 3779
+Number of download events that retrieved data from the resource: 178
+Total number of records downloaded: 55062
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
