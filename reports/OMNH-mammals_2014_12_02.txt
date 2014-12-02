@@ -1,0 +1,107 @@
+Report for Institution Code OMNH, Resource mammals
+Usage stats for November, 2014, generated on 2014/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 52
+Number of records retrieved in searches: 785
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: France ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Sweden ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 41
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-11-03 ; Times: 3
+	Date: 2014-11-04 ; Times: 1
+	Date: 2014-11-05 ; Times: 2
+	Date: 2014-11-07 ; Times: 1
+	Date: 2014-11-09 ; Times: 2
+	Date: 2014-11-10 ; Times: 2
+	Date: 2014-11-11 ; Times: 2
+	Date: 2014-11-12 ; Times: 2
+	Date: 2014-11-13 ; Times: 2
+	Date: 2014-11-15 ; Times: 2
+	Date: 2014-11-16 ; Times: 1
+	Date: 2014-11-17 ; Times: 4
+	Date: 2014-11-18 ; Times: 3
+	Date: 2014-11-21 ; Times: 2
+	Date: 2014-11-22 ; Times: 2
+	Date: 2014-11-23 ; Times: 2
+	Date: 2014-11-24 ; Times: 13
+	Date: 2014-11-25 ; Times: 3
+	Date: 2014-11-27 ; Times: 2
+	Date: 2014-11-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Myotis austroriparius mappable:1" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 2
+	Query: "perimyotis subflavus" ; Times: 1
+	Query: "kit fox" ; Times: 1
+	Query: "sciurus niger stateprovince:"texas" mappable:1" ; Times: 2
+	Query: "OMNH akodon" ; Times: 4
+	Query: "bobcat" ; Times: 1
+	Query: "Dasypus novemcinctus type:specimen mappable:1 tissue:1" ; Times: 1
+	Query: "nutria mammalia" ; Times: 2
+	Query: "phacochoerus" ; Times: 1
+	Query: "Sciurus carolinensis mappable:1 tissue:1" ; Times: 1
+	Query: "canadian lynx" ; Times: 1
+	Query: ""new mexico" ammotragus" ; Times: 1
+	Query: "harrisoni" ; Times: 1
+	Query: "african elephant" ; Times: 2
+	Query: "year >= 1600 year <= 1700" ; Times: 1
+	Query: "sylvilagus year >= 2010" ; Times: 2
+	Query: "Didelphis virginia" ; Times: 2
+	Query: "sciurus niger stateprovince:"oklahoma" mappable:1" ; Times: 1
+	Query: "country:"Sweden"" ; Times: 2
+	Query: "mandrillus sphinx" ; Times: 1
+	Query: "Paraechinus" ; Times: 1
+	Query: "pocket gopher" ; Times: 1
+	Query: "lynx canadensis institutioncode:OMNH" ; Times: 1
+	Query: ""Lama guanicoe"" ; Times: 2
+	Query: "stateprovince:"new mexico" specificepithet:tridecemlineatus" ; Times: 2
+	Query: "Sylvilagus brasiliensis" ; Times: 2
+	Query: "pika" ; Times: 1
+	Query: "Perimyotis subflavus" ; Times: 1
+	Query: "suricata" ; Times: 6
+	Query: "Sciurus carolinensis type:specimen mappable:1 tissue:1" ; Times: 2
+	Query: "canis latrans tissue:1" ; Times: 1
+	Query: "specificepithet:ingens genus:dipodomys year >= 1950 year <= 2014" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 555
+Total number of records retrieved from searches: 5879
+Number of download events that retrieved data from the resource: 267
+Total number of records downloaded: 117813
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 555
+Total number of records retrieved from searches: 5879
+Number of download events that retrieved data from the resource: 267
+Total number of records downloaded: 117813
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
