@@ -1,0 +1,357 @@
+Report for Institution Code OMNH, Resource mammals
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 267
+Number of records retrieved in searches: 3311
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 10
+	Country: Australia ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Brazil ; Times: 7
+	Country: Chile ; Times: 6
+	Country: Colombia ; Times: 2
+	Country: Finland ; Times: 3
+	Country: France ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 29
+	Country: Micronesia ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 165
+	Country: Unknown ; Times: 35
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 5
+	Date: 2015-05-06 ; Times: 5
+	Date: 2015-05-07 ; Times: 10
+	Date: 2015-05-09 ; Times: 3
+	Date: 2015-05-10 ; Times: 17
+	Date: 2015-05-11 ; Times: 5
+	Date: 2015-05-12 ; Times: 1
+	Date: 2015-05-13 ; Times: 10
+	Date: 2015-05-14 ; Times: 7
+	Date: 2015-05-15 ; Times: 4
+	Date: 2015-05-16 ; Times: 7
+	Date: 2015-05-18 ; Times: 15
+	Date: 2015-05-19 ; Times: 5
+	Date: 2015-05-20 ; Times: 4
+	Date: 2015-05-21 ; Times: 28
+	Date: 2015-05-22 ; Times: 11
+	Date: 2015-05-23 ; Times: 7
+	Date: 2015-05-24 ; Times: 3
+	Date: 2015-05-25 ; Times: 18
+	Date: 2015-05-26 ; Times: 11
+	Date: 2015-05-27 ; Times: 17
+	Date: 2015-05-28 ; Times: 17
+	Date: 2015-05-29 ; Times: 43
+	Date: 2015-05-30 ; Times: 10
+	Date: 2015-05-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "peromyscus san fernando tamaulipas" ; Times: 2
+	Query: "hippotragus niger variani" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Nebraska"" ; Times: 1
+	Query: "eastern spotted skunk" ; Times: 3
+	Query: "type:both year >= 1950 year <= 2015" ; Times: 1
+	Query: "30758" ; Times: 1
+	Query: "uncia" ; Times: 1
+	Query: "specificepithet:roberti genus:Oxymycterus" ; Times: 11
+	Query: "sorex hoyi" ; Times: 1
+	Query: "county:"Hill" stateprovince:"Texas"" ; Times: 1
+	Query: "specificepithet:hyaena genus:hyaena (zoo)" ; Times: 2
+	Query: "DMH 93" ; Times: 2
+	Query: "Liomys soto la marina tamaulipas" ; Times: 1
+	Query: "Cervus unicolor" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "specificepithet:hyaena genus:hyaena" ; Times: 1
+	Query: "country:"United States" specificepithet:pinetorum genus:Microtus tissue:1" ; Times: 3
+	Query: "aguascalientes" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 1
+	Query: "Sciurus soto la marina tamaulipas" ; Times: 1
+	Query: "panthera tigris (skull zoo)" ; Times: 1
+	Query: "mdg institutioncode:omnh" ; Times: 3
+	Query: "type:specimen specificepithet:carolinensis genus:sciurus tissue:1" ; Times: 1
+	Query: "country:"United States" specificepithet:carolinensis genus:Blarina tissue:1" ; Times: 4
+	Query: "catalognumber:16156" ; Times: 1
+	Query: "county:"Tunica" stateprovince:"Mississippi"" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 2
+	Query: "54847" ; Times: 1
+	Query: "Ateles fusciceps" ; Times: 1
+	Query: "genus:bradypus" ; Times: 2
+	Query: "Colombia Puma yagouaroundi country:"Colombia"" ; Times: 1
+	Query: "Lasiurus blossevillii country:"Mexico" mappable:1" ; Times: 1
+	Query: "specificepithet:spinosus genus:Sphiggurus" ; Times: 2
+	Query: "Spotted skunk" ; Times: 9
+	Query: ""sorex hoyi" AND (NOT Alaska NOT Canada NOT "New York" NOT Minnesota NOT Michigan NOT Colorado NOT "South Dakota" NOT Montana NOT Wisconsin NOT "North Dakota" NOT Wyoming)" ; Times: 1
+	Query: "type:both year >= 1900 year <= 2015 mappable:1 distance(location,geopoint(36.910372213522535,-121.06109619140625))<100000" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 7
+	Query: "stateprovince:"Illinois" genus:Scalopus" ; Times: 1
+	Query: "tissue:1 distance(location,geopoint(34.60005635219702,-82.63916015625))<43124" ; Times: 1
+	Query: "type:both year >= 1900 year <= 2015 mappable:1" ; Times: 1
+	Query: "Procyon cancrivorus" ; Times: 1
+	Query: ""Orthogeomys hispidus"" ; Times: 2
+	Query: "52375" ; Times: 1
+	Query: "LASIURUS EGA country:"MEXICO"" ; Times: 1
+	Query: "Leptonycteris yerbabuenae country:"Mexico"" ; Times: 1
+	Query: "sylvilagus san fernando tamaulipas" ; Times: 1
+	Query: "marmosops" ; Times: 1
+	Query: "stateprovince:"Louisiana" class:Mammalia tissue:1" ; Times: 2
+	Query: "Chaetodipus soto la marina tamaulipas" ; Times: 1
+	Query: "Lycalopex" ; Times: 7
+	Query: "Dusicyon australis" ; Times: 26
+	Query: ""sorex hoyi" AND (NOT Alaska NOT Canada NOT "New York" NOT Minnesota)" ; Times: 1
+	Query: "Perognathus soto la marina tamaulipas" ; Times: 1
+	Query: "stateprovince:"Oklahoma" specificepithet:septentrionalis genus:Myotis" ; Times: 1
+	Query: "Sciurus vulgaris" ; Times: 3
+	Query: "gay institutioncode:omnh" ; Times: 3
+	Query: "country:"United States" specificepithet:longirostris genus:Sorex tissue:1" ; Times: 1
+	Query: "B431" ; Times: 1
+	Query: "peromyscus attwateri" ; Times: 1
+	Query: "Chrysocyon" ; Times: 1
+	Query: "BAT or BATS or CHIROPTERA" ; Times: 4
+	Query: ""Archbold Biological Station"" ; Times: 1
+	Query: "aardvark" ; Times: 1
+	Query: "ml 464" ; Times: 1
+	Query: "type:specimen specificepithet:parva genus:cryptotis tissue:1" ; Times: 2
+	Query: ""sorex hoyi" AND (NOT Alaska NOT Canada NOT "New York" NOT Minnesota NOT Michigan NOT Colorado NOT "South Dakota" NOT Montana NOT Wisconsin)" ; Times: 1
+	Query: ""sorex hoyi" AND (NOT Alaska NOT Canada NOT "New York" NOT Minnesota NOT Michigan NOT Colorado NOT "South Dakota" NOT Montana NOT Wisconsin NOT "North Dakota" NOT Wyoming NOT "New Hampshire" NOT Maine NOT Vermont NOT Pennsylvania NOT Washington NOT Ohio)" ; Times: 1
+	Query: ""sorex hoyi" AND (NOT Alaska NOT Canada NOT "New York" NOT Minnesota NOT Michigan NOT Colorado NOT "South Dakota" NOT Montana NOT Wisconsin NOT "North Dakota" NOT Wyoming NOT "New Hampshire" NOT Maine NOT Vermont NOT Pennsylvania)" ; Times: 1
+	Query: "11092" ; Times: 1
+	Query: "11093" ; Times: 1
+	Query: "(juvenile or subadult)" ; Times: 1
+	Query: "Melursus ursinus" ; Times: 1
+	Query: "55546" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "omnh country:"Argentina" class:Mammalia tissue:1" ; Times: 1
+	Query: "white tailed deer" ; Times: 1
+	Query: "peromyscus soto la marina tamaulipas" ; Times: 2
+	Query: "80 genus:pteronotus institutioncode:omnh" ; Times: 1
+	Query: "Archbold Biological Station" ; Times: 5
+	Query: "hyaena hyaena (zoo)" ; Times: 2
+	Query: ""sorex hoyi" AND (NOT Alaska NOT Canada)" ; Times: 1
+	Query: "crocuta crocuta (zoo)" ; Times: 1
+	Query: "spotted skunk" ; Times: 3
+	Query: "type:both mappable:1" ; Times: 2
+	Query: "Spotted Skunk" ; Times: 5
+	Query: "Peromyscus attwateri" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "Thylamys pallidior" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "peromyscus tamaulipas" ; Times: 1
+	Query: "skunk" ; Times: 2
+	Query: "tapirus bairdii" ; Times: 3
+	Query: "Marmosops" ; Times: 2
+	Query: "Abrocomidae" ; Times: 1
+	Query: "58062" ; Times: 1
+	Query: "Microtus townsendii county:"Skagit" stateprovince:"Washington" specificepithet:townsendii genus:Microtus year <= 2000" ; Times: 1
+	Query: "jlh institutioncode:omnh" ; Times: 1
+	Query: "type:specimen specificepithet:hispidus genus:sigmodon tissue:1" ; Times: 1
+	Query: "sylvilagus nuttallii" ; Times: 1
+	Query: "stateprovince:"wyoming" specificepithet:leucurus genus:cynomys" ; Times: 2
+	Query: "Chrysocyon brachyurus" ; Times: 3
+	Query: "Peromyscus perfulvus" ; Times: 1
+	Query: "country:"Argentina" class:Mammalia AND (omnh) tissue:1" ; Times: 1
+	Query: "Peromyscus crinitus county:"San Diego"" ; Times: 1
+	Query: "stateprovince:"Oklahoma" specificepithet:septentrionalis" ; Times: 1
+	Query: "country:"United States" specificepithet:hylophaga genus:Blarina tissue:1" ; Times: 1
+	Query: "Noctilio leporinus country:"Mexico" mappable:1" ; Times: 2
+	Query: "dipodomys gravipes" ; Times: 1
+	Query: "Micronycteris microtis country:"Mexico" mappable:1" ; Times: 1
+	Query: "county:"coahoma" stateprovince:"Mississippi"" ; Times: 1
+	Query: "Octodontidae" ; Times: 1
+	Query: "10270" ; Times: 1
+	Query: "stateprovince:"Arkansas" country:"United States" genus:Peromyscus tissue:1" ; Times: 2
+	Query: "Liomys san fernando tamaulipas" ; Times: 2
+	Query: "nasua nasua" ; Times: 1
+	Query: "hyaena hyaena" ; Times: 1
+	Query: "conepatus chinga" ; Times: 2
+	Query: "stateprovince:"Alabama" genus:Peromyscus tissue:1" ; Times: 1
+	Query: "hyaena hyaena (skull zoo)" ; Times: 1
+	Query: "Peromyscus san fernando tamaulipas" ; Times: 1
+	Query: "uncia uncia" ; Times: 13
+	Query: "lycaon pictus (skull zoo)" ; Times: 1
+	Query: "Chiroderma salvini country:"Mexico" mappable:1" ; Times: 1
+	Query: "genus:pteronotus institutioncode:omnh" ; Times: 3
+	Query: "stateprovince:"colima" country:"mexico" genus:pteronotus year >= 1997 year <= 1999" ; Times: 1
+	Query: "new york odocoileus virginianus AND (NOT sound NOT film)" ; Times: 1
+	Query: "myotis grisescens" ; Times: 1
+	Query: "country:"Mexico" specificepithet:pecari genus:Tayassu" ; Times: 1
+	Query: "catalognumber:30758" ; Times: 1
+	Query: ""sorex hoyi" AND (NOT Alaska NOT Canada NOT "New York" NOT Minnesota NOT Michigan)" ; Times: 1
+	Query: "peregrine" ; Times: 1
+	Query: ""sorex hoyi" AND (NOT Alaska NOT Canada NOT "New York" NOT Minnesota NOT Michigan NOT Colorado NOT "South Dakota" NOT Montana NOT Wisconsin NOT "North Dakota" NOT Wyoming NOT "New Hampshire" NOT Maine NOT Vermont NOT Washington )" ; Times: 1
+	Query: ""Archbold Biological Station" type:specimen class:Mammalia" ; Times: 1
+	Query: "Myotis keaysi" ; Times: 1
+	Query: "lagidium viscacia" ; Times: 1
+	Query: "49339" ; Times: 3
+	Query: "orycteropus" ; Times: 1
+	Query: "country:"United States" specificepithet:parva genus:Cryptotis tissue:1" ; Times: 2
+	Query: "Dinomyidae" ; Times: 1
+	Query: "Peromyscus melanophrys" ; Times: 1
+	Query: ""sorex hoyi" AND (NOT Alaska NOT Canada NOT "New York" NOT Minnesota NOT Michigan NOT Colorado NOT "South Dakota" NOT Montana NOT Wisconsin NOT "North Dakota" NOT Wyoming NOT "New Hampshire" NOT Maine NOT Vermont NOT Washington NOT Iowa)" ; Times: 1
+	Query: "myrmecophaga" ; Times: 2
+	Query: "cave stateprovince:"Alabama" year >= 1700 year <= 2015" ; Times: 1
+	Query: "Neofelis" ; Times: 1
+	Query: "Peromyscus soto la marina tamaulipas" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 97 (out of 976 download events in this period)
+Total number of records downloaded: 82189 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 56033
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Chile ; Times: 9
+	Country: Colombia ; Times: 1
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: United States ; Times: 65
+	Country: Unknown ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-06 ; Times: 2
+	Date: 2015-05-07 ; Times: 1
+	Date: 2015-05-08 ; Times: 1
+	Date: 2015-05-09 ; Times: 8
+	Date: 2015-05-10 ; Times: 1
+	Date: 2015-05-11 ; Times: 1
+	Date: 2015-05-12 ; Times: 2
+	Date: 2015-05-13 ; Times: 4
+	Date: 2015-05-15 ; Times: 1
+	Date: 2015-05-16 ; Times: 1
+	Date: 2015-05-18 ; Times: 5
+	Date: 2015-05-19 ; Times: 4
+	Date: 2015-05-20 ; Times: 4
+	Date: 2015-05-21 ; Times: 18
+	Date: 2015-05-22 ; Times: 18
+	Date: 2015-05-23 ; Times: 1
+	Date: 2015-05-24 ; Times: 1
+	Date: 2015-05-25 ; Times: 2
+	Date: 2015-05-26 ; Times: 7
+	Date: 2015-05-27 ; Times: 6
+	Date: 2015-05-28 ; Times: 3
+	Date: 2015-05-29 ; Times: 2
+	Date: 2015-05-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "microtus californicus (skin)" ; Times: 1
+	Query: "Peromyscus keeni" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 2001 year <= 2016" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1951 year <= 1960" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1971 year <= 1980" ; Times: 1
+	Query: "stateprovince:"Illinois" genus:Scalopus" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "cave stateprovince:"Tennessee" year >= 1700 year <= 2015" ; Times: 1
+	Query: "Oligoryzomys" ; Times: 1
+	Query: "trichechus manatus" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "stateprovince:"Nevada" country:"United States" class:Mammalia" ; Times: 1
+	Query: "abrothrix longipilis mappable:1" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1981 year <= 1990" ; Times: 1
+	Query: "Canis latrans" ; Times: 2
+	Query: "Phoca vitulina type:specimen year >= 1600 year <= 2014" ; Times: 1
+	Query: "mdg institutioncode:omnh" ; Times: 1
+	Query: "Ctenomyidae" ; Times: 1
+	Query: "peromyscus polionotus" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:sciurus tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:pennsylvanicus genus:microtus tissue:1" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "peromyscus crinitus" ; Times: 1
+	Query: "Canis lupus lupus" ; Times: 1
+	Query: "Peromyscus perfulvus" ; Times: 1
+	Query: "Colombia Puma yagouaroundi country:"Colombia"" ; Times: 1
+	Query: "Spotted skunk" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "cave stateprovince:"Georgia" year >= 1700 year <= 2015" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1931 year <= 1940" ; Times: 1
+	Query: "peromyscus mexicanus" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1901 year <= 1910" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1991 year <= 2000" ; Times: 1
+	Query: "Peromyscus californicus" ; Times: 1
+	Query: "Leptonycteris yerbabuenae country:"Mexico"" ; Times: 1
+	Query: "Peromyscus levipes" ; Times: 1
+	Query: "Pygoderma year <= 2015" ; Times: 1
+	Query: "Neotoma albigula" ; Times: 1
+	Query: "stateprovince:"Baja" country:"Mexico" class:mammalia (isla OR island)" ; Times: 1
+	Query: "peromyscus pectoralis" ; Times: 2
+	Query: "stateprovince:"michoacan" country:"MEXICO" class:mammalia year >= 1888 year <= 2015 mappable:1" ; Times: 1
+	Query: "Peromyscus gratus" ; Times: 1
+	Query: "american black bear" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1911 year <= 1920" ; Times: 1
+	Query: ""lynx rufus"" ; Times: 1
+	Query: "Zalophus californianus" ; Times: 1
+	Query: "Peromyscus melanotis" ; Times: 1
+	Query: "Sigmodontinae tissue:1" ; Times: 1
+	Query: "Lagothrix lagotricha" ; Times: 1
+	Query: "type:specimen specificepithet:megalotis genus:reithrodontomys tissue:1" ; Times: 1
+	Query: "spotted skunk" ; Times: 1
+	Query: "Peromyscus attwateri" ; Times: 1
+	Query: "Tamias minimus stateprovince:"Colorado" distance(location,geopoint(39.774769485295465,-105.46875))<82878" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1921 year <= 1930" ; Times: 1
+	Query: "Peromyscus melanophrys" ; Times: 1
+	Query: "Peromyscus spicilegus" ; Times: 1
+	Query: "Marmosops" ; Times: 1
+	Query: "Abrocomidae" ; Times: 1
+	Query: "type:specimen specificepithet:hispidus genus:sigmodon tissue:1" ; Times: 1
+	Query: "stateprovince:"wyoming" specificepithet:leucurus genus:cynomys" ; Times: 1
+	Query: "W. B. Richardson" ; Times: 1
+	Query: "Caviidae" ; Times: 1
+	Query: "Chinchillidae" ; Times: 1
+	Query: "marmosops" ; Times: 1
+	Query: ""Lontra canadensis"" ; Times: 1
+	Query: "peromyscus eremicus" ; Times: 1
+	Query: "Octodontidae" ; Times: 1
+	Query: "type:specimen specificepithet:brevicauda genus:blarina tissue:1" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1961 year <= 1970" ; Times: 1
+	Query: "odocoileus virginianus stateprovince:"New York"" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "peromyscus truei" ; Times: 1
+	Query: "Phyllostomidae" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1941 year <= 1950" ; Times: 1
+	Query: "Peromyscus merriami" ; Times: 1
+	Query: "country:"Mexico" specificepithet:pecari genus:Tayassu" ; Times: 1
+	Query: "stateprovince:"New Mexico" class:mammalia" ; Times: 1
+	Query: "year >= 1800 year <= 2015 distance(location,geopoint(35.9602229692967,-119.37744140625))<100000" ; Times: 1
+	Query: "country:"United States" class:Mammalia year >= 1850 year <= 1900" ; Times: 1
+	Query: ""sorex hoyi" AND (NOT Alaska NOT Canada NOT "New York" NOT Minnesota NOT Michigan NOT Colorado NOT "South Dakota" NOT Montana NOT Wisconsin NOT "North Dakota" NOT Wyoming NOT "New Hampshire" NOT Maine NOT Vermont NOT Washington NOT Iowa)" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "Echimyidae" ; Times: 1
+	Query: "Ochotona princeps mappable:1" ; Times: 1
+	Query: "Dinomyidae" ; Times: 1
+	Query: "Peromyscus hylocetes" ; Times: 1
+	Query: "Peromyscus nasutus" ; Times: 1
+	Query: "Neacomys" ; Times: 1
+	Query: "cave stateprovince:"Alabama" year >= 1700 year <= 2015" ; Times: 1
+	Query: ""lynx rufus" country:"Mexico"" ; Times: 2
+	Query: "Peromyscus difficilis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1107
+Total number of records retrieved from searches: 13729
+Number of download events that retrieved data from the resource: 266
+Total number of records downloaded: 141807
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1230
+Total number of records retrieved from searches: 15206
+Number of download events that retrieved data from the resource: 600
+Total number of records downloaded: 271080
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
