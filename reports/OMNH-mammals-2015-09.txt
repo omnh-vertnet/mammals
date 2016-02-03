@@ -1,0 +1,561 @@
+Report for Institution Code OMNH, Resource mammals
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 637
+Number of records retrieved in searches: 10635
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 7
+	Country: Netherlands ; Times: 4
+	Country: Italy ; Times: 1
+	Country: Colombia ; Times: 6
+	Country: Portugal ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: Unknown ; Times: 44
+	Country: Mexico ; Times: 152
+	Country: Papua New Guinea ; Times: 1
+	Country: France ; Times: 5
+	Country: United States ; Times: 393
+	Country: Australia ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Chile ; Times: 10
+	Country: Denmark ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-22 ; Times: 11
+	Date: 2015-09-09 ; Times: 25
+	Date: 2015-09-10 ; Times: 38
+	Date: 2015-09-11 ; Times: 24
+	Date: 2015-09-12 ; Times: 1
+	Date: 2015-09-13 ; Times: 7
+	Date: 2015-09-14 ; Times: 16
+	Date: 2015-09-15 ; Times: 17
+	Date: 2015-09-16 ; Times: 18
+	Date: 2015-09-17 ; Times: 33
+	Date: 2015-09-18 ; Times: 4
+	Date: 2015-09-29 ; Times: 32
+	Date: 2015-09-30 ; Times: 16
+	Date: 2015-09-02 ; Times: 19
+	Date: 2015-09-19 ; Times: 23
+	Date: 2015-09-07 ; Times: 10
+	Date: 2015-09-06 ; Times: 13
+	Date: 2015-09-05 ; Times: 69
+	Date: 2015-09-04 ; Times: 35
+	Date: 2015-09-03 ; Times: 18
+	Date: 2015-09-28 ; Times: 7
+	Date: 2015-09-01 ; Times: 20
+	Date: 2015-09-25 ; Times: 14
+	Date: 2015-09-24 ; Times: 11
+	Date: 2015-09-27 ; Times: 7
+	Date: 2015-09-26 ; Times: 5
+	Date: 2015-09-21 ; Times: 10
+	Date: 2015-09-20 ; Times: 52
+	Date: 2015-09-23 ; Times: 20
+	Date: 2015-09-08 ; Times: 62
+
+List of queries that retrieved data from the resource: 
+	Query: "Otospermophilus variegatus" ; Times: 2
+	Query: "Peromyscus melanophrys" ; Times: 1
+	Query: "Glaucomys" ; Times: 1
+	Query: "Castor" ; Times: 6
+	Query: "raccoon skull" ; Times: 1
+	Query: "hippotragus niger variani" ; Times: 2
+	Query: "Molossus molossus" ; Times: 1
+	Query: "Microtus chrotorrhinus" ; Times: 1
+	Query: "Odocoileus virginianus (dead)" ; Times: 1
+	Query: "eastern spotted skunk" ; Times: 1
+	Query: "Lasiurus ega" ; Times: 3
+	Query: "catalognumber:12073" ; Times: 1
+	Query: "virginia opossum mappable:1" ; Times: 5
+	Query: "leopardus wiedii" ; Times: 10
+	Query: "&#34;Mustela nivalis&#34;" ; Times: 3
+	Query: "Osgoodomys banderanus" ; Times: 1
+	Query: "Sylvilagus transitionalis" ; Times: 4
+	Query: "Spermophilus elegans" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "Nyctinomops macrotis" ; Times: 3
+	Query: "Neotoma micropus" ; Times: 2
+	Query: "north american porcupine mappable:1" ; Times: 1
+	Query: "Myotis auriculus" ; Times: 3
+	Query: "catalognumber:37745 institutioncode:OMNH" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 3
+	Query: "(Dasypus novemcinctus) mappable:1" ; Times: 1
+	Query: "pallid bat" ; Times: 1
+	Query: "Sigmodon ochrognathus" ; Times: 1
+	Query: "Peromyscus pectoralis" ; Times: 1
+	Query: "county:&#34;Muskogee&#34; stateprovince:&#34;Oklahoma&#34; class:Mammalia" ; Times: 3
+	Query: "Diphylla ecaudata" ; Times: 3
+	Query: "genus:mustela" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 2
+	Query: "Tapirus bairdii" ; Times: 1
+	Query: "cochise county &#34;Peromyscus maniculatus&#34; year &gt;= 1977 year &lt;= 2005" ; Times: 1
+	Query: "star nosed mole" ; Times: 1
+	Query: "bradypus" ; Times: 2
+	Query: "Water Shrew" ; Times: 2
+	Query: "stateprovince:&#34;florida&#34; specificepithet:polionotus polionotus genus:peromyscus" ; Times: 1
+	Query: "Callithrix pygmaea" ; Times: 2
+	Query: "Dipodomys simulans" ; Times: 2
+	Query: "Macrotus waterhousii" ; Times: 1
+	Query: "Onychomys arenicola" ; Times: 2
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "cochise county &#34;Peromyscus maniculatus&#34;" ; Times: 2
+	Query: "Myotis ciliolabrum" ; Times: 3
+	Query: "Dasypus novemcinctus mappable:1" ; Times: 4
+	Query: "Peromyscus leucopus stateprovince:&#34;Michigan&#34; year &gt;= 1980 year &lt;= 1990" ; Times: 1
+	Query: "water shrew" ; Times: 13
+	Query: "Glaucomys " ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 3
+	Query: "genus:Papio preparations:skull" ; Times: 2
+	Query: "Entre Rios" ; Times: 1
+	Query: "genus:podomys" ; Times: 1
+	Query: "Lasiurus intermedius" ; Times: 3
+	Query: "Corynorhinus rafinesquii" ; Times: 3
+	Query: "Dipodomys compactus" ; Times: 2
+	Query: "Myotis austroriparius" ; Times: 3
+	Query: "specificepithet:borealis genus:synaptomys" ; Times: 1
+	Query: "Ictidomys mexicanus" ; Times: 1
+	Query: "Baiomys taylori" ; Times: 2
+	Query: "eastern michigan university" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Rattus rattus (Chile)" ; Times: 2
+	Query: "lontra canadensis" ; Times: 4
+	Query: "Sigmodon mascotensis" ; Times: 1
+	Query: "dipodomys compactus" ; Times: 2
+	Query: "catalognumber:6141" ; Times: 1
+	Query: "Lasiurus intermedius mappable:1" ; Times: 1
+	Query: "7749" ; Times: 2
+	Query: "Otospermophilus beecheyi type:specimen mappable:1" ; Times: 1
+	Query: "dipodomys phillipsii" ; Times: 7
+	Query: "27176" ; Times: 1
+	Query: "Coendou" ; Times: 2
+	Query: "&#34;north american porcupine&#34;" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 3
+	Query: "Synaptomys cooperi" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(43.96119063892024,1.82373046875))&lt;100000" ; Times: 1
+	Query: "Parastrellus hesperus" ; Times: 3
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "stateprovince:&#34;florida&#34; specificepithet:floridanus genus:Podomys year &gt;= 1940 year &lt;= 1990" ; Times: 1
+	Query: "Aguascalientes" ; Times: 1
+	Query: "stateprovince:&#34;florida&#34; specificepithet:floridanus genus:Podomys year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "neotropical mammals" ; Times: 2
+	Query: "xenarthra" ; Times: 1
+	Query: "Oryzomys texensis" ; Times: 3
+	Query: "Oryzomys couesi" ; Times: 1
+	Query: "boa skeleton" ; Times: 2
+	Query: "Ondatra zibethicus" ; Times: 2
+	Query: "mustela nivalis" ; Times: 4
+	Query: "Dasyprocta punctata" ; Times: 2
+	Query: "Odocoileus virginianus country:&#34;United States&#34; AND (NOT caught)" ; Times: 1
+	Query: "Philander opossum" ; Times: 2
+	Query: "Ammospermophilus harrisii" ; Times: 2
+	Query: "Marmota monax" ; Times: 1
+	Query: "&#34;Mustela nivalis&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Myotis grisescens" ; Times: 3
+	Query: "oryctolagus cuniculus" ; Times: 1
+	Query: "Virginia Opossum" ; Times: 3
+	Query: "Procyon cancrivorus" ; Times: 1
+	Query: "crocuta crocuta" ; Times: 2
+	Query: "blue footed" ; Times: 1
+	Query: "Cynomys" ; Times: 1
+	Query: "Odocoileus virginianus country:&#34;United States&#34;" ; Times: 1
+	Query: "Spilogale angustifrons" ; Times: 1
+	Query: "lepus californicus hidalgo" ; Times: 1
+	Query: "Orthogeomys hispidus" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 3
+	Query: "Sciurus alleni" ; Times: 4
+	Query: "southern flying squirrel" ; Times: 2
+	Query: "catalognumber:23216 institutioncode:OMNH" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "Monophyllus redmani" ; Times: 3
+	Query: "stateprovince:&#34;Arkansas&#34; specificepithet:attwateri genus:Peromyscus" ; Times: 1
+	Query: "stateprovince:&#34;florida&#34; specificepithet:polionotus genus:peromyscus" ; Times: 1
+	Query: "Xerospermophilus" ; Times: 1
+	Query: "vampire" ; Times: 3
+	Query: "cochise county &#34;Peromyscus maniculatus&#34; (Portal) year &gt;= 1977 year &lt;= 2005" ; Times: 1
+	Query: "Phocoena phocoena" ; Times: 1
+	Query: "Cuniculus" ; Times: 1
+	Query: "Coendou prehensilis type:specimen" ; Times: 3
+	Query: "Glaucomys volans" ; Times: 3
+	Query: "dipodomys (coahuila)" ; Times: 2
+	Query: "viverricula" ; Times: 2
+	Query: "Peromyscus leucopus stateprovince:&#34;Wisconsin&#34; year &gt;= 1980 year &lt;= 1990" ; Times: 1
+	Query: "Oligoryzomys fulvescens" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "17255" ; Times: 1
+	Query: "Marmosa" ; Times: 2
+	Query: "catalognumber:30513" ; Times: 2
+	Query: "Reithrodontomys chrysopsis" ; Times: 1
+	Query: "stateprovince:&#34;Louisiana&#34; specificepithet:breviceps genus:geomys" ; Times: 1
+	Query: "synaptomys borealis" ; Times: 1
+	Query: "stateprovince:&#34;florida&#34; specificepithet:floridanus genus:Podomys year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "Sigmodon arizonae" ; Times: 2
+	Query: "dasypus novemcinctus mappable:1" ; Times: 10
+	Query: "stateprovince:&#34;Oklahoma&#34; specificepithet:septentrionalis genus:Myotis" ; Times: 2
+	Query: "Eumops perotis" ; Times: 3
+	Query: "sciurus aureogaster" ; Times: 2
+	Query: "21878" ; Times: 2
+	Query: "North American Porcupine" ; Times: 1
+	Query: "Corynorhinus townsendii" ; Times: 8
+	Query: "peromyscus attwateri" ; Times: 4
+	Query: "fruit bat" ; Times: 1
+	Query: "didelphis virginia mappable:1" ; Times: 1
+	Query: "Peromyscus ochraventer" ; Times: 1
+	Query: "xenarthra tissue:1" ; Times: 1
+	Query: "nine banded armadillo mappable:1" ; Times: 1
+	Query: "sylvilagus aquaticus" ; Times: 1
+	Query: "Ictidomys" ; Times: 1
+	Query: "stateprovince:&#34;florida&#34; specificepithet:floridanus genus:Podomys" ; Times: 1
+	Query: "Perimyotis subflavus" ; Times: 4
+	Query: "Peromyscus leucopus stateprovince:&#34;Wisconsin&#34; year &gt;= 1800 year &lt;= 1970" ; Times: 1
+	Query: "Sciurus aureogaster" ; Times: 2
+	Query: "Noctilio leporinus" ; Times: 3
+	Query: "type:specimen catalognumber:19612" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 11
+	Query: "Mephitis macroura" ; Times: 1
+	Query: "Perognathus flavescens" ; Times: 2
+	Query: "Chaetodipus hispidus" ; Times: 2
+	Query: "class:Mammalia Nyctinomops laticaudatus" ; Times: 1
+	Query: "Notocitellus annulatus" ; Times: 1
+	Query: "stateprovince:&#34;florida&#34; specificepithet:polionotus genus:peromyscus year &gt;= 1990 year &lt;= 2015" ; Times: 2
+	Query: "stateprovince:&#34;florida&#34; specificepithet:polionotus genus:peromyscus year &gt;= 1950 year &lt;= 1979" ; Times: 1
+	Query: "&#34;Dasypus novemcinctus&#34; mappable:1" ; Times: 14
+	Query: "Castor canadensis" ; Times: 3
+	Query: "&#34;Stenella longirostris&#34; mappable:1" ; Times: 1
+	Query: "Reithrodontomys fulvescens" ; Times: 1
+	Query: "Condylura cristata" ; Times: 1
+	Query: "Peromyscus gratus" ; Times: 1
+	Query: "lost lake" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 3
+	Query: "Myotis evotis" ; Times: 3
+	Query: "Peromyscus interparietalis" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 2
+	Query: "southern flying squirrel type:specimen" ; Times: 1
+	Query: "Peromyscus spicilegus" ; Times: 1
+	Query: "stateprovince:&#34;florida&#34; specificepithet:polionotus genus:peromyscus year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "specificepithet:leucurus genus:Cynomys stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Chile (Norvegicus)" ; Times: 1
+	Query: "MyrmecOphaga" ; Times: 1
+	Query: "Xenomys nelsoni" ; Times: 1
+	Query: "bats" ; Times: 1
+	Query: "white tailed deer" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "Phocoena phocoena (skull)" ; Times: 1
+	Query: "stateprovince:&#34;florida&#34; specificepithet:floridanus genus:Podomys year &gt;= 1970 year &lt;= 2015" ; Times: 1
+	Query: "&#34;Dasypus Novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "Myotis volans" ; Times: 3
+	Query: "Sciurus aberti" ; Times: 2
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "Virginia Opossum &#34;Didelphis Virginiana&#34;" ; Times: 1
+	Query: "Synaptomys borealis" ; Times: 1
+	Query: "southern yellow bat" ; Times: 1
+	Query: "Eptesicus fuscus oklahoma" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "Peromyscus melanotis" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 3
+	Query: "North American Porcupine mappable:1" ; Times: 2
+	Query: "necromys lactens" ; Times: 2
+	Query: "Cynomys ludovicianus" ; Times: 2
+	Query: "Cryptotis parva country:&#34;Mexico&#34;" ; Times: 2
+	Query: "catalognumber:5861" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 1
+	Query: "genus:rangifer class:Mammalia year &gt;= 1920 year &lt;= 1922" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "pig tissue:1" ; Times: 2
+	Query: "DROMICIOPS GLIROIDES" ; Times: 2
+	Query: "african elephant" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 5
+	Query: "Nelson country:&#34;Mexico&#34;" ; Times: 1
+	Query: "missouri squirrel" ; Times: 1
+	Query: "neotoma floridana" ; Times: 4
+	Query: "pangolin" ; Times: 1
+	Query: "eastern gray squirrel" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "North American porcupine mappable:1" ; Times: 1
+	Query: "least weasel" ; Times: 1
+	Query: "red bat" ; Times: 1
+	Query: "octodon degu" ; Times: 1
+	Query: "stateprovince:&#34;Arkansas&#34; specificepithet:attwateri genus:Peromyscus mappable:1" ; Times: 1
+	Query: "type:specimen order:Primates year &gt;= 2008 institutioncode:OMNH tissue:1" ; Times: 1
+	Query: "North american porcupine" ; Times: 1
+	Query: "lauderdale" ; Times: 1
+	Query: "Antrozous pallidus" ; Times: 11
+	Query: "Rousettus" ; Times: 1
+	Query: "Spermophilus armatus" ; Times: 1
+	Query: "Handleyomys rostratus" ; Times: 1
+	Query: "plants" ; Times: 1
+	Query: "Erethizon" ; Times: 1
+	Query: "sigmodon arizonae" ; Times: 2
+	Query: "Peromyscus perfulvus" ; Times: 1
+	Query: "stateprovince:&#34;florida&#34; specificepithet:polionotus genus:peromyscus year &gt;= 1980 year &lt;= 2015" ; Times: 1
+	Query: "myodes gapperi michigan" ; Times: 1
+	Query: "thirteen lined ground squirrel" ; Times: 1
+	Query: "elephantidae" ; Times: 1
+	Query: "spotted hyena" ; Times: 1
+	Query: "&#34;Archbold Biological Station&#34;" ; Times: 1
+	Query: "parvula" ; Times: 2
+	Query: "Nycticeius humeralis" ; Times: 3
+	Query: "Liomys pictus" ; Times: 1
+	Query: "stateprovince:&#34;florida&#34; specificepithet:floridanus genus:Podomys year &gt;= 1980 year &lt;= 2015" ; Times: 1
+	Query: "north american porcupine" ; Times: 1
+	Query: "procyon lotor mexico" ; Times: 1
+	Query: "Oryzomys melanotis" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "Peromyscus leucopus stateprovince:&#34;Wisconsin&#34; year &gt;= 1970 year &lt;= 1980" ; Times: 1
+	Query: "Oryzomys chapmani" ; Times: 1
+	Query: "myrmecophaga" ; Times: 1
+	Query: "sylvilagus audubonii hidalgo" ; Times: 1
+	Query: "stateprovince:&#34;Aguascalientes&#34;" ; Times: 3
+	Query: "Chaetodipus eremicus" ; Times: 2
+	Query: "mink" ; Times: 1
+	Query: "Mormoops megalophylla" ; Times: 3
+	Query: "tridecemlineatus michigan" ; Times: 1
+	Query: "Dipodomys spectabilis" ; Times: 3
+	Query: "dasypus" ; Times: 1
+	Query: "Myotis melanorhinus" ; Times: 3
+	Query: "specificepithet:borealis genus:synaptomys country:&#34;united states&#34; AND (not Alaska)" ; Times: 1
+	Query: "coendou prehensilis" ; Times: 8
+	Query: "Pteronotus parnellii" ; Times: 3
+	Query: "Odocoileus virginianus" ; Times: 3
+	Query: "Cratogeomys castanops" ; Times: 1
+	Query: "cheetah" ; Times: 1
+	Query: "omnh thailand" ; Times: 1
+	Query: "class:Mammalia county:&#34;Fairbanks&#34; stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Neotoma leucodon stateprovince:&#34;Aguascalientes&#34;" ; Times: 1
+	Query: "Baiomys musculus" ; Times: 2
+	Query: "mustela nigripes" ; Times: 1
+	Query: "Nine-banded armadillo mappable:1" ; Times: 1
+	Query: "cebuella pygmaea" ; Times: 2
+	Query: "Xerospermophilus tereticaudus" ; Times: 2
+	Query: "Choeronycteris mexicana" ; Times: 3
+	Query: "&#34;dasypus novemcinctus&#34; mappable:1" ; Times: 7
+	Query: "Physeter" ; Times: 1
+	Query: "type:specimen year &gt;= 2008 institutioncode:OMNH tissue:1" ; Times: 1
+	Query: "stateprovince:&#34;florida&#34; specificepithet:polionotus genus:peromyscus year &gt;= 1960 year &lt;= 2015" ; Times: 2
+	Query: "Stenoderma rufum" ; Times: 3
+	Query: "type:specimen institutioncode:OMNH tissue:1" ; Times: 1
+	Query: "golden-mantled ground squirrel" ; Times: 2
+	Query: "&#34;Archbold Biological Station&#34; type:specimen class:Mammalia" ; Times: 1
+	Query: "Peromyscus merriami" ; Times: 1
+	Query: "Xerospermophilus spilosoma" ; Times: 2
+	Query: "ibex" ; Times: 4
+	Query: "Rattus rattus (Chile) AND (norvegicus)" ; Times: 2
+	Query: "R.30826" ; Times: 1
+	Query: "catalognumber:62042" ; Times: 1
+	Query: "Manis temminckii" ; Times: 3
+	Query: "puma yagouaroundi" ; Times: 3
+	Query: "virginia opossum" ; Times: 2
+	Query: "genus:Dasypus novemcinctus mappable:1" ; Times: 1
+	Query: "genus:rangifer class:Mammalia country:&#34;canada&#34; year &gt;= 1920 year &lt;= 1922" ; Times: 1
+	Query: "genus:Ochotona" ; Times: 2
+	Query: "specificepithet:septentrionalis genus:Myotis" ; Times: 2
+	Query: "sylvilagus floridanus michigan" ; Times: 1
+	Query: "Entre" ; Times: 1
+	Query: "Myotis keenii" ; Times: 3
+	Query: "Liomys irroratus" ; Times: 1
+	Query: "specificepithet:polionotus genus:Peromyscus stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "Sciurus colliaei" ; Times: 1
+	Query: "peromyscus attwateri stateprovince:&#34;MIssouri&#34;" ; Times: 1
+	Query: "Lasiurus xanthinus" ; Times: 3
+	Query: "Przewalskii Horse" ; Times: 1
+	Query: "Leptonycteris yerbabuenae" ; Times: 3
+	Query: "Myotis septentrionalis" ; Times: 4
+	Query: "Ammospermophilus interpres" ; Times: 3
+	Query: "Geomys arenarius" ; Times: 1
+	Query: "Reithrodontomys hirsutus" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:&#34;Wisconsin&#34; year &gt;= 1960 year &lt;= 1980" ; Times: 1
+	Query: "9 banded armadillo" ; Times: 1
+	Query: "Sorex arcticus" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 1
+	Query: "specificepithet:elator genus:dipodomys" ; Times: 1
+	Query: "Neotoma leucodon" ; Times: 1
+	Query: "&#34;Dasypus novemcinctus&#34;" ; Times: 1
+	Query: "Sigmodon fulviventer" ; Times: 1
+	Query: "Rousettus aegyptiacus" ; Times: 1
+	Query: "Peromyscus hylocetes" ; Times: 1
+	Query: "pygmy shrew" ; Times: 3
+	Query: "64800" ; Times: 1
+	Query: "specificepithet:borealis genus:synaptomys country:&#34;united states&#34;" ; Times: 3
+	Query: "sciurus niger michigan" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "Myotis californicus" ; Times: 3
+	Query: "macrotus waterhousii" ; Times: 1
+	Query: "Odocoileus virginianus country:&#34;mexico&#34;" ; Times: 1
+	Query: "Reithrodontomys mexicanus" ; Times: 1
+	Query: "texas pocket gopher" ; Times: 1
+	Query: "Rattus rattus (Chile) AND (NOT norvegicus)" ; Times: 1
+	Query: "polar bear skull" ; Times: 1
+	Query: "Perognathus merriami" ; Times: 2
+	Query: "lepus californicus mexico" ; Times: 2
+	Query: "Pappogeomys bulleri" ; Times: 1
+	Query: "genus:bradypus" ; Times: 4
+	Query: "or.2290" ; Times: 1
+	Query: "Sorex dispar" ; Times: 1
+	Query: "genus:neotoma stateprovince:&#34;Aguascalientes&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 3
+	Query: "Myotis leibii" ; Times: 3
+	Query: "Reithrodontomys montanus" ; Times: 1
+	Query: "hippotragus variani" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 209 (out of 1045 download events in this period)
+Total number of records downloaded: 56892
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 8
+	Country: Italy ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Mexico ; Times: 20
+	Country: Unknown ; Times: 22
+	Country: France ; Times: 2
+	Country: United States ; Times: 142
+	Country: Sweden ; Times: 1
+	Country: Chile ; Times: 4
+	Country: Hungary ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-23 ; Times: 4
+	Date: 2015-09-10 ; Times: 36
+	Date: 2015-09-11 ; Times: 7
+	Date: 2015-09-12 ; Times: 3
+	Date: 2015-09-13 ; Times: 2
+	Date: 2015-09-14 ; Times: 7
+	Date: 2015-09-15 ; Times: 28
+	Date: 2015-09-16 ; Times: 36
+	Date: 2015-09-17 ; Times: 10
+	Date: 2015-09-18 ; Times: 2
+	Date: 2015-09-19 ; Times: 2
+	Date: 2015-09-08 ; Times: 3
+	Date: 2015-09-30 ; Times: 5
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-29 ; Times: 10
+	Date: 2015-09-07 ; Times: 5
+	Date: 2015-09-05 ; Times: 5
+	Date: 2015-09-04 ; Times: 2
+	Date: 2015-09-03 ; Times: 1
+	Date: 2015-09-02 ; Times: 6
+	Date: 2015-09-01 ; Times: 3
+	Date: 2015-09-25 ; Times: 11
+	Date: 2015-09-24 ; Times: 2
+	Date: 2015-09-27 ; Times: 3
+	Date: 2015-09-26 ; Times: 2
+	Date: 2015-09-21 ; Times: 2
+	Date: 2015-09-20 ; Times: 2
+	Date: 2015-09-09 ; Times: 2
+	Date: 2015-09-22 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Myotis volans" ; Times: 1
+	Query: "Sylvilagus transitionalis" ; Times: 1
+	Query: "dipodomys ordii" ; Times: 9
+	Query: "Ursus maritimus" ; Times: 2
+	Query: "Sorex palustris" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 2
+	Query: "class:Mammalia Nyctinomops laticaudatus" ; Times: 1
+	Query: "saguinus oedipus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 5
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 35
+	Query: "tamiasciurus douglasii" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Tamias amoenus" ; Times: 2
+	Query: "Manis temminckii" ; Times: 1
+	Query: "least weasel" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "Microtus pinetorum" ; Times: 2
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "Microtus longicaudus" ; Times: 2
+	Query: "dipodomys phillipsii" ; Times: 3
+	Query: "Zapus hudsonius" ; Times: 1
+	Query: "genus:bradypus" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "dipodomys (chihuahua)" ; Times: 1
+	Query: "Sorex monticolus" ; Times: 1
+	Query: "Perognathus fasciatus" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "genus:Marmosa" ; Times: 1
+	Query: "Spermophilus elegans" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "stateprovince:&#34;Louisiana&#34; specificepithet:breviceps genus:geomys" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Elephantulus rufescens" ; Times: 1
+	Query: "sciurus aureogaster" ; Times: 2
+	Query: "Papua" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Manis tetradactyla" ; Times: 1
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "order:Chiroptera continent:South America" ; Times: 2
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Condylura cristata" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 2
+	Query: "Chile (Norvegicus)" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "Bison bison" ; Times: 2
+	Query: "Spermophilus tridecemlineatus" ; Times: 1
+	Query: "octodon degus" ; Times: 1
+	Query: "specificepithet:collaris genus:ochotona year:1960" ; Times: 34
+	Query: "Chaetodipus distance(location,geopoint(31.359642523824625,-115.2685546875))&lt;100000" ; Times: 2
+	Query: "Cryptotis parva country:&#34;Mexico&#34;" ; Times: 1
+	Query: "&#34;Erethizon dorsatum&#34; mappable:1" ; Times: 1
+	Query: "peru" ; Times: 1
+	Query: "Octodon degus" ; Times: 1
+	Query: "stateprovince:&#34;florida&#34; specificepithet:polionotus genus:peromyscus year &gt;= 1980 year &lt;= 2015" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "Neovison vison" ; Times: 2
+	Query: "Odocoileus hemionus" ; Times: 1
+	Query: "ochotona princeps" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "dipodomys (coahuila)" ; Times: 1
+	Query: "Spermophilus armatus" ; Times: 1
+	Query: "New Guinea" ; Times: 2
+	Query: "Viverricula indica" ; Times: 1
+	Query: "Tamias striatus" ; Times: 1
+	Query: "stateprovince:&#34;florida&#34; specificepithet:floridanus genus:Podomys year &gt;= 1980 year &lt;= 2015" ; Times: 1
+	Query: "procyon lotor mexico" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "Napaeozapus insignis" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Oregon&#34; country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 2
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Morehead" ; Times: 1
+	Query: "Neotoma leucodon stateprovince:&#34;Aguascalientes&#34;" ; Times: 4
+	Query: "Spermophilus lateralis" ; Times: 1
+	Query: "gunnisoni" ; Times: 1
+	Query: "Sorex vagrans" ; Times: 1
+	Query: "Tamias minimus" ; Times: 5
+	Query: "family:geomyidae type:specimen mappable:1" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "Callithrix pygmaea" ; Times: 1
+	Query: "(Peromyscus)" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "dipodomys (durango)" ; Times: 3
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "order:Chiroptera continent:North America" ; Times: 2
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Onychomys leucogaster" ; Times: 1
+	Query: "genus:Papio preparations:skull" ; Times: 1
+	Query: "Odocoileus virginianus country:&#34;mexico&#34;" ; Times: 1
+	Query: "Rattus rattus (Chile) AND (NOT norvegicus)" ; Times: 1
+	Query: "cebuella pygmaea" ; Times: 1
+	Query: "Zapus princeps" ; Times: 1
+	Query: "Myodes gapperi" ; Times: 1
+
+
+End of report.
