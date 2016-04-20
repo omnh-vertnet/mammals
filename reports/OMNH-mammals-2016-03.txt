@@ -1,0 +1,125 @@
+Report for Institution Code OMNH, Resource mammals
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 55
+Number of records retrieved in searches: 990
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 34
+	Country: Chile ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: Switzerland ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-02 ; Times: 4
+	Date: 2016-03-12 ; Times: 3
+	Date: 2016-03-10 ; Times: 5
+	Date: 2016-03-08 ; Times: 9
+	Date: 2016-03-09 ; Times: 5
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-07 ; Times: 5
+	Date: 2016-03-14 ; Times: 3
+	Date: 2016-03-05 ; Times: 3
+	Date: 2016-03-11 ; Times: 2
+	Date: 2016-03-03 ; Times: 4
+	Date: 2016-03-13 ; Times: 1
+	Date: 2016-03-01 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "diphylla" ; Times: 2
+	Query: "nycticeius humeralis" ; Times: 1
+	Query: "vulpes velox" ; Times: 4
+	Query: "Phloeomys pallidus" ; Times: 1
+	Query: "locality:Quebrada de Tartagal country:&#34;Argentina&#34;" ; Times: 1
+	Query: "catalognumber:5867 institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:pardus genus:panthera family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Myotis keaysi tissue:1" ; Times: 1
+	Query: "cryptonanus" ; Times: 1
+	Query: "locality:Concepcion country:&#34;Argentina&#34;" ; Times: 1
+	Query: "locality:Bella Vista country:&#34;Argentina&#34;" ; Times: 1
+	Query: "&#34;Lepus americanus&#34; type:specimen institutioncode:OMNH" ; Times: 1
+	Query: "vulpes velox tissue:1" ; Times: 1
+	Query: "otospermophilus variegatus utah museum of natural history" ; Times: 1
+	Query: "2229" ; Times: 1
+	Query: "Cliff Swallow" ; Times: 1
+	Query: "vampire" ; Times: 1
+	Query: "genus:Holochilus country:&#34;Argentina&#34;" ; Times: 1
+	Query: "archbold" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "Phyllotini" ; Times: 1
+	Query: "Dipodomys ingens" ; Times: 1
+	Query: "Diphylla" ; Times: 1
+	Query: "Dipodomys phillipsii" ; Times: 2
+	Query: "ochotona princeps" ; Times: 2
+	Query: "prairie dog" ; Times: 1
+	Query: "giraffe" ; Times: 1
+	Query: "29992" ; Times: 2
+	Query: "Oklahoma AND Lasiurus borealis" ; Times: 1
+	Query: "Sitatunga" ; Times: 1
+	Query: "leopardus colocolo" ; Times: 5
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "white-tailed deer" ; Times: 1
+	Query: "snowshoe hare" ; Times: 1
+	Query: "Geomys" ; Times: 1
+	Query: "san bernardino kangaroo rat" ; Times: 1
+	Query: "catalognumber:43939 institutioncode:OMNH" ; Times: 1
+	Query: "locality:Calilegua country:&#34;Argentina&#34;" ; Times: 1
+	Query: "11054" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "neotoma lepida utah" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 62 (out of 230 download events in this period)
+Total number of records downloaded: 1116
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 12
+	Country: United States ; Times: 45
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-04 ; Times: 1
+	Date: 2016-03-11 ; Times: 6
+	Date: 2016-03-10 ; Times: 9
+	Date: 2016-03-08 ; Times: 4
+	Date: 2016-03-09 ; Times: 12
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-07 ; Times: 3
+	Date: 2016-03-14 ; Times: 8
+	Date: 2016-03-05 ; Times: 2
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-03 ; Times: 4
+	Date: 2016-03-13 ; Times: 8
+	Date: 2016-03-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:borealis genus:Lasiurus stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Heteromyidae year &gt;= 1800 year &lt;= 2015 mappable:1 tissue:1" ; Times: 1
+	Query: "Sigmodontinae" ; Times: 1
+	Query: "specificepithet:collaris genus:ochotona year:1960" ; Times: 3
+	Query: "genus:Holochilus country:&#34;Argentina&#34;" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "ochotona" ; Times: 2
+	Query: "Callospermophilus lateralis" ; Times: 1
+	Query: "tissue" ; Times: 35
+	Query: "Indian Cove" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 13
+
+
+End of report.
