@@ -1,0 +1,179 @@
+Report for Institution Code OMNH, Resource mammals
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 115
+Number of records retrieved in searches: 1977
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 2
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 3
+	Country: United States ; Times: 84
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Russia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 2
+	Date: 2016-05-18 ; Times: 3
+	Date: 2016-05-16 ; Times: 4
+	Date: 2016-05-15 ; Times: 2
+	Date: 2016-05-14 ; Times: 5
+	Date: 2016-05-13 ; Times: 8
+	Date: 2016-05-12 ; Times: 1
+	Date: 2016-05-11 ; Times: 3
+	Date: 2016-05-10 ; Times: 4
+	Date: 2016-05-31 ; Times: 20
+	Date: 2016-05-30 ; Times: 2
+	Date: 2016-05-08 ; Times: 3
+	Date: 2016-05-09 ; Times: 2
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-02 ; Times: 4
+	Date: 2016-05-03 ; Times: 5
+	Date: 2016-05-04 ; Times: 3
+	Date: 2016-05-05 ; Times: 3
+	Date: 2016-05-06 ; Times: 4
+	Date: 2016-05-07 ; Times: 5
+	Date: 2016-05-26 ; Times: 5
+	Date: 2016-05-27 ; Times: 2
+	Date: 2016-05-24 ; Times: 2
+	Date: 2016-05-25 ; Times: 2
+	Date: 2016-05-22 ; Times: 3
+	Date: 2016-05-23 ; Times: 3
+	Date: 2016-05-21 ; Times: 3
+	Date: 2016-05-28 ; Times: 6
+	Date: 2016-05-29 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "57306" ; Times: 1
+	Query: "catalognumber:46487" ; Times: 1
+	Query: "lasiurus intermedius tissue:1" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 3
+	Query: "catalognumber:44144" ; Times: 1
+	Query: "specificepithet:delphis genus:Delphinus" ; Times: 4
+	Query: "32603" ; Times: 1
+	Query: "hare" ; Times: 1
+	Query: "specificepithet:californianus genus:Zalophus" ; Times: 5
+	Query: "gray wolf" ; Times: 2
+	Query: "specificepithet:townsendii genus:Lepus year &gt;= 1990 year &lt;= 2016" ; Times: 1
+	Query: "genus:myrmecophaga" ; Times: 1
+	Query: "Sus scrofa " ; Times: 1
+	Query: "specificepithet:robustus genus:Eschrichtius" ; Times: 11
+	Query: "virginia opossum" ; Times: 1
+	Query: "county:&#34;harmon&#34; stateprovince:&#34;oklahoma&#34; institutioncode:OMNH" ; Times: 1
+	Query: "Dromiciops gliroides" ; Times: 2
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "least shrew" ; Times: 1
+	Query: "Cebuella" ; Times: 1
+	Query: "genus:Tamias institutioncode:OMNH" ; Times: 1
+	Query: "mammals stateprovince:&#34;baja california&#34; country:&#34;mexico&#34; distance(location,geopoint(29.999345682154296,-114.54345703125))&lt;100000" ; Times: 1
+	Query: "genus:Baiomys class:Mammalia stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "vampire" ; Times: 5
+	Query: "allegheny woodrat" ; Times: 1
+	Query: "distance(location,geopoint(31.769036,-106.397516))&lt;15000" ; Times: 1
+	Query: "Abrocoma cinerea" ; Times: 1
+	Query: "country:&#34;Brazil&#34; genus:myrmecophaga" ; Times: 1
+	Query: "genus:Lepus stateprovince:&#34;Nevada&#34; year &gt;= 1980 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:townsendii genus:Lepus year &gt;= 1970 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:texensis genus:Geomys" ; Times: 1
+	Query: "family:bovidae year &gt;= 1983 year &lt;= 1984" ; Times: 1
+	Query: "spotted skunk institutioncode:OMNH" ; Times: 1
+	Query: "stateprovince:&#34;New Mexico&#34; specificepithet:Stephensi genus:Neotoma" ; Times: 1
+	Query: "country:&#34;Brazil&#34; specificepithet:tridactyla genus:myrmecophaga" ; Times: 3
+	Query: "mustela nigripes" ; Times: 14
+	Query: "sphiggurus" ; Times: 1
+	Query: "Atlantic Forest" ; Times: 1
+	Query: "order:rodentia county:&#34;harmon&#34; stateprovince:&#34;oklahoma&#34; institutioncode:OMNH" ; Times: 1
+	Query: "catalognumber:53509" ; Times: 1
+	Query: "Mammalia and Brazil type:specimen hastypestatus:1" ; Times: 1
+	Query: "coendou" ; Times: 1
+	Query: "pika" ; Times: 3
+	Query: "omnh 14894" ; Times: 1
+	Query: "64234" ; Times: 1
+	Query: "Lasiurus intermedius tissue:1" ; Times: 1
+	Query: "specificepithet:bulleri genus:Tamias" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "Camelus dromedarius" ; Times: 1
+	Query: "Phloeomys preparations:skeleton" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "order:Chiroptera county:&#34;Cherokee&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "dipodomys compactus" ; Times: 3
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "alces americanus" ; Times: 1
+	Query: "dipodomys phillipsii" ; Times: 1
+	Query: "catalognumber:44571" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "catalognumber:59092" ; Times: 1
+	Query: "lasiurus intermedius" ; Times: 2
+	Query: "catalognumber:56127" ; Times: 1
+	Query: "skin tachyglossidae type:specimen" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "Marmota monax year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+	Query: "Speothos venaticus" ; Times: 1
+	Query: "marmot" ; Times: 1
+	Query: "sturnira erythromos" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 327 download events in this period)
+Total number of records downloaded: 18698
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 45
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-09 ; Times: 1
+	Date: 2016-05-13 ; Times: 2
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-03 ; Times: 1
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-12 ; Times: 8
+	Date: 2016-05-11 ; Times: 1
+	Date: 2016-05-05 ; Times: 3
+	Date: 2016-05-26 ; Times: 1
+	Date: 2016-05-27 ; Times: 2
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-31 ; Times: 19
+	Date: 2016-05-23 ; Times: 1
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-01 ; Times: 2
+	Date: 2016-05-22 ; Times: 3
+	Date: 2016-05-10 ; Times: 1
+	Date: 2016-05-02 ; Times: 1
+	Date: 2016-05-28 ; Times: 1
+	Date: 2016-05-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:californianus genus:Zalophus" ; Times: 5
+	Query: "Peromyscus" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "specificepithet:delphis genus:Delphinus" ; Times: 4
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "specificepithet:collaris genus:ochotona year:1960" ; Times: 15
+	Query: "puma concolor" ; Times: 1
+	Query: "mongolia" ; Times: 1
+	Query: "Marmota marmota" ; Times: 1
+	Query: "specificepithet:robustus genus:Eschrichtius" ; Times: 10
+	Query: "Canis type:specimen distance(location,geopoint(37.71859032558813,-95.44921875))&lt;2776004" ; Times: 1
+	Query: "Zapus (hudsonius) institutioncode:OMNH" ; Times: 1
+	Query: "stateprovince:&#34;New Mexico&#34; specificepithet:Stephensi genus:Neotoma" ; Times: 1
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "genus:Lepus continent:North America" ; Times: 2
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 2
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "specificepithet:knoxjonesi genus:geomys" ; Times: 1
+
+
+End of report.
