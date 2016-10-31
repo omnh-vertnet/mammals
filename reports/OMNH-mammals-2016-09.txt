@@ -1,0 +1,302 @@
+Report for Institution Code OMNH, Resource mammals
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 412
+Number of records retrieved in searches: 8433
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: United States ; Times: 262
+	Country: Netherlands ; Times: 80
+	Country: Colombia ; Times: 7
+	Country: Portugal ; Times: 23
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 7
+	Country: Costa Rica ; Times: 9
+	Country: United Kingdom ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 6
+	Date: 2016-09-12 ; Times: 10
+	Date: 2016-09-11 ; Times: 6
+	Date: 2016-09-10 ; Times: 15
+	Date: 2016-09-17 ; Times: 3
+	Date: 2016-09-16 ; Times: 6
+	Date: 2016-09-15 ; Times: 6
+	Date: 2016-09-14 ; Times: 8
+	Date: 2016-09-30 ; Times: 5
+	Date: 2016-09-19 ; Times: 4
+	Date: 2016-09-18 ; Times: 5
+	Date: 2016-09-06 ; Times: 30
+	Date: 2016-09-21 ; Times: 9
+	Date: 2016-09-26 ; Times: 2
+	Date: 2016-09-27 ; Times: 1
+	Date: 2016-09-24 ; Times: 5
+	Date: 2016-09-25 ; Times: 3
+	Date: 2016-09-28 ; Times: 4
+	Date: 2016-09-29 ; Times: 7
+	Date: 2016-09-08 ; Times: 41
+	Date: 2016-09-09 ; Times: 37
+	Date: 2016-09-22 ; Times: 13
+	Date: 2016-09-23 ; Times: 10
+	Date: 2016-09-20 ; Times: 3
+	Date: 2016-09-07 ; Times: 77
+	Date: 2016-09-04 ; Times: 13
+	Date: 2016-09-01 ; Times: 13
+	Date: 2016-09-02 ; Times: 16
+	Date: 2016-09-03 ; Times: 13
+	Date: 2016-09-05 ; Times: 41
+
+List of queries that retrieved data from the resource: 
+	Query: "north american porcupine genus:Erethizon dorsatum mappable:1" ; Times: 1
+	Query: "Coendou prehensiLis" ; Times: 1
+	Query: "nine-banded armadillo" ; Times: 1
+	Query: "&#34;bison bison&#34; mappable:1" ; Times: 1
+	Query: "nyctinomops laticaudatus" ; Times: 3
+	Query: "Tremarctos Ornatus" ; Times: 1
+	Query: "(Dasypus novemcinctus) mappable:1" ; Times: 1
+	Query: "order:rodentia class:Mammalia coordinateuncertaintyinmeters&lt;5000 stateprovince:(Tennessee OR Kentucky)" ; Times: 4
+	Query: "&#34;Odobenus rosmarus&#34; mappable:1" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Dasypus &#34;Dasypus novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "Glossophaga morenoi 1" ; Times: 1
+	Query: "golden lion tamarin" ; Times: 1
+	Query: "(Dasypus &#34;novemcinctus&#34;) mappable:1" ; Times: 2
+	Query: "Leptonycteris yerbabuenae 1" ; Times: 1
+	Query: "sus scrofa" ; Times: 2
+	Query: "&#34;novemcinctus&#34; mappable:1" ; Times: 3
+	Query: "Dasypus novemcinctus mappable:1" ; Times: 6
+	Query: "manatee mappable:1" ; Times: 1
+	Query: "Kobus zoO" ; Times: 1
+	Query: "specificepithet:ursinus genus:Dendrolagus" ; Times: 3
+	Query: "class:Mammalia coendou" ; Times: 1
+	Query: "genus:Zapus class:Mammalia coordinateuncertaintyinmeters&lt;5000 stateprovince:((Tennessee OR Kentucky OR Virginia))" ; Times: 1
+	Query: "Dasypus &#34;dasypus novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "oxymycterus rufus" ; Times: 3
+	Query: "mammalia Tennessee" ; Times: 1
+	Query: "13921" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "scapteromys aquaticus" ; Times: 2
+	Query: " mustela nigripes" ; Times: 26
+	Query: "9 banded armadillo mappable:1" ; Times: 2
+	Query: "american pika" ; Times: 1
+	Query: "diclidurus albus" ; Times: 1
+	Query: "virginia opossum" ; Times: 5
+	Query: "catalognumber:12498" ; Times: 1
+	Query: "Odobenus mappable:1" ; Times: 1
+	Query: "vulpes velox" ; Times: 1
+	Query: "Coendou prehensilis museum" ; Times: 1
+	Query: "nine banded armadillo" ; Times: 1
+	Query: "Glossophaga soricina 1" ; Times: 3
+	Query: "nyctinomops tissue:1" ; Times: 1
+	Query: "Spilogale angustifrons" ; Times: 1
+	Query: "Elephas" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "Dasypus &#34;Nine-banded armadillo&#34;" ; Times: 1
+	Query: "Didelphis &#34;Virginia opossum&#34;" ; Times: 1
+	Query: "PTC" ; Times: 1
+	Query: "vampire" ; Times: 1
+	Query: "class:Mammalia coordinateuncertaintyinmeters&lt;250 stateprovince:Tennessee" ; Times: 1
+	Query: "virginia opossum mappable:1" ; Times: 2
+	Query: "Armadillo &#34;Dasypus novemcinctus&#34; mappable:1" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Idaho&#34; institutioncode:OMNH" ; Times: 1
+	Query: "&#34;north American porcupine&#34; genus:Erethizon dorsatum" ; Times: 1
+	Query: "genus:Zapus class:Mammalia coordinateuncertaintyinmeters&lt;2500 stateprovince:(Tennessee OR Kentucky)" ; Times: 1
+	Query: "catagonus" ; Times: 1
+	Query: "elephantidae type:specimen tissue:1" ; Times: 1
+	Query: " (mustela nivalis OR mustela erminea)" ; Times: 1
+	Query: "&#34;porcupine&#34; &#34;Erethizon&#34; mappable:1" ; Times: 1
+	Query: "dasypus &#34;novemcinctus&#34; mappable:1" ; Times: 2
+	Query: "27582" ; Times: 1
+	Query: "25239" ; Times: 1
+	Query: "Neovison vison 1" ; Times: 4
+	Query: "Rodent mappable:1" ; Times: 1
+	Query: "locality:Rio de Oro country:&#34;argentina&#34;" ; Times: 1
+	Query: "&#34;Acinonyx jubatus&#34;" ; Times: 1
+	Query: "class:Mammalia coordinateuncertaintyinmeters&lt;2500 stateprovince:Tennessee" ; Times: 1
+	Query: "nine banded armadillo mappable:1" ; Times: 2
+	Query: "pika" ; Times: 2
+	Query: "Coendou prehensilis" ; Times: 6
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 4
+	Query: "Sigmodon mascotensis" ; Times: 1
+	Query: "scientificname:&#34;omomyidae incertae sedis&#34; OR scientificname:&#34;teilhardina sp.&#34; OR scientificname:&#34;nasalis larvatus&#34; OR scientificname:&#34;presbytis frontata&#34; OR scientificname:&#34;papio anubis&#34; OR scientificname:&#34;macaca fascicularis&#34; OR scientificname:&#34;alouatta palliata&#34; OR scientificname:&#34;cantius abditus&#34; OR scientificname:&#34;pygathrix nemaeus&#34; OR scientificname:&#34;adapis parisiensis&#34; OR scientificname:&#34;miopithecus ogouensis&#34; OR scientificname:&#34;cercopithecus albogularis&#34; OR scientificname:&#34;papio hamadryas&#34; OR scientificname:&#34;papio cynocephalus&#34; OR scientificname:&#34;chlorocebus pygerythrus&#34; OR scientificname:&#34;cercopithecus diana&#34; OR scientificname:&#34;cercopithecus sp.&#34; OR scientificname:&#34;apidium phiomense&#34; OR scientificname:&#34;zaltanpithecus simonsi&#34; OR scientificname:&#34;sivapithecus indicus&#34; OR scientificname:&#34;sivapithecus sp.&#34; OR scientificname:&#34;smilodectes gracilis&#34; OR scientificname:&#34;peromyscus gossypinus&#34; OR scientificname:&#34;triopticus primus&#34; OR scientificname:&#34;cebus apella&#34; OR scientificname:&#34;rooneyia viejaensis&#34; OR scientificname:&#34;paramys  delicatus&#34; OR scientificname:&#34;paramys copei&#34; OR scientificname:&#34;macrocranion junnei&#34; OR scientificname:&#34;birkamys korai&#34; OR scientificname:&#34;cf. birkamys korai&#34;" ; Times: 1
+	Query: "genus:Napaeozapus tissue:1" ; Times: 1
+	Query: "&#34;Dasypus novemcinctus&#34; mappable:1" ; Times: 33
+	Query: "thalpomys cerradensis" ; Times: 1
+	Query: "Panthera tigris zoo" ; Times: 1
+	Query: "locality:goya country:&#34;argentina&#34;" ; Times: 1
+	Query: "Archbold Biological Station type:specimen" ; Times: 1
+	Query: "hedgehog mappable:1" ; Times: 1
+	Query: "Melursus ursinus" ; Times: 1
+	Query: "Mustela nigripes " ; Times: 2
+	Query: "&#34;Erethizon&#34; &#34;north american porcupine&#34; mappable:1" ; Times: 1
+	Query: "cebus albifrons" ; Times: 3
+	Query: "Aguascalientes" ; Times: 1
+	Query: "tree shrew mappable:1" ; Times: 1
+	Query: "&#34;opossum&#34; &#34;didelphis&#34; mappable:1" ; Times: 2
+	Query: "Mus musculus 1" ; Times: 3
+	Query: "Glossophaga leachii 1" ; Times: 1
+	Query: "&#34;porcupine&#34; &#34;erethizon&#34; mappable:1" ; Times: 2
+	Query: "Leptonycteris nivalis 1" ; Times: 1
+	Query: "necromys lactens" ; Times: 1
+	Query: "vulpes macrotis stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "&#34;Erethizon dorsatum&#34; mappable:1" ; Times: 1
+	Query: "nycticebus coucang" ; Times: 2
+	Query: "&#34;Virginia opossum&#34; mappable:1" ; Times: 1
+	Query: "Dipodomys ingens" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "mustela nigripes" ; Times: 84
+	Query: "Archbold Biological Station type:specimen class:Mammalia AND (NOT AMNH)" ; Times: 1
+	Query: "lemur catta" ; Times: 1
+	Query: "tapirus bairdii" ; Times: 1
+	Query: "slow loris" ; Times: 3
+	Query: "&#34;Odobenus&#34; mappable:1" ; Times: 1
+	Query: "armadillo" ; Times: 1
+	Query: "Virginia Opossum &#34;Didelphis virginiana&#34; mappable:1" ; Times: 2
+	Query: "scientificname:&#34;tarsius spectrum&#34; OR scientificname:&#34;tarsius syricta&#34; OR scientificname:&#34;varecia variegata&#34; OR scientificname:&#34;eulemur fulvus&#34; OR scientificname:&#34;galago alleni&#34; OR scientificname:&#34;parapithecus grangeri&#34; OR scientificname:&#34;megaladapis madagascariensis&#34; OR scientificname:&#34;ateles geoffroyi&#34; OR scientificname:&#34;sciurus carolinensis&#34; OR scientificname:&#34;daubentonia madagascariensis&#34; OR scientificname:&#34;nycticebus coucang&#34; OR scientificname:&#34;tupaia glis&#34; OR scientificname:&#34;tupaia minor&#34; OR scientificname:&#34;tupaia montana&#34; OR scientificname:&#34;tupaia sp. (cf. glis)&#34; OR scientificname:&#34;teilhardina belgica&#34; OR scientificname:&#34;teilhardina brandti&#34; OR scientificname:&#34;hapalemur griseus&#34; OR scientificname:&#34;arctocebus calabarensis&#34; OR scientificname:&#34;indri indri&#34; OR scientificname:&#34;mirza coquereli&#34; OR scientificname:&#34;phaner furcifer&#34; OR scientificname:&#34;alouatta palliata&#34; OR scientificname:&#34;alouatta seniculus&#34; OR scientificname:&#34;aotus azarae&#34; OR scientificname:&#34;aotus nigriceps&#34; OR scientificname:&#34;ateles belzebuth&#34; OR scientificname:&#34;ateles paniscus&#34; OR scientificname:&#34;brachyteles arachnoides&#34; OR scientificname:&#34;cacajao calvus&#34; OR scientificname:&#34;cacajao melanocephalus&#34;" ; Times: 1
+	Query: "Marmota marmota 1" ; Times: 3
+	Query: "Conepatus leuconotus" ; Times: 1
+	Query: "armadillo mappable:1" ; Times: 1
+	Query: "thalpomys lasiotis" ; Times: 1
+	Query: "Spilogale pygmaea" ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "&#34;didelphis&#34; &#34;virginia opossum&#34; mappable:1" ; Times: 1
+	Query: "21963" ; Times: 2
+	Query: "Erethizon &#34;North American Porcupine&#34;" ; Times: 1
+	Query: "Didelphis &#34;virginia opossum&#34;" ; Times: 1
+	Query: "cervus canadensis mappable:1" ; Times: 1
+	Query: "Virginia opossum mappable:1" ; Times: 2
+	Query: "coendou prehensilis" ; Times: 13
+	Query: "&#34;virginia opossum&#34; mappable:1" ; Times: 1
+	Query: "genus:Zapus class:Mammalia coordinateuncertaintyinmeters&lt;5000 stateprovince:((Tennessee OR Kentucky))" ; Times: 1
+	Query: "specificepithet:borealis genus:lasiurus stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "Dasypodidae continent:North America mappable:1" ; Times: 1
+	Query: "&#34;dasypus novemcinctus&#34; mappable:1" ; Times: 9
+	Query: "&#34;dasypus&#34; mappable:1" ; Times: 2
+	Query: "Ovis aries 1" ; Times: 1
+	Query: "dasypus &#34;nine-banded armadillo&#34;" ; Times: 1
+	Query: "12359" ; Times: 1
+	Query: "Erethizon dorsatum mappable:1" ; Times: 1
+	Query: "Rodent is" ; Times: 1
+	Query: "Prionailurus bengalensis" ; Times: 1
+	Query: "locality:Concepcion country:&#34;argentina&#34;" ; Times: 1
+	Query: "Canis aureus zoO" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 2
+	Query: "dasypus novemcinctus" ; Times: 5
+	Query: "genus:Dasypus mappable:1" ; Times: 1
+	Query: "mammalia Tennessee Montgomery" ; Times: 1
+	Query: "Mustela nigripes mappable:1" ; Times: 1
+	Query: "&#34;dasypus&#34; &#34;armadillo&#34; mappable:1" ; Times: 1
+	Query: "genus:Zapus class:Mammalia coordinateuncertaintyinmeters&lt;5000 stateprovince:(Tennessee OR Kentucky)" ; Times: 2
+	Query: "Burk Museum" ; Times: 1
+	Query: "class:Mammalia Coendou prehensilis" ; Times: 1
+	Query: "&#34;Dasypus&#34; &#34;novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "class:Mammalia felidae Leopardus tigrinus" ; Times: 5
+	Query: "&#34;armadillo&#34; &#34;dasypus&#34; mappable:1" ; Times: 2
+	Query: "(Archbold Biological Station)" ; Times: 2
+	Query: "glossophaga morenoi" ; Times: 2
+	Query: "dasypus novemcinctus mappable:1" ; Times: 8
+	Query: "44736" ; Times: 1
+	Query: "Loxodonta africana mappable:1" ; Times: 1
+	Query: "Procyon lotor 1" ; Times: 8
+	Query: "trichechus manatus mappable:1" ; Times: 1
+	Query: "Rattus rattus 1" ; Times: 3
+	Query: "&#34;didelphis&#34; &#34;opossum&#34; mappable:1" ; Times: 3
+	Query: "Rattus norvegicus 1" ; Times: 7
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 291 (out of 811 download events in this period)
+Total number of records downloaded: 16003
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 3
+	Country: Netherlands ; Times: 177
+	Country: Mexico ; Times: 7
+	Country: Costa Rica ; Times: 2
+	Country: United States ; Times: 94
+	Country: United Kingdom ; Times: 1
+	Country: Paraguay ; Times: 1
+	Country: Thailand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 10
+	Date: 2016-09-04 ; Times: 4
+	Date: 2016-09-11 ; Times: 14
+	Date: 2016-09-10 ; Times: 8
+	Date: 2016-09-17 ; Times: 6
+	Date: 2016-09-16 ; Times: 8
+	Date: 2016-09-15 ; Times: 12
+	Date: 2016-09-14 ; Times: 7
+	Date: 2016-09-30 ; Times: 10
+	Date: 2016-09-19 ; Times: 6
+	Date: 2016-09-18 ; Times: 9
+	Date: 2016-09-06 ; Times: 17
+	Date: 2016-09-07 ; Times: 15
+	Date: 2016-09-27 ; Times: 14
+	Date: 2016-09-24 ; Times: 3
+	Date: 2016-09-25 ; Times: 6
+	Date: 2016-09-28 ; Times: 6
+	Date: 2016-09-29 ; Times: 5
+	Date: 2016-09-08 ; Times: 7
+	Date: 2016-09-09 ; Times: 3
+	Date: 2016-09-22 ; Times: 8
+	Date: 2016-09-23 ; Times: 16
+	Date: 2016-09-20 ; Times: 3
+	Date: 2016-09-21 ; Times: 4
+	Date: 2016-09-26 ; Times: 3
+	Date: 2016-09-01 ; Times: 21
+	Date: 2016-09-02 ; Times: 22
+	Date: 2016-09-03 ; Times: 18
+	Date: 2016-09-12 ; Times: 12
+	Date: 2016-09-05 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "molossidae tissue:1" ; Times: 1
+	Query: "shenandoah national Park" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "Spilogale pygmaea" ; Times: 2
+	Query: "class:Mammalia country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "specificepithet:collaris genus:ochotona year:1960" ; Times: 108
+	Query: "order:Rodentia stateprovince:&#34;California&#34;" ; Times: 12
+	Query: "order:Lagomorpha stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Natalus" ; Times: 1
+	Query: "tadpole" ; Times: 1
+	Query: "vulpes macrotis stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Utah&#34;" ; Times: 4
+	Query: "genus:ochotona" ; Times: 2
+	Query: "artibeus jamaicensis" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 120
+	Query: "Dipodomys ingens" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "order:Lagomorpha stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Nevada&#34;" ; Times: 6
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "specificepithet:soricina genus:Glossophaga mappable:1 tissue:1" ; Times: 1
+	Query: "&#34;Mephitis mephitis&#34; mappable:1" ; Times: 2
+	Query: "thailand" ; Times: 2
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Archbold Biological Station type:specimen class:Mammalia AND (NOT AMNH)" ; Times: 1
+	Query: "glossophaga morenoi" ; Times: 1
+	Query: "Lonchorhina aurita" ; Times: 1
+	Query: "Myotis keenii" ; Times: 1
+	Query: "type:specimen country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "tamias amoenus" ; Times: 1
+	Query: "locality:Manantiales country:&#34;argentina&#34;" ; Times: 1
+	Query: "Conepatus leuconotus" ; Times: 1
+	Query: "Zacatecas (Didelphis)" ; Times: 1
+	Query: "order:Lagomorpha stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Idaho&#34;" ; Times: 4
+	Query: "glossophaga soricina" ; Times: 1
+
+
+End of report.
