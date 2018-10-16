@@ -1,0 +1,290 @@
+Report for Institution Code OMNH, Resource mammals
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 311
+Number of records retrieved in searches: 6151
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 6
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 28
+	Country: South Africa ; Times: 2
+	Country: Tunisia ; Times: 4
+	Country: Unknown ; Times: 8
+	Country: Zambia ; Times: 1
+	Country: Mexico ; Times: 21
+	Country: India ; Times: 1
+	Country: France ; Times: 9
+	Country: United States ; Times: 212
+	Country: China ; Times: 3
+	Country: United Kingdom ; Times: 3
+	Country: Colombia ; Times: 4
+	Country: Gambia ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 7
+	Date: 2018-05-29 ; Times: 18
+	Date: 2018-05-20 ; Times: 2
+	Date: 2018-05-21 ; Times: 16
+	Date: 2018-05-22 ; Times: 4
+	Date: 2018-05-23 ; Times: 15
+	Date: 2018-05-24 ; Times: 11
+	Date: 2018-05-25 ; Times: 9
+	Date: 2018-05-26 ; Times: 4
+	Date: 2018-05-27 ; Times: 3
+	Date: 2018-05-06 ; Times: 4
+	Date: 2018-05-07 ; Times: 9
+	Date: 2018-05-04 ; Times: 26
+	Date: 2018-05-05 ; Times: 4
+	Date: 2018-05-02 ; Times: 10
+	Date: 2018-05-03 ; Times: 19
+	Date: 2018-05-01 ; Times: 22
+	Date: 2018-05-08 ; Times: 21
+	Date: 2018-05-09 ; Times: 10
+	Date: 2018-05-31 ; Times: 7
+	Date: 2018-05-30 ; Times: 14
+	Date: 2018-05-15 ; Times: 9
+	Date: 2018-05-14 ; Times: 8
+	Date: 2018-05-17 ; Times: 20
+	Date: 2018-05-16 ; Times: 7
+	Date: 2018-05-11 ; Times: 3
+	Date: 2018-05-10 ; Times: 4
+	Date: 2018-05-13 ; Times: 5
+	Date: 2018-05-12 ; Times: 5
+	Date: 2018-05-19 ; Times: 9
+	Date: 2018-05-18 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "franklin north carolina" ; Times: 1
+	Query: "genus:Taxidea stateprovince:&#34;Tennessee&#34;" ; Times: 3
+	Query: "specificepithet:lupus genus:Canis (dog OR domestic)" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus mappable:1 year&gt;=2000" ; Times: 3
+	Query: "OMNH 39347" ; Times: 1
+	Query: "OMNH 39346" ; Times: 1
+	Query: "OMNH 39348" ; Times: 2
+	Query: "OMNH 6111" ; Times: 1
+	Query: "specificepithet:merriami genus:dipodomys county:&#34;Los angeles&#34;" ; Times: 1
+	Query: "Eschrichtius robustus" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 4
+	Query: "Microtus ochrogaster year &gt;= 2000 hastissue:1" ; Times: 2
+	Query: "specificepithet:transitionalis genus:Sylvilagus mappable:1" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "distance(location,geopoint(46.9340888008072,-95.7192915126383))&lt;56921" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1970 year &lt;= 1979 institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 3
+	Query: "Eumops bonariensis" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "31227" ; Times: 2
+	Query: "entomology" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1980 year &lt;= 1989 institutioncode:OMNH" ; Times: 1
+	Query: "genus:Didelphis stateprovince:&#34;Washington&#34; preparations:skin" ; Times: 1
+	Query: "specificepithet:norvegicus genus:Rattus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "dipodomys phillipsii" ; Times: 1
+	Query: "distance(location,geopoint(38.65875276895,-91.2511227055))&lt;55931" ; Times: 2
+	Query: "little brown bat" ; Times: 1
+	Query: "Dipodomys Washoe county" ; Times: 3
+	Query: "delomys" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1950 year &lt;= 1959 institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:javanicus genus:Herpestes mappable:1" ; Times: 1
+	Query: "specificepithet:longirostris genus:Sorex stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus county:&#34;cherry&#34; stateprovince:&#34;nebraska&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "rmb 1035" ; Times: 2
+	Query: "Brazilian free-tailed bat" ; Times: 1
+	Query: "distance(location,geopoint(37.0321005105,-94.028136968))&lt;35289" ; Times: 1
+	Query: "gaur" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 2010 year &lt;= 2018" ; Times: 1
+	Query: "jaculus jaculus" ; Times: 1
+	Query: "genus:myodes stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 2000 year &lt;= 2009" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Dogs" ; Times: 1
+	Query: "tricolored bat" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 2000 year &lt;= 2009 institutioncode:OMNH" ; Times: 1
+	Query: "36458" ; Times: 1
+	Query: "chaetophractus" ; Times: 1
+	Query: "genus:dipodomys catalognumber:47562" ; Times: 2
+	Query: "specificepithet:nasua genus:Nasua mappable:1" ; Times: 1
+	Query: "vampire" ; Times: 3
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "distance(location,geopoint(42.7557685876957,-90.935819783))&lt;18209" ; Times: 2
+	Query: "Microtus pinetorum year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "distance(location,geopoint(43.055277491,-91.1196036430418))&lt;22343" ; Times: 2
+	Query: "specificepithet:vison genus:Neovison mappable:1 year&gt;=2000" ; Times: 1
+	Query: "coyote hills" ; Times: 2
+	Query: "specificepithet:lupus genus:Canis (dog OR domestic) institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis hastissue:1" ; Times: 1
+	Query: "big brown bat" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "class:Mammalia locality:Chattanooga stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "tabasco" ; Times: 3
+	Query: "specificepithet:coypus genus:Myocastor mappable:1 year&gt;=2000" ; Times: 1
+	Query: "37232" ; Times: 1
+	Query: "ALOE" ; Times: 1
+	Query: "OMNH 6111 hastissue:1" ; Times: 1
+	Query: "aardvark" ; Times: 1
+	Query: "specificepithet:polionotus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1990 year &lt;= 1999 institutioncode:OMNH" ; Times: 1
+	Query: "solomon islands OMNH" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;oklahoma&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:nippon genus:Cervus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "omnh 6111" ; Times: 2
+	Query: "AL 3054" ; Times: 1
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 2
+	Query: "Eira barbara" ; Times: 1
+	Query: "Myotis chiloensis" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Yancey&#34; stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "distance(location,geopoint(38.577664207733,-91.2675336119972))&lt;64555" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "OMNH 45364" ; Times: 2
+	Query: "bats" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "specificepithet:obscurus genus:Sylvilagus stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "stateprovince:&#34;San Luis Potosi&#34; year &gt;= 1969 year &lt;= 1970" ; Times: 2
+	Query: "Aonyx cinereus" ; Times: 1
+	Query: "distance(location,geopoint(43.4623053706115,-89.3701269216162))&lt;38648" ; Times: 1
+	Query: "Procyon lotor" ; Times: 3
+	Query: "specificepithet:elator genus:Dipodomys" ; Times: 2
+	Query: "Gracilinanus" ; Times: 1
+	Query: "Enchisthenes hartii" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Ateles fusciceps" ; Times: 3
+	Query: "Bassariscus" ; Times: 1
+	Query: "specificepithet:aegyptiacus genus:Rousettus mappable:1" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "Euphractus sexcinctus" ; Times: 4
+	Query: "vntype:specimen specificepithet:frenata genus:Mustela lengthtype:total length" ; Times: 1
+	Query: "specificepithet:coypus genus:Myocastor mappable:1" ; Times: 1
+	Query: "mustela nigripes" ; Times: 72
+	Query: "Myotis chiloensis OMNH" ; Times: 1
+	Query: "OMNH Myotis keaysi" ; Times: 1
+	Query: "brown bear" ; Times: 2
+	Query: "27634" ; Times: 1
+	Query: "catalognumber:6490 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Lonchorhina aurita" ; Times: 1
+	Query: "44963" ; Times: 1
+	Query: "mammals of walla walla county" ; Times: 1
+	Query: "brucepattersonius" ; Times: 1
+	Query: "north american porcupine" ; Times: 1
+	Query: "dipodomys gravipes" ; Times: 1
+	Query: "Louisiana black bear" ; Times: 1
+	Query: "mule deer" ; Times: 1
+	Query: "western red colobus" ; Times: 1
+	Query: "OMNH 16504" ; Times: 2
+	Query: "nanger dama" ; Times: 2
+	Query: "perimyotis subflavus" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "fannin" ; Times: 1
+	Query: "specificepithet:nippon genus:Cervus mappable:1" ; Times: 6
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Union&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "catalognumber:9219" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Beaver&#34; stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34; continent:North America mappable:1 hastissue:1" ; Times: 1
+	Query: "Sylvilagus aquaticus" ; Times: 1
+	Query: "catalognumber:47562" ; Times: 1
+	Query: "56785" ; Times: 1
+	Query: "62245" ; Times: 1
+	Query: "locality:Chattanooga stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:gossypinus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 10
+	Query: "35076" ; Times: 1
+	Query: "Jaculus jaculus" ; Times: 1
+	Query: "capybara" ; Times: 1
+	Query: "Lasiurus borealis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "24432" ; Times: 1
+	Query: "10048 Myotis" ; Times: 1
+	Query: "county:&#34;Willacy&#34;" ; Times: 1
+	Query: "free-tailed bat vntype:specimen" ; Times: 3
+	Query: "vntype:specimen specificepithet:frenata genus:mustela haslength:1" ; Times: 1
+	Query: "specificepithet:capensis genus:Lepus mappable:1" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1960 year &lt;= 1969 institutioncode:OMNH" ; Times: 1
+	Query: "Geomys pinetis" ; Times: 3
+	Query: "Paraechinus aethiopicus" ; Times: 4
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "Musonycteris harrisoni" ; Times: 1
+	Query: "eastern red bat" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "39454" ; Times: 1
+	Query: "Speothos venaticus" ; Times: 1
+	Query: "50785" ; Times: 2
+	Query: "genus:Taxidea stateprovince:&#34;TEnnessee&#34;" ; Times: 3
+	Query: "Zaedyus pichiy" ; Times: 6
+	Query: "armadillo" ; Times: 2
+	Query: "genus:Cynomys stateprovince:&#34;Oklahoma&#34; year &gt;= 1860 year &lt;= 1920" ; Times: 1
+	Query: "hastissue:1 myotis septentrionalis" ; Times: 2
+	Query: "Thalpomys" ; Times: 2
+	Query: "genus:Didelphis catalognumber:26635 institutioncode:OMNH" ; Times: 1
+	Query: "nycticeius humeralis stateprovince:&#34;Texas&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 1178 download events in this period)
+Total number of records downloaded: 12762
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Tunisia ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 12
+	Country: Germany ; Times: 4
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 2
+	Date: 2018-05-07 ; Times: 4
+	Date: 2018-05-04 ; Times: 1
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-11 ; Times: 2
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-14 ; Times: 2
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-18 ; Times: 2
+	Date: 2018-05-29 ; Times: 1
+	Date: 2018-05-28 ; Times: 2
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-23 ; Times: 1
+	Date: 2018-05-25 ; Times: 1
+	Date: 2018-05-31 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 1
+	Query: "class:Mammalia country:&#34;Colombia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "chiroptera mexico" ; Times: 2
+	Query: "dipodomys phillipsii" ; Times: 1
+	Query: "delomys" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "african Elephant" ; Times: 3
+	Query: "Macropus robustus" ; Times: 1
+	Query: "class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "Paraechinus aethiopicus" ; Times: 1
+	Query: "specificepithet:merriami genus:dipodomys county:&#34;Los angeles&#34;" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "specificepithet:nelsoni genus:chaetodipus" ; Times: 1
+	Query: "callitrichidae" ; Times: 1
+	Query: "free-tailed bat vntype:specimen" ; Times: 1
+	Query: "vntype:specimen (Microtus ) year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "genus:Didelphis stateprovince:&#34;Washington&#34; preparations:skin" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis hastissue:1" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "macropus rufus" ; Times: 1
+	Query: "Jaculus jaculus" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+
+
+End of report.
