@@ -1,0 +1,361 @@
+Report for Institution Code OMNH, Resource mammals
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 360
+Number of records retrieved in searches: 3329
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 6
+	Country: Netherlands ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 53
+	Country: Tunisia ; Times: 1
+	Country: Gambia ; Times: 2
+	Country: Finland ; Times: 2
+	Country: India ; Times: 7
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 5
+	Country: Ecuador ; Times: 7
+	Country: Chile ; Times: 1
+	Country: Unknown ; Times: 9
+	Country: Denmark ; Times: 4
+	Country: Germany ; Times: 5
+	Country: Argentina ; Times: 2
+	Country: United States ; Times: 241
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 42
+	Date: 2018-06-06 ; Times: 28
+	Date: 2018-06-05 ; Times: 16
+	Date: 2018-06-04 ; Times: 19
+	Date: 2018-06-29 ; Times: 19
+	Date: 2018-06-02 ; Times: 5
+	Date: 2018-06-01 ; Times: 12
+	Date: 2018-06-25 ; Times: 13
+	Date: 2018-06-24 ; Times: 4
+	Date: 2018-06-27 ; Times: 12
+	Date: 2018-06-26 ; Times: 5
+	Date: 2018-06-21 ; Times: 6
+	Date: 2018-06-20 ; Times: 7
+	Date: 2018-06-23 ; Times: 6
+	Date: 2018-06-22 ; Times: 7
+	Date: 2018-06-09 ; Times: 3
+	Date: 2018-06-08 ; Times: 26
+	Date: 2018-06-10 ; Times: 2
+	Date: 2018-06-11 ; Times: 10
+	Date: 2018-06-12 ; Times: 27
+	Date: 2018-06-13 ; Times: 15
+	Date: 2018-06-14 ; Times: 6
+	Date: 2018-06-15 ; Times: 4
+	Date: 2018-06-16 ; Times: 3
+	Date: 2018-06-17 ; Times: 8
+	Date: 2018-06-18 ; Times: 4
+	Date: 2018-06-19 ; Times: 24
+	Date: 2018-06-30 ; Times: 4
+	Date: 2018-06-03 ; Times: 4
+	Date: 2018-06-28 ; Times: 19
+
+List of queries that retrieved data from the resource: 
+	Query: "Nyctinomops aurispinosus" ; Times: 1
+	Query: "genus:Lemur" ; Times: 1
+	Query: "hippotragus niger variani" ; Times: 3
+	Query: "genus:noctilio stateprovince:&#34;oaxaca&#34;" ; Times: 1
+	Query: "65362" ; Times: 1
+	Query: "eastern spotted skunk" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "nutria" ; Times: 1
+	Query: "coyote new mexico" ; Times: 2
+	Query: "genus:euphractus" ; Times: 2
+	Query: "specificepithet:cockrumi genus:notiosorex" ; Times: 2
+	Query: "sorex hoyi" ; Times: 1
+	Query: "Red Panda" ; Times: 1
+	Query: "11605" ; Times: 1
+	Query: "catalognumber:33306" ; Times: 1
+	Query: "Canis latrans new mexico Union County" ; Times: 1
+	Query: "Musonycteris harrisoni" ; Times: 1
+	Query: "specificepithet:leucodon genus:Neotoma hastissue:1" ; Times: 1
+	Query: "Eschrichtius robustus" ; Times: 3
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "cougar" ; Times: 2
+	Query: "Canis latrans new mexico Socorro County" ; Times: 1
+	Query: "Corynorhinus mexicanus" ; Times: 1
+	Query: "catalognumber:16943" ; Times: 1
+	Query: "Gray Wolf" ; Times: 2
+	Query: "county:&#34;Stark&#34; stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "Glossophaga morenoi" ; Times: 1
+	Query: "49503" ; Times: 1
+	Query: "Black bear" ; Times: 1
+	Query: "gray whale" ; Times: 1
+	Query: "neotoma magister" ; Times: 1
+	Query: "16262" ; Times: 1
+	Query: "Canis latrans new mexico McKinley County" ; Times: 1
+	Query: "52549" ; Times: 1
+	Query: "kangaroo rat" ; Times: 3
+	Query: "tremarctos ornatus" ; Times: 4
+	Query: "vntype:specimen genus:euphractus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Conepatus leuconotus" ; Times: 2
+	Query: "Gray wolf continent:North America" ; Times: 1
+	Query: "lemming" ; Times: 2
+	Query: "ega Colima" ; Times: 1
+	Query: "Ateles fusciceps" ; Times: 2
+	Query: "Gracilinanus agilis" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1920 year &lt;= 1929 institutioncode:OMNH" ; Times: 1
+	Query: "Rhododendron" ; Times: 1
+	Query: "family:Lemuridae institutioncode:OMNH" ; Times: 8
+	Query: "dipodomys phillipsii" ; Times: 1
+	Query: "specificepithet:Latrans genus:Canis year &gt;= 1990 year &lt;= 2000" ; Times: 1
+	Query: "lycalopex culpaeus" ; Times: 1
+	Query: "snow leopard" ; Times: 11
+	Query: "megasorex" ; Times: 3
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1910 year &lt;= 1919 institutioncode:OMNH" ; Times: 2
+	Query: "Natalus lanatus" ; Times: 1
+	Query: "red panda" ; Times: 3
+	Query: "vampire" ; Times: 5
+	Query: "wolverine" ; Times: 1
+	Query: "59971" ; Times: 1
+	Query: "catalognumber:5788" ; Times: 1
+	Query: "Lama guanicoe" ; Times: 1
+	Query: "tlacuatzin canescens" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "white tail deer" ; Times: 1
+	Query: "catalognumber:29294" ; Times: 2
+	Query: "xanthinus Colima" ; Times: 2
+	Query: "36384`1" ; Times: 1
+	Query: "specificepithet:leporinus genus:Noctilio country:&#34;Mexico&#34;" ; Times: 2
+	Query: "western red colobus skeleton" ; Times: 1
+	Query: "genus:neofelis" ; Times: 3
+	Query: "Dinomys branickii" ; Times: 2
+	Query: "Myotis fortidens" ; Times: 1
+	Query: "Aardwolf" ; Times: 1
+	Query: "Gray wolf" ; Times: 1
+	Query: "pika" ; Times: 4
+	Query: "beavers" ; Times: 2
+	Query: "The Eastern Gray Squirrel" ; Times: 1
+	Query: "black bear" ; Times: 6
+	Query: "OMNH 34545" ; Times: 2
+	Query: "21294" ; Times: 1
+	Query: "Notocitellus annulatus" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "Paraechinus aethiopicus" ; Times: 1
+	Query: "meerkat" ; Times: 1
+	Query: "sloth" ; Times: 5
+	Query: "urocyon cinereoargenteus mexico" ; Times: 1
+	Query: "Sylvilagus obscurus" ; Times: 1
+	Query: "Sylvilagus cunicularis" ; Times: 1
+	Query: "peromyscus perfulvus" ; Times: 1
+	Query: "genus:peromyscus county:&#34;boulder&#34; stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "19696" ; Times: 1
+	Query: "vntype:specimen specificepithet:tatarica genus:Saiga" ; Times: 1
+	Query: "ocelot" ; Times: 2
+	Query: "bobcat" ; Times: 7
+	Query: "&#34;*Urocitellus columbianus&#34;" ; Times: 1
+	Query: "Omnh glaucomys volans" ; Times: 1
+	Query: "16088 vntype:specimen" ; Times: 1
+	Query: "Omnh 53009" ; Times: 1
+	Query: "catalognumber:13728" ; Times: 1
+	Query: "omnh 46152" ; Times: 1
+	Query: "64939" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 5
+	Query: "mustela nigripes" ; Times: 68
+	Query: "Pika" ; Times: 1
+	Query: "OMNH 23496" ; Times: 2
+	Query: "porch" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "brown bear" ; Times: 1
+	Query: "15540" ; Times: 1
+	Query: "dipodomys ingens" ; Times: 1
+	Query: "59215" ; Times: 1
+	Query: "dasypus novemcinctus mexico" ; Times: 2
+	Query: "Spilogale pygmaea" ; Times: 2
+	Query: "osgoodomys" ; Times: 1
+	Query: "Noctilio leporinus" ; Times: 3
+	Query: "specificepithet:keaysi genus:Myotis hastissue:1" ; Times: 2
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1930 year &lt;= 1939 institutioncode:OMNH" ; Times: 2
+	Query: "Siphonaptera" ; Times: 9
+	Query: "Bobcat" ; Times: 2
+	Query: "Rhogeessa parvula" ; Times: 3
+	Query: "black-tailed prairie dog" ; Times: 1
+	Query: "genus:hodomys hastissue:1" ; Times: 3
+	Query: "dwh 17" ; Times: 1
+	Query: "gray wolf" ; Times: 3
+	Query: "western red colobus" ; Times: 1
+	Query: "42139-1" ; Times: 1
+	Query: "marmot" ; Times: 4
+	Query: "Cougar" ; Times: 1
+	Query: "sloth bear" ; Times: 3
+	Query: "western squirrel" ; Times: 1
+	Query: "catalognumber:50355" ; Times: 1
+	Query: "Puma concolor" ; Times: 4
+	Query: "Choeronycteris mexicana" ; Times: 1
+	Query: "rhogeessa parvula" ; Times: 2
+	Query: "56785" ; Times: 1
+	Query: "Sam Noble Museum University of Oklahoma" ; Times: 1
+	Query: "Pangolin" ; Times: 1
+	Query: "50785" ; Times: 1
+	Query: "28940" ; Times: 1
+	Query: "silver-haired bat" ; Times: 1
+	Query: "31224" ; Times: 1
+	Query: "niger variani" ; Times: 3
+	Query: "39043" ; Times: 3
+	Query: "39047" ; Times: 1
+	Query: "50623" ; Times: 4
+	Query: "wild boar" ; Times: 1
+	Query: "specificepithet:Latrans genus:Canis country:&#34;Mexico&#34; year &gt;= 1990 year &lt;= 2000" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "64465" ; Times: 1
+	Query: "eira barbara" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "Leptonycteris yerbabuenae" ; Times: 1
+	Query: "flying squirrel" ; Times: 3
+	Query: "spotted hyena" ; Times: 1
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "megasorex gigas" ; Times: 3
+	Query: "Glyphonycteris sylvestris" ; Times: 1
+	Query: "catalognumber:18721" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 2
+	Query: "Marmot" ; Times: 3
+	Query: "specificepithet:leucodon genus:Neotoma" ; Times: 2
+	Query: "gaur" ; Times: 1
+	Query: "Cavia aperea" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 3
+	Query: "eastern grey squirrel" ; Times: 1
+	Query: "Black Bear" ; Times: 1
+	Query: "prairie rat hastissue:1" ; Times: 1
+	Query: "armadillo" ; Times: 1
+	Query: "handleyomys rostratus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 113 (out of 1169 download events in this period)
+Total number of records downloaded: 12314
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Mexico ; Times: 25
+	Country: United States ; Times: 70
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 3
+	Country: Ecuador ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 25
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-06 ; Times: 7
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-05 ; Times: 9
+	Date: 2018-06-13 ; Times: 3
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-11 ; Times: 2
+	Date: 2018-06-12 ; Times: 3
+	Date: 2018-06-04 ; Times: 6
+	Date: 2018-06-29 ; Times: 2
+	Date: 2018-06-09 ; Times: 3
+	Date: 2018-06-01 ; Times: 10
+	Date: 2018-06-17 ; Times: 3
+	Date: 2018-06-18 ; Times: 3
+	Date: 2018-06-19 ; Times: 12
+	Date: 2018-06-27 ; Times: 2
+	Date: 2018-06-20 ; Times: 2
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-08 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "Nyctinomops aurispinosus" ; Times: 1
+	Query: "sloth" ; Times: 4
+	Query: "gray wolf" ; Times: 2
+	Query: "Canis latrans new mexico" ; Times: 1
+	Query: "specificepithet:leucodon genus:Neotoma hastissue:1" ; Times: 1
+	Query: "peromyscus perfulvus" ; Times: 1
+	Query: "Alouatta belzebul" ; Times: 1
+	Query: "Ursus arctos horribilis" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "tayassu pecari pecari" ; Times: 3
+	Query: "Cougar" ; Times: 1
+	Query: "coyote new mexico" ; Times: 1
+	Query: "lemming" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "Notocitellus annulatus" ; Times: 1
+	Query: "bobcat" ; Times: 1
+	Query: "eastern grey squirrel" ; Times: 1
+	Query: "osgoodomys" ; Times: 1
+	Query: "panda" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Lynx" ; Times: 1
+	Query: "African elephant" ; Times: 1
+	Query: "red panda" ; Times: 3
+	Query: "hyena" ; Times: 1
+	Query: "chihuahua" ; Times: 2
+	Query: "Pongo pygmaeus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 2
+	Query: "red fox" ; Times: 1
+	Query: "frog" ; Times: 1
+	Query: "barn owl" ; Times: 1
+	Query: "wolverine" ; Times: 1
+	Query: "cougar" ; Times: 2
+	Query: "The Eastern Gray Squirrel" ; Times: 1
+	Query: "vntype:specimen specificepithet:concolor genus:puma" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "Corynorhinus mexicanus" ; Times: 1
+	Query: "Natalus lanatus" ; Times: 2
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "sugar glider" ; Times: 1
+	Query: "Neacomys spinosus" ; Times: 1
+	Query: "black bear" ; Times: 4
+	Query: "meerkat" ; Times: 1
+	Query: "tlacuatzin canescens" ; Times: 1
+	Query: "&#34;*Urocitellus columbianus&#34;" ; Times: 1
+	Query: "Pika" ; Times: 1
+	Query: "Glossophaga morenoi" ; Times: 1
+	Query: "Marmosa murina" ; Times: 1
+	Query: "alces alces" ; Times: 1
+	Query: "Sciurus colliaei" ; Times: 1
+	Query: "american bison" ; Times: 1
+	Query: "white tail deer" ; Times: 1
+	Query: "antilocapra" ; Times: 1
+	Query: "Gracilinanus agilis" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "Peromyscus spicilegus" ; Times: 1
+	Query: "armadillo" ; Times: 1
+	Query: "oregon" ; Times: 1
+	Query: "American Beaver" ; Times: 4
+	Query: "Bobcat" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "kangaroo rat" ; Times: 1
+	Query: "genus:blarina stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "Myotis fortidens" ; Times: 1
+	Query: "Glyphonycteris sylvestris" ; Times: 1
+	Query: "order:CHIROPTERA stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "pika" ; Times: 2
+	Query: "vntype:specimen specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "beavers" ; Times: 1
+	Query: "Giraffa camelopardalis camelopardalis" ; Times: 1
+	Query: "Gray wolf continent:North America" ; Times: 1
+	Query: "snow leopard" ; Times: 3
+	Query: "dipodomys phillipsii" ; Times: 1
+	Query: "Cavia aperea" ; Times: 1
+	Query: "african Elephant" ; Times: 1
+	Query: "Nyctinomops" ; Times: 1
+	Query: "Cebus albifrons" ; Times: 2
+	Query: "prairie rat hastissue:1" ; Times: 1
+	Query: "Spilogale pygmaea" ; Times: 2
+	Query: "hodomys alleni" ; Times: 1
+	Query: "dasypus novemcinctus mexico" ; Times: 1
+	Query: "Rhogeessa parvula" ; Times: 3
+	Query: "Microtus" ; Times: 1
+	Query: "genus:hodomys hastissue:1" ; Times: 1
+	Query: "flying squirrel" ; Times: 3
+
+
+End of report.
