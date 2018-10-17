@@ -1,0 +1,311 @@
+Report for Institution Code OMNH, Resource mammals
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 398
+Number of records retrieved in searches: 2864
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 15
+	Country: United States ; Times: 248
+	Country: Israel ; Times: 9
+	Country: Australia ; Times: 3
+	Country: Peru ; Times: 4
+	Country: Colombia ; Times: 34
+	Country: Mexico ; Times: 29
+	Country: Russia ; Times: 4
+	Country: Unknown ; Times: 4
+	Country: South Africa ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: Chile ; Times: 15
+	Country: Denmark ; Times: 6
+	Country: Sri Lanka ; Times: 13
+	Country: Argentina ; Times: 4
+	Country: New Zealand ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 21
+	Date: 2018-08-31 ; Times: 6
+	Date: 2018-08-18 ; Times: 5
+	Date: 2018-08-19 ; Times: 2
+	Date: 2018-08-16 ; Times: 11
+	Date: 2018-08-23 ; Times: 13
+	Date: 2018-08-14 ; Times: 15
+	Date: 2018-08-15 ; Times: 3
+	Date: 2018-08-12 ; Times: 2
+	Date: 2018-08-13 ; Times: 15
+	Date: 2018-08-10 ; Times: 10
+	Date: 2018-08-11 ; Times: 4
+	Date: 2018-08-02 ; Times: 7
+	Date: 2018-08-08 ; Times: 8
+	Date: 2018-08-03 ; Times: 3
+	Date: 2018-08-17 ; Times: 8
+	Date: 2018-08-27 ; Times: 10
+	Date: 2018-08-26 ; Times: 6
+	Date: 2018-08-25 ; Times: 12
+	Date: 2018-08-24 ; Times: 22
+	Date: 2018-08-09 ; Times: 30
+	Date: 2018-08-22 ; Times: 16
+	Date: 2018-08-21 ; Times: 18
+	Date: 2018-08-20 ; Times: 40
+	Date: 2018-08-05 ; Times: 7
+	Date: 2018-08-04 ; Times: 3
+	Date: 2018-08-07 ; Times: 11
+	Date: 2018-08-06 ; Times: 15
+	Date: 2018-08-01 ; Times: 30
+	Date: 2018-08-29 ; Times: 21
+	Date: 2018-08-28 ; Times: 24
+
+List of queries that retrieved data from the resource: 
+	Query: "35547" ; Times: 1
+	Query: "genus:Erethizon specificepithet:dorsatum" ; Times: 2
+	Query: "spilogale pygmaea" ; Times: 2
+	Query: "11363" ; Times: 2
+	Query: "10699" ; Times: 1
+	Query: "Peromyscus polionotus niveiventris" ; Times: 3
+	Query: "49831" ; Times: 1
+	Query: "Dipodomys gravipes" ; Times: 1
+	Query: "24493" ; Times: 1
+	Query: "parastrellus hesperus" ; Times: 1
+	Query: "genus:Lepus  specificepithet:americanus" ; Times: 1
+	Query: "genus:zaedyus preparations:skeleton" ; Times: 2
+	Query: "21408" ; Times: 1
+	Query: "Monodelphis brevicaudata" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "lincoln national forest order:chiroptera" ; Times: 2
+	Query: "Stock stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "51957" ; Times: 1
+	Query: "T-1484" ; Times: 1
+	Query: "specificepithet:compactus genus:Dipodomys" ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(30.72898176230783,-97.11781719792259))&lt;467941.1417995581" ; Times: 1
+	Query: "jaguarundi" ; Times: 2
+	Query: "Rangifer tarandus mappable:1" ; Times: 4
+	Query: "34645" ; Times: 1
+	Query: "30046" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Oklahoma&#34;" ; Times: 3
+	Query: "family:Sciuridae county:&#34;Cleveland&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "25211" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 2
+	Query: "registros" ; Times: 1
+	Query: "61905" ; Times: 2
+	Query: "lama guanicoe" ; Times: 2
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(33.3730985540974,-79.01234844792259))&lt;295070.55051211215" ; Times: 1
+	Query: "dipodomys compactus" ; Times: 3
+	Query: "25891" ; Times: 1
+	Query: "57648" ; Times: 1
+	Query: "dipodomys phillipsii" ; Times: 2
+	Query: "Ara" ; Times: 2
+	Query: "11472" ; Times: 1
+	Query: "delomys" ; Times: 6
+	Query: "family:Felidae continent:America year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "(Cabassous OR Panthera) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 3
+	Query: "rats" ; Times: 1
+	Query: "catalognumber:46769" ; Times: 1
+	Query: "jk 04-367" ; Times: 2
+	Query: "26688" ; Times: 1
+	Query: "60030" ; Times: 1
+	Query: "Caluromys philander" ; Times: 1
+	Query: "Puma concolor " ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "andinomys" ; Times: 1
+	Query: "Lutreolina crassicaudata" ; Times: 1
+	Query: "specificepithet:pinetorum genus:Microtus hastissue:1" ; Times: 6
+	Query: "vampire" ; Times: 2
+	Query: "stateprovince:&#34;Alaska&#34; institutioncode:OMNH" ; Times: 1
+	Query: "parastrellus hesperus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "european rabbit" ; Times: 2
+	Query: "30447" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 2
+	Query: "Dromiciops gliroides Argentina" ; Times: 14
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(33.15262612841528,-78.30922344792259))&lt;467941.1417995581" ; Times: 1
+	Query: "13900" ; Times: 1
+	Query: "class:Mammalia (Cabassous OR Panthera OR Ateles) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:borealis genus:Lasiurus basisofrecord:PreservedSpecimen distance(location,geopoint(32.99155446632539,-81.99845848625426))&lt;100000" ; Times: 1
+	Query: "Microtus ochrogaster Nebraska" ; Times: 1
+	Query: "catalognumber:46142 institutioncode:OMNH" ; Times: 1
+	Query: "Felis catus" ; Times: 2
+	Query: "stateprovince:&#34;Alaska&#34; collectioncode:Mammals institutioncode:OMNH" ; Times: 3
+	Query: "Didelphis albiventris" ; Times: 2
+	Query: "teeth oklahoma" ; Times: 1
+	Query: "26380" ; Times: 1
+	Query: "33004" ; Times: 1
+	Query: "specificepithet:polionotus genus:peromyscus (phasma)" ; Times: 3
+	Query: "11297" ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(39.889835259232534,-83.49477032292259))&lt;467941.1417995581" ; Times: 1
+	Query: "specificepithet:merriami genus:Sorex stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "sloth" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "felis catus" ; Times: 3
+	Query: "Caluromysiops irrupta" ; Times: 1
+	Query: "specificepithet:curtatus genus:lemmiscus stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "class:Mammalia (Cabassous OR Panthera OR (Ateles AND belzebuth)) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon stateprovince:&#34;New Mexico&#34; preparations:skull" ; Times: 1
+	Query: "santa catalina island class:mammalia" ; Times: 3
+	Query: "major county oklahoma" ; Times: 2
+	Query: "Orthogeomys" ; Times: 2
+	Query: "39306" ; Times: 1
+	Query: "county:&#34;humboldt&#34; year &gt;= 1996 year &lt;= 1996" ; Times: 1
+	Query: "specificepithet:aureogaster genus:Sciurus country:&#34;Mexico&#34;" ; Times: 2
+	Query: "procyon cancrivorus" ; Times: 1
+	Query: "T 1484" ; Times: 1
+	Query: "genus:peromyscus catalognumber:10760" ; Times: 1
+	Query: "24921" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 21
+	Query: "mustela nigripes" ; Times: 98
+	Query: "class:Mammalia (Cabassous OR Panthera OR (Ateles AND chamek)) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "24949" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Oklahoma&#34; year &gt;= 2008 year &lt;= 2018" ; Times: 1
+	Query: "32613" ; Times: 2
+	Query: "specificepithet:maritimus genus:ursus" ; Times: 1
+	Query: "15862" ; Times: 2
+	Query: "Saguinus imperator" ; Times: 2
+	Query: "catalognumber:51160" ; Times: 1
+	Query: "Red Fox skeleton" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(33.3730985540974,-79.01234844792259))&lt;467941" ; Times: 1
+	Query: "60257" ; Times: 2
+	Query: "59754" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 3
+	Query: "omnh 40167" ; Times: 1
+	Query: "least weasel" ; Times: 4
+	Query: "Conepatus leuconotus" ; Times: 1
+	Query: "brucepattersonius" ; Times: 1
+	Query: "27449" ; Times: 1
+	Query: "specificepithet:ochrognathus genus:Sigmodon stateprovince:&#34;New Mexico&#34;" ; Times: 7
+	Query: "lycalopex culpaeus" ; Times: 4
+	Query: "dipodomys elator" ; Times: 1
+	Query: "specificepithet:aureogaster genus:Sciurus" ; Times: 1
+	Query: "Procyon cancrivorus" ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(33.84887414485713,-80.72621563542259))&lt;295070.55051211215" ; Times: 1
+	Query: "48541" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "coendou prehensilis" ; Times: 1
+	Query: "erythromos" ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(32.89470627391204,-80.46254376042259))&lt;295071" ; Times: 1
+	Query: "parastrellus hesperus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 1
+	Query: "Capreolus capreolus" ; Times: 1
+	Query: "specificepithet:yagouaroundi" ; Times: 1
+	Query: "32593" ; Times: 7
+	Query: "specificepithet:magellanicus order:chiroptera" ; Times: 1
+	Query: "Puma concolor" ; Times: 21
+	Query: "catalognumber:16759" ; Times: 1
+	Query: "specificepithet:elator genus:Dipodomys" ; Times: 1
+	Query: "Peromyscus polionotus phasma" ; Times: 3
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "calomys lepidus" ; Times: 2
+	Query: "25004" ; Times: 1
+	Query: "13171" ; Times: 2
+	Query: "Canis lupus familiaris" ; Times: 1
+	Query: "41411" ; Times: 1
+	Query: "35625" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "specificepithet:ochrognathus genus:sigmodon stateprovince:&#34;new mexico&#34;" ; Times: 5
+	Query: "calomys callosus" ; Times: 1
+	Query: "specificepithet:minimus genus:Tamias stateprovince:&#34;Wyoming&#34;" ; Times: 4
+	Query: "little brown bat" ; Times: 1
+	Query: "saguinus imperator" ; Times: 1
+	Query: "specificepithet:hispidus genus:sigmodon county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "genus:Spermophilus specificepithet:sp." ; Times: 3
+	Query: "26582" ; Times: 1
+	Query: "12116" ; Times: 1
+	Query: "western pipistrelle" ; Times: 1
+	Query: "tapirus bairdii" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "Lutreolina" ; Times: 1
+	Query: "13353" ; Times: 1
+	Query: "43649" ; Times: 1
+	Query: "22213" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 1416 download events in this period)
+Total number of records downloaded: 9802
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 18
+	Country: Australia ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 16
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Chile ; Times: 2
+	Country: Colombia ; Times: 8
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-27 ; Times: 1
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-12 ; Times: 1
+	Date: 2018-08-19 ; Times: 1
+	Date: 2018-08-30 ; Times: 3
+	Date: 2018-08-31 ; Times: 1
+	Date: 2018-08-24 ; Times: 4
+	Date: 2018-08-09 ; Times: 8
+	Date: 2018-08-22 ; Times: 2
+	Date: 2018-08-20 ; Times: 6
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-23 ; Times: 7
+	Date: 2018-08-14 ; Times: 2
+	Date: 2018-08-06 ; Times: 4
+	Date: 2018-08-01 ; Times: 4
+	Date: 2018-08-13 ; Times: 2
+	Date: 2018-08-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "felis catus" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "coendou prehensilis" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "Peromyscus polionotus niveiventris" ; Times: 2
+	Query: "stateprovince:&#34;Alaska&#34; collectioncode:Mammals institutioncode:OMNH" ; Times: 1
+	Query: "Procyon cancrivorus" ; Times: 1
+	Query: "Capreolus capreolus" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "saimiri sciureus" ; Times: 1
+	Query: "Peromyscus polionotus phasma" ; Times: 2
+	Query: "Ara" ; Times: 2
+	Query: "lasiurus ega" ; Times: 1
+	Query: "dipodomys agilis" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 2
+	Query: "calomys lepidus" ; Times: 1
+	Query: "country:&#34;Peru&#34;" ; Times: 1
+	Query: "puma concolor" ; Times: 4
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(30.72898176230783,-97.11781719792259))&lt;467941.1417995581" ; Times: 2
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(33.15262612841528,-78.30922344792259))&lt;467941.1417995581" ; Times: 2
+	Query: "order:Chiroptera country:&#34;Mexico&#34;" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Oklahoma&#34; year &gt;= 2008 year &lt;= 2018" ; Times: 1
+	Query: "oreotragus" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "family:Sciuridae county:&#34;Cleveland&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:minimus genus:Tamias stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Sigmodon fulviventer" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "myotis auriculus" ; Times: 1
+	Query: "mammals of india" ; Times: 1
+	Query: "dipodomys phillipsii" ; Times: 1
+	Query: "ursus arctos" ; Times: 1
+	Query: "dipodomys elator" ; Times: 1
+	Query: "oaxaca" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "delomys" ; Times: 1
+	Query: "Dromiciops gliroides" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 1
+
+
+End of report.
