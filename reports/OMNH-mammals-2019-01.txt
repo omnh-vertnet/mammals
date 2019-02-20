@@ -1,0 +1,454 @@
+Report for Institution Code OMNH, Resource mammals
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 571
+Number of records retrieved in searches: 4889
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 16
+	Country: Canada ; Times: 6
+	Country: Netherlands ; Times: 13
+	Country: Iran ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 32
+	Country: Unknown ; Times: 2
+	Country: Turkey ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Sweden ; Times: 2
+	Country: Chile ; Times: 12
+	Country: Germany ; Times: 1
+	Country: Ecuador ; Times: 23
+	Country: Peru ; Times: 1
+	Country: Belgium ; Times: 5
+	Country: Honduras ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: United States ; Times: 443
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 136
+	Date: 2019-01-23 ; Times: 11
+	Date: 2019-01-26 ; Times: 12
+	Date: 2019-01-18 ; Times: 7
+	Date: 2019-01-19 ; Times: 9
+	Date: 2019-01-14 ; Times: 8
+	Date: 2019-01-15 ; Times: 14
+	Date: 2019-01-30 ; Times: 92
+	Date: 2019-01-17 ; Times: 10
+	Date: 2019-01-10 ; Times: 7
+	Date: 2019-01-11 ; Times: 8
+	Date: 2019-01-12 ; Times: 1
+	Date: 2019-01-13 ; Times: 5
+	Date: 2019-01-03 ; Times: 14
+	Date: 2019-01-02 ; Times: 1
+	Date: 2019-01-29 ; Times: 78
+	Date: 2019-01-28 ; Times: 18
+	Date: 2019-01-01 ; Times: 2
+	Date: 2019-01-07 ; Times: 9
+	Date: 2019-01-06 ; Times: 5
+	Date: 2019-01-05 ; Times: 7
+	Date: 2019-01-04 ; Times: 30
+	Date: 2019-01-21 ; Times: 5
+	Date: 2019-01-20 ; Times: 10
+	Date: 2019-01-09 ; Times: 2
+	Date: 2019-01-22 ; Times: 12
+	Date: 2019-01-25 ; Times: 13
+	Date: 2019-01-24 ; Times: 15
+	Date: 2019-01-27 ; Times: 9
+	Date: 2019-01-08 ; Times: 12
+	Date: 2019-01-16 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Fort Indian town" ; Times: 1
+	Query: "OMNH 487" ; Times: 2
+	Query: "nine-banded armadillo" ; Times: 1
+	Query: "North american porcupine &#34;Erethizon dorsatum&#34;" ; Times: 1
+	Query: "taxidea taxus" ; Times: 1
+	Query: "specificepithet:riparius genus:Myotis hastissue:1" ; Times: 1
+	Query: "specificepithet:chiloensis genus:Myotis hastissue:1" ; Times: 1
+	Query: "tree shrew" ; Times: 2
+	Query: "15285" ; Times: 1
+	Query: "specificepithet:elegans genus:Urocitellus stateprovince:&#34;Colorado&#34;" ; Times: 4
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "stateprovince:&#34;kentucky&#34; genus:mustela year &gt;= 1900 year &lt;= 2018" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 25
+	Query: "pholidota" ; Times: 1
+	Query: "M-62942" ; Times: 2
+	Query: "20371" ; Times: 1
+	Query: "trichechus manatus" ; Times: 2
+	Query: "genus:dipodomys catalognumber:28533" ; Times: 2
+	Query: "oxymycterus" ; Times: 1
+	Query: "10812" ; Times: 1
+	Query: "Sylvilagus brasiliensis mappable:1" ; Times: 1
+	Query: "(11966)" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "cervus axis" ; Times: 7
+	Query: "specificepithet:floridanus genus:sylvilagus stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "recordnumber:1057" ; Times: 1
+	Query: "16464" ; Times: 1
+	Query: "genus:tamias stateprovince:&#34;MIssissippi&#34;" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 2
+	Query: "(&#34;tremarctos ornatus&#34;)" ; Times: 1
+	Query: "micronycteris megalotis" ; Times: 1
+	Query: "stateprovince:&#34;tennessee&#34; genus:mustela year &gt;= 1880 year &lt;= 2019" ; Times: 1
+	Query: "kennedy Pinnacles specificepithet:venustus genus:dipodomys year &gt;= 1973 year &lt;= 1973" ; Times: 1
+	Query: "specificepithet:cinereicollis genus:tamias stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "(Tremarctos Ornatus)" ; Times: 1
+	Query: "kennedy Pinnacles genus:dipodomys year &gt;= 1973 year &lt;= 1973" ; Times: 1
+	Query: "genus:Onychomys county:&#34;catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "stateprovince:&#34;Oklahoma&#34; recordedby:King" ; Times: 2
+	Query: "21773" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 15
+	Query: "Cervus nippon" ; Times: 1
+	Query: "specificepithet:umbrinus genus:tamias institutioncode:OMNH" ; Times: 2
+	Query: "15059" ; Times: 1
+	Query: "specificepithet:africanus genus:Phacochoerus" ; Times: 1
+	Query: "&#34;Dasypus&#34; &#34;Nine Banded Armadillo&#34;" ; Times: 1
+	Query: "genus:sigmodon country:&#34;mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "novemcinctus" ; Times: 1
+	Query: "Rhipidomys mastacalis mappable:1" ; Times: 1
+	Query: "Virginia opossum" ; Times: 2
+	Query: "dasypus novemcinctus" ; Times: 13
+	Query: "specificepithet:elegans genus:urocitellus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:lepus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "weasel" ; Times: 1
+	Query: "22061" ; Times: 1
+	Query: "(&#34;dasypus novemcinctus&#34;)" ; Times: 2
+	Query: "Mule Deer" ; Times: 1
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:OMNH" ; Times: 1
+	Query: "Eastern Spotted Skunk" ; Times: 1
+	Query: "specificepithet:albescens genus:Myotis hastissue:1" ; Times: 2
+	Query: "56758" ; Times: 1
+	Query: "M-62423" ; Times: 2
+	Query: "specificepithet:dinellii genus:Myotis hastissue:1" ; Times: 1
+	Query: "nine banded armadillo" ; Times: 3
+	Query: "oryctolagus cuniculus" ; Times: 1
+	Query: "15284" ; Times: 1
+	Query: "megasorex" ; Times: 1
+	Query: "42855" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 4
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1910 year &lt;= 1919 institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:townsendii genus:tamias institutioncode:OMNH" ; Times: 2
+	Query: "papio hamadryas" ; Times: 5
+	Query: "nyctinomops aurispinosus" ; Times: 1
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "Chiroderma salvini" ; Times: 4
+	Query: "genus:Lasiurus stateprovince:&#34;Louisiana&#34;" ; Times: 3
+	Query: "specificepithet:keaysi genus:Myotis hastissue:1" ; Times: 1
+	Query: "specificepithet:lavali genus:Myotis hastissue:1" ; Times: 1
+	Query: "vampire" ; Times: 1
+	Query: "&#34;Trichechus manatus&#34;" ; Times: 4
+	Query: "aguascalientes" ; Times: 1
+	Query: "15827" ; Times: 1
+	Query: "catalognumber:11956" ; Times: 3
+	Query: "(&#34;dasypus&#34; &#34;novemcinctus&#34;)" ; Times: 1
+	Query: "Equus zebra zebra" ; Times: 2
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "(&#34;North American Porcupine&#34;)" ; Times: 3
+	Query: "Monodelphis domestica" ; Times: 1
+	Query: "Philander opossum" ; Times: 3
+	Query: "maned wolf" ; Times: 1
+	Query: "18466" ; Times: 1
+	Query: "&#34;dasypus&#34; &#34;novemcinctus&#34;" ; Times: 1
+	Query: "16565" ; Times: 1
+	Query: "specificepithet:seminolus genus:Lasiurus" ; Times: 2
+	Query: "31794" ; Times: 1
+	Query: "catalognumber:23465 institutioncode:OMNH" ; Times: 2
+	Query: "genus:Panthera hastissue:1" ; Times: 1
+	Query: "recordnumber:1136" ; Times: 1
+	Query: "(&#34;Virginia Opossum&#34; &#34;Didelphis Virginiana&#34;)" ; Times: 3
+	Query: "North American Porcupine" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:parva genus:Cryptotis hastissue:1" ; Times: 1
+	Query: "catalognumber:34928 institutioncode:OMNH" ; Times: 2
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "16408" ; Times: 1
+	Query: "9-banded armadillo" ; Times: 3
+	Query: "(&#34;Virginia Opossum&#34;)" ; Times: 1
+	Query: "3464" ; Times: 1
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "class:Mammalia county:&#34;rusk&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "opossums" ; Times: 1
+	Query: "genus:Sciurus hastissue:1" ; Times: 1
+	Query: "specificepithet:elegans class:Mammalia stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "specificepithet:guanicoe genus:lama" ; Times: 2
+	Query: "Didelphis albiventris" ; Times: 2
+	Query: "specificepithet:frenata genus:mustela stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:leo genus:Panthera hastissue:1" ; Times: 1
+	Query: "(&#34;North American Porcupine&#34; &#34;Erethizon Dorsatum&#34;)" ; Times: 2
+	Query: "specificepithet:magellanicus genus:histiotus" ; Times: 11
+	Query: "specificepithet:ochrogaster genus:Microtus stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "(&#34;Nine-banded armadillo&#34;)" ; Times: 1
+	Query: "Nine banded Armadillo dasypus novemcinctus" ; Times: 2
+	Query: "spectacled bear" ; Times: 3
+	Query: "specificepithet:izecksohni genus:Myotis hastissue:1" ; Times: 1
+	Query: "specificepithet:tridecemlineatus genus:ictidomys stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "M-62943" ; Times: 1
+	Query: "13917" ; Times: 1
+	Query: "specificepithet:bulleri genus:tamias institutioncode:OMNH" ; Times: 1
+	Query: "22239" ; Times: 1
+	Query: "22236" ; Times: 1
+	Query: "22237" ; Times: 1
+	Query: "22235" ; Times: 1
+	Query: "13877" ; Times: 1
+	Query: "&#34;Virginia opossum&#34;" ; Times: 1
+	Query: "bats" ; Times: 2
+	Query: "virginia opossum" ; Times: 3
+	Query: "Spectacled Bear tremarctos ornatus" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 27
+	Query: "(spectacled bear ( Tremarctos ornatus ))" ; Times: 1
+	Query: "&#34;Didelphimorphia&#34; &#34;Virginia Opossum&#34;" ; Times: 2
+	Query: "Dasypus (dasypus novemcinctus)" ; Times: 2
+	Query: "sylvilagus obscurus" ; Times: 4
+	Query: "notiosorex cockrumi" ; Times: 11
+	Query: "Bradypus variegatus" ; Times: 4
+	Query: "specificepithet:tridecemlineatus genus:ictidomys stateprovince:&#34;texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "&#34;Dasypus&#34; &#34;Dasypus novemcinctus&#34;" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "(&#34;Dasypus Novemcinctus&#34; &#34;Nine-banded Armadillo&#34;)" ; Times: 4
+	Query: "specificepithet:gazella genus:gazella" ; Times: 1
+	Query: "specificepithet:nelsoni genus:ammospermophilus county:&#34;san benito&#34;" ; Times: 1
+	Query: "west indian manatee" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 24
+	Query: "dasypus and nine banded armadillo" ; Times: 1
+	Query: "Thylamys pallidior" ; Times: 1
+	Query: "Leopardus colocolo" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "specificepithet:umbrinus genus:tamias" ; Times: 1
+	Query: "philander opossum" ; Times: 2
+	Query: "rhinopoma" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "12623" ; Times: 1
+	Query: "armadillo" ; Times: 3
+	Query: "26287" ; Times: 1
+	Query: "specificepithet:striatus genus:tamias institutioncode:OMNH" ; Times: 1
+	Query: "22121" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Reithrodontomys" ; Times: 2
+	Query: "catalognumber:5622" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 1
+	Query: "noctilio leporinus" ; Times: 1
+	Query: "Megasorex gigas" ; Times: 5
+	Query: "M 62423" ; Times: 1
+	Query: "elephant shrew" ; Times: 4
+	Query: "35292" ; Times: 1
+	Query: "Speothos venaticus" ; Times: 1
+	Query: "lasiurus xanthinus" ; Times: 1
+	Query: "Baiomys musculus" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:OMNH" ; Times: 1
+	Query: "leptonycteris yerbabuenae" ; Times: 1
+	Query: "specificepithet:rattus genus:rattus stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "north american porcupine" ; Times: 6
+	Query: "(&#34;Suricata suricatta&#34;)" ; Times: 1
+	Query: "genus:Onychomys county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "12343" ; Times: 2
+	Query: "43627" ; Times: 1
+	Query: "specificepithet:blossevillii genus:Lasiurus" ; Times: 1
+	Query: "&#34;tremarctos ornatus&#34;" ; Times: 19
+	Query: "genus:neotoma county:&#34;ada&#34; stateprovince:&#34;idaho&#34;" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 2
+	Query: "(&#34;Dasypus Novemcinctus&#34;)" ; Times: 3
+	Query: "stateprovince:&#34;kentucky&#34; genus:mustela year &gt;= 1880 year &lt;= 2019" ; Times: 1
+	Query: "Virginia Opossum Didelphis virginiana" ; Times: 3
+	Query: "corallus hortulanus" ; Times: 1
+	Query: "Dasypodidae" ; Times: 3
+	Query: "(didelphis and virginia opossum)" ; Times: 1
+	Query: "lepus europaeus" ; Times: 3
+	Query: "35646" ; Times: 1
+	Query: "(Dasypus novemcinctus)" ; Times: 1
+	Query: "specificepithet:amoenus genus:tamias institutioncode:OMNH" ; Times: 1
+	Query: "&#34;North American Porcupine&#34; and &#34;Erethizon dorsatum&#34;" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "specificepithet:wiedii genus:Leopardus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "kennedy Pinnacles genus:dipodomys" ; Times: 1
+	Query: "Pteronotus hastissue:1" ; Times: 3
+	Query: "(Oryctolagus cuniculus)" ; Times: 1
+	Query: "(&#34;Tremarctos ornatus&#34;)" ; Times: 2
+	Query: "sorex dispar" ; Times: 1
+	Query: "Pteronotus personatus hastissue:1" ; Times: 2
+	Query: "48586" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "M-62944" ; Times: 1
+	Query: "M-62945" ; Times: 1
+	Query: "M-62946" ; Times: 1
+	Query: "(Tremarctos ornatus)" ; Times: 5
+	Query: "North American porcupine" ; Times: 1
+	Query: "omnh 398" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; specificepithet:merriami genus:perognathus year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "specificepithet:quadrivittatus genus:tamias institutioncode:OMNH" ; Times: 1
+	Query: "best Pinnacles specificepithet:venustus genus:dipodomys year &gt;= 1973 year &lt;= 1973" ; Times: 1
+	Query: "specificepithet:levis genus:Myotis hastissue:1" ; Times: 1
+	Query: "592-210" ; Times: 1
+	Query: "stateprovince:&#34;tennessee&#34; genus:mustela year &gt;= 1900 year &lt;= 2018" ; Times: 1
+	Query: "&#34;dasypus novemcinctus&#34;" ; Times: 8
+	Query: "specificepithet:septentrionalis genus:Myotis" ; Times: 1
+	Query: "Choloepus didactylus" ; Times: 2
+	Query: "country:&#34;Sweden&#34;" ; Times: 1
+	Query: "Manidae" ; Times: 1
+	Query: "erethizon and north american porcupine" ; Times: 2
+	Query: "M-62947" ; Times: 1
+	Query: "15171" ; Times: 1
+	Query: "54461" ; Times: 1
+	Query: "(&#34;Nine-banded armadillo&#34; &#34;Dasypus Novemcinctus&#34;)" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "Oxymycterus paramensis" ; Times: 1
+	Query: "flying squirrel" ; Times: 1
+	Query: "&#34;spring hollow&#34;" ; Times: 1
+	Query: "9 banded armadillo" ; Times: 1
+	Query: "specificepithet:nigricans genus:Myotis hastissue:1" ; Times: 1
+	Query: "sorex merriami" ; Times: 3
+	Query: "Caluromysiops irrupta" ; Times: 2
+	Query: "&#34;Dasypus novemcinctus&#34;" ; Times: 40
+	Query: "58523" ; Times: 1
+	Query: "(&#34;Dasypus novemcinctus&#34;)" ; Times: 1
+	Query: "“Tremarctos ornatus”" ; Times: 5
+	Query: "didelphis virginia" ; Times: 4
+	Query: "&#34;Dasypus&#34; &#34;novemcinctus&#34;" ; Times: 1
+	Query: "manidae" ; Times: 1
+	Query: "macaca vntype:specimen genus:macaca basisofrecord:PreservedSpecimen haslifestage:1 hassex:1" ; Times: 1
+	Query: "dasypus" ; Times: 1
+	Query: "16264" ; Times: 1
+	Query: "(&#34;chaetophractus villosus&#34;)" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 2
+	Query: "Nine-banded Armadillo" ; Times: 1
+	Query: "North American Porcupine Erethizon dorsatum" ; Times: 4
+	Query: "specificepithet:princeps genus:Ochotona year &gt;= 1930 year &lt;= 1930" ; Times: 1
+	Query: "class:Mammalia county:&#34;nacogdoches&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:cinereicollis genus:tamias institutioncode:OMNH" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "specificepithet:montanus genus:reithrodontomys stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:bulleri genus:tamias" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 139 (out of 962 download events in this period)
+Total number of records downloaded: 1787
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: Brazil ; Times: 13
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: India ; Times: 3
+	Country: United States ; Times: 106
+	Country: Ecuador ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Spain ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 28
+	Date: 2019-01-26 ; Times: 1
+	Date: 2019-01-19 ; Times: 2
+	Date: 2019-01-14 ; Times: 3
+	Date: 2019-01-16 ; Times: 2
+	Date: 2019-01-17 ; Times: 4
+	Date: 2019-01-10 ; Times: 3
+	Date: 2019-01-11 ; Times: 7
+	Date: 2019-01-13 ; Times: 2
+	Date: 2019-01-03 ; Times: 11
+	Date: 2019-01-02 ; Times: 1
+	Date: 2019-01-29 ; Times: 22
+	Date: 2019-01-28 ; Times: 10
+	Date: 2019-01-07 ; Times: 6
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-05 ; Times: 2
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-22 ; Times: 3
+	Date: 2019-01-25 ; Times: 3
+	Date: 2019-01-27 ; Times: 3
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-30 ; Times: 23
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;kentucky&#34; genus:mustela year &gt;= 1880 year &lt;= 2019" ; Times: 1
+	Query: "order:perissodactyla" ; Times: 1
+	Query: "specificepithet:californicus genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "marmosa" ; Times: 1
+	Query: "class:Mammalia county:&#34;rusk&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "family:Tenrecidae" ; Times: 1
+	Query: "genus:sigmodon country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "hastissue:1 peromyscus truei" ; Times: 1
+	Query: "tayassu pecari" ; Times: 1
+	Query: "Thylamys pallidior" ; Times: 1
+	Query: "oryctolagus cuniculus" ; Times: 1
+	Query: "vntype:specimen genus:macaca" ; Times: 1
+	Query: "class:Mammalia county:&#34;calcasieu&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "vntype:specimen class:Mammalia stateprovince:&#34;Nuevo Leon&#34; country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "dromiciops gliroides" ; Times: 1
+	Query: "papio hamadryas" ; Times: 2
+	Query: "Monodelphis domestica" ; Times: 1
+	Query: "Didelphis albiventris" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "Chiroderma salvini" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "Marmosops incanus" ; Times: 1
+	Query: "class:Mammalia county:&#34;chambers&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:rattus genus:rattus stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34;" ; Times: 19
+	Query: "specificepithet:cinereus genus:sorex stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:gazella genus:gazella" ; Times: 1
+	Query: "class:Mammalia county:&#34;nacogdoches&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "hastissue:1 peromyscus boylii" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 14
+	Query: "Neotoma mexicana" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "lepus europaeus" ; Times: 1
+	Query: "vntype:specimen genus:Choeronycteris family:Phyllostomidae order:Chiroptera class:Mammalia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Mimon" ; Times: 1
+	Query: "genus:Lasiurus stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "Leopardus colocolo" ; Times: 1
+	Query: "stateprovince:&#34;tennessee&#34; genus:mustela year &gt;= 1880 year &lt;= 2019" ; Times: 1
+	Query: "Ursus arctos horribilis" ; Times: 1
+	Query: "Manidae" ; Times: 1
+	Query: "peromyscus californicus" ; Times: 1
+	Query: "Marmosa murina" ; Times: 1
+	Query: "&#34;Caracal caracal&#34;" ; Times: 1
+	Query: "elephas maximus" ; Times: 1
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "(Tremarctos Ornatus)" ; Times: 1
+	Query: "flying squirrel" ; Times: 1
+	Query: "specificepithet:elegans genus:urocitellus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Myotis californicus year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 3
+	Query: "genus:Dipodomys stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 1
+	Query: "specificepithet:lateralis genus:callospermophilus" ; Times: 1
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "Corynorhinus townsendii year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "(&#34;tremarctos ornatus&#34;)" ; Times: 2
+	Query: "elephantulus rufescens" ; Times: 1
+	Query: "genus:Sciurus hastissue:1" ; Times: 2
+	Query: "macaca vntype:specimen genus:macaca basisofrecord:PreservedSpecimen haslifestage:1 hassex:1" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus family:Cricetidae hastissue:1" ; Times: 1
+	Query: "Choloepus hoffmanni" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "specificepithet:fulviventer genus:Sigmodon country:&#34;Mexico&#34;" ; Times: 1
+	Query: "(Tremarctos ornatus)" ; Times: 2
+	Query: "tremarctos ornatus" ; Times: 8
+	Query: "(&#34;Tremarctos ornatus&#34;)" ; Times: 2
+	Query: "Puma concolor" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "“Tremarctos ornatus”" ; Times: 3
+	Query: "&#34;tremarctos ornatus&#34;" ; Times: 12
+	Query: "specificepithet:subflavus genus:Perimyotis mappable:1 year&gt;=1948 year&lt;=2019" ; Times: 1
+
+
+End of report.
