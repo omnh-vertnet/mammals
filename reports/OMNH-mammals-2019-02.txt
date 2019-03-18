@@ -1,0 +1,351 @@
+Report for Institution Code OMNH, Resource mammals
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 397
+Number of records retrieved in searches: 3769
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 25
+	Country: Canada ; Times: 2
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: Mexico ; Times: 32
+	Country: Unknown ; Times: 5
+	Country: France ; Times: 8
+	Country: United States ; Times: 270
+	Country: Guatemala ; Times: 1
+	Country: Netherlands ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Denmark ; Times: 32
+	Country: Belgium ; Times: 4
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-22 ; Times: 13
+	Date: 2019-02-23 ; Times: 3
+	Date: 2019-02-11 ; Times: 3
+	Date: 2019-02-10 ; Times: 2
+	Date: 2019-02-13 ; Times: 45
+	Date: 2019-02-12 ; Times: 12
+	Date: 2019-02-15 ; Times: 5
+	Date: 2019-02-14 ; Times: 16
+	Date: 2019-02-17 ; Times: 4
+	Date: 2019-02-16 ; Times: 13
+	Date: 2019-02-19 ; Times: 3
+	Date: 2019-02-18 ; Times: 7
+	Date: 2019-02-02 ; Times: 25
+	Date: 2019-02-03 ; Times: 3
+	Date: 2019-02-26 ; Times: 12
+	Date: 2019-02-01 ; Times: 3
+	Date: 2019-02-20 ; Times: 19
+	Date: 2019-02-07 ; Times: 56
+	Date: 2019-02-04 ; Times: 7
+	Date: 2019-02-05 ; Times: 6
+	Date: 2019-02-08 ; Times: 7
+	Date: 2019-02-09 ; Times: 4
+	Date: 2019-02-28 ; Times: 25
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-25 ; Times: 51
+	Date: 2019-02-27 ; Times: 32
+	Date: 2019-02-06 ; Times: 2
+	Date: 2019-02-21 ; Times: 18
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Rattus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Leopardus pardalis mappable:1" ; Times: 3
+	Query: "30596" ; Times: 1
+	Query: "OMNH 38621" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "nutria" ; Times: 1
+	Query: "class:Mammalia county:&#34;Taylor&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "delomys" ; Times: 2
+	Query: "Ochotona collaris" ; Times: 16
+	Query: "american Pika" ; Times: 3
+	Query: "genus:eptesicus country:&#34;argentina&#34; institutioncode:OMNH" ; Times: 1
+	Query: "14262" ; Times: 1
+	Query: "genus:liomys catalognumber:47867 institutioncode:OMNH" ; Times: 1
+	Query: "Sorex longirostris" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Tennessee&#34; year &lt;= 1940" ; Times: 1
+	Query: "albigula stephensi" ; Times: 1
+	Query: "19576" ; Times: 2
+	Query: "artibeus aztecus" ; Times: 1
+	Query: "eptesicus brasiliensis" ; Times: 1
+	Query: "genus:liomys catalognumber:47871 institutioncode:OMNH" ; Times: 1
+	Query: "Neofelis nebulosa" ; Times: 1
+	Query: "american water shrew" ; Times: 2
+	Query: "genus:liomys catalognumber:47874 institutioncode:OMNH" ; Times: 1
+	Query: "Prionailurus viverrinus" ; Times: 2
+	Query: "genus:liomys stateprovince:&#34;colima&#34; catalognumber:28000 institutioncode:OMNH" ; Times: 1
+	Query: "35018" ; Times: 1
+	Query: "genus:liomys catalognumber:47856 institutioncode:OMNH" ; Times: 1
+	Query: "genus:liomys catalognumber:47873 institutioncode:OMNH" ; Times: 1
+	Query: "Atlantic Forest" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Tennessee&#34; year &lt;= 1985 month &gt;= 6 month &lt;= 7" ; Times: 2
+	Query: "Dipodomys elator" ; Times: 1
+	Query: "25217" ; Times: 1
+	Query: "marmota caligata" ; Times: 1
+	Query: "cynomys ludovicianus" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "specificepithet:pallidus genus:Antrozous county:&#34;Harding&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon county:&#34;Otero&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:liomys catalognumber:47872 institutioncode:OMNH" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "specificepithet:astutus genus:bassariscus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:eptesicus country:&#34;argentina&#34;" ; Times: 1
+	Query: "&#34;dasypus novemcinctus&#34;" ; Times: 1
+	Query: "ateles fusciceps" ; Times: 2
+	Query: "22840" ; Times: 1
+	Query: "7488 OMNH" ; Times: 1
+	Query: "Corallus mappable:1" ; Times: 1
+	Query: "class:Mammalia county:&#34;Runnels&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:fulviventer genus:Sigmodon stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:aureus genus:Canis (captive OR zoo)" ; Times: 1
+	Query: "genus:liomys stateprovince:&#34;colima&#34; catalognumber:28005 institutioncode:OMNH" ; Times: 1
+	Query: "genus:liomys catalognumber:47868 institutioncode:OMNH" ; Times: 1
+	Query: "genus:liomys catalognumber:47863 institutioncode:OMNH" ; Times: 1
+	Query: "snowshoe hare" ; Times: 1
+	Query: "58978" ; Times: 1
+	Query: "Aristóbulo del Valle" ; Times: 1
+	Query: "44998" ; Times: 1
+	Query: "Tolypeutes" ; Times: 1
+	Query: "genus:liomys catalognumber:47869 institutioncode:OMNH" ; Times: 1
+	Query: "Dusicyon australis" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 8
+	Query: "nectomys squamipes" ; Times: 1
+	Query: "genus:liomys stateprovince:&#34;colima&#34; catalognumber:28007 institutioncode:OMNH" ; Times: 1
+	Query: "Puma concolor in California" ; Times: 1
+	Query: "OMNH 47239" ; Times: 1
+	Query: "Blarina" ; Times: 5
+	Query: "genus:liomys stateprovince:&#34;colima&#34; catalognumber:27998 institutioncode:OMNH" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 2
+	Query: "Lasiurus Kentucky" ; Times: 1
+	Query: "OMNH 31489" ; Times: 1
+	Query: "nyctinomops aurispinosus" ; Times: 1
+	Query: "order:Chiroptera county:&#34;Monroe&#34; stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "12010" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 24
+	Query: "17499" ; Times: 1
+	Query: "genus:liomys stateprovince:&#34;colima&#34; catalognumber:28003 institutioncode:OMNH" ; Times: 1
+	Query: "Histiotus montanus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "genus:liomys catalognumber:47859 institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela institutioncode:OMNH" ; Times: 1
+	Query: "american pika" ; Times: 26
+	Query: "OMNH 3530" ; Times: 3
+	Query: "genus:liomys stateprovince:&#34;colima&#34; catalognumber:28009 institutioncode:OMNH" ; Times: 1
+	Query: "genus:liomys catalognumber:47860 institutioncode:OMNH" ; Times: 1
+	Query: "32777" ; Times: 2
+	Query: "specificepithet:pallidus genus:Antrozous stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "gracilinanus" ; Times: 2
+	Query: "American pika" ; Times: 1
+	Query: "genus:liomys catalognumber:47876 institutioncode:OMNH" ; Times: 1
+	Query: "genus:liomys catalognumber:47858 institutioncode:OMNH" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "lycalopex gymnocercus" ; Times: 1
+	Query: "genus:liomys catalognumber:47862 institutioncode:OMNH" ; Times: 1
+	Query: "Lasiurus Seminolus" ; Times: 4
+	Query: "genus:liomys stateprovince:&#34;colima&#34; catalognumber:28004 institutioncode:OMNH" ; Times: 1
+	Query: "pika" ; Times: 2
+	Query: "Steno bredanensis mappable:1" ; Times: 6
+	Query: "american mink" ; Times: 2
+	Query: "OMNH 25417" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "27799" ; Times: 1
+	Query: "genus:liomys stateprovince:&#34;colima&#34; institutioncode:OMNH" ; Times: 1
+	Query: "body size" ; Times: 7
+	Query: "specificepithet:blossevillii genus:Lasiurus" ; Times: 2
+	Query: "genus:notiosorex country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:liomys catalognumber:47870 institutioncode:OMNH" ; Times: 1
+	Query: "Nyctinomops laticaudatus" ; Times: 2
+	Query: "Speothos venaticus" ; Times: 2
+	Query: "Chiroptera Monroe County" ; Times: 1
+	Query: "locality:brackettville county:&#34;kinney&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Sylvilagus obscurus" ; Times: 2
+	Query: "genus:liomys stateprovince:&#34;colima&#34; catalognumber:27999 institutioncode:OMNH" ; Times: 1
+	Query: "OMNH 47213" ; Times: 1
+	Query: "genus:microcavia year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "genus:liomys stateprovince:&#34;colima&#34;" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 1
+	Query: "genus:liomys catalognumber:47866 institutioncode:OMNH" ; Times: 1
+	Query: "lasiurus blossevillii" ; Times: 1
+	Query: "pronghorn" ; Times: 1
+	Query: "mamalia" ; Times: 2
+	Query: "genus:liomys stateprovince:&#34;colima&#34; catalognumber:28006 institutioncode:OMNH" ; Times: 1
+	Query: "Platyrrhinus lineatus" ; Times: 1
+	Query: "OMNH 47229" ; Times: 1
+	Query: "catalognumber:1688" ; Times: 2
+	Query: "specificepithet:hispidus genus:Sigmodon stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Lagothrix lagotricha" ; Times: 2
+	Query: "yagouaroundi" ; Times: 4
+	Query: "Elephantidae hastissue:1" ; Times: 1
+	Query: "American Pika" ; Times: 3
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "32402" ; Times: 1
+	Query: "genus:liomys catalognumber:47861 institutioncode:OMNH" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "catalognumber:1700" ; Times: 1
+	Query: "Pika" ; Times: 1
+	Query: "county:&#34;Taylor&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Kerodon" ; Times: 2
+	Query: "genus:liomys catalognumber:47879 institutioncode:OMNH" ; Times: 1
+	Query: "genus:Dipodomys county:&#34;Tooele&#34; stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "Dipodomys gravipes" ; Times: 2
+	Query: "skull genus:Vulpes family:Canidae (zoo OR captive) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Tennessee&#34; year &lt;= 2018 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:arenarius genus:Geomys stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "genus:liomys catalognumber:47878 institutioncode:OMNH" ; Times: 1
+	Query: "&#34;american pika&#34;" ; Times: 1
+	Query: "Conepatus leuconotus" ; Times: 5
+	Query: "specificepithet:auriculus genus:Myotis stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "tailed frog" ; Times: 2
+	Query: "Vulpes velox" ; Times: 1
+	Query: "Lycalopex gymnocercus mappable:1" ; Times: 4
+	Query: "specificepithet:ochrognathus genus:Sigmodon stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Bradypus variegatus mappable:1" ; Times: 32
+	Query: "lycalopex culpaeus" ; Times: 1
+	Query: "notiosorex year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "genus:Trichechus class:Mammalia" ; Times: 2
+	Query: "black-tailed prairie dog" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Tennessee&#34; year &lt;= 2000 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Monodelphis kunsi" ; Times: 1
+	Query: "catalognumber:30040" ; Times: 2
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "genus:liomys catalognumber:47880 institutioncode:OMNH" ; Times: 1
+	Query: "genus:liomys catalognumber:47865 institutioncode:OMNH" ; Times: 1
+	Query: "genus:liomys catalognumber:47855 institutioncode:OMNH" ; Times: 1
+	Query: "country:&#34;mexico&#34; recordnumber:1271" ; Times: 1
+	Query: "genus:Geomys county:&#34;Llano&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "myotis ciliolabrum stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "erythromos" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Tennessee&#34; year &gt;= 2000 year &lt;= 2018 month &gt;= 6 month &lt;= 7" ; Times: 2
+	Query: "32115" ; Times: 1
+	Query: "Trichechus" ; Times: 2
+	Query: "class:Mammalia county:&#34;Taylor&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "genus:liomys catalognumber:47857 institutioncode:OMNH" ; Times: 2
+	Query: "specificepithet:floridanus genus:sylvilagus stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "genus:liomys catalognumber:47864 institutioncode:OMNH" ; Times: 1
+	Query: "fox squirrel" ; Times: 1
+	Query: "notiosorex year &gt;= 2010 hastissue:1" ; Times: 1
+	Query: "30254" ; Times: 1
+	Query: "genus:liomys catalognumber:47877 institutioncode:OMNH" ; Times: 1
+	Query: "OMNH 11801" ; Times: 1
+	Query: "genus:liomys stateprovince:&#34;colima&#34; catalognumber:28011 institutioncode:OMNH" ; Times: 1
+	Query: "swift fox" ; Times: 1
+	Query: "genus:liomys stateprovince:&#34;colima&#34; catalognumber:28008 institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:montanus genus:Reithrodontomys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "american mink stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "specificepithet:texensis genus:geomys stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Dipodomys compactus" ; Times: 3
+	Query: "platyrrhinus lineatus" ; Times: 5
+	Query: "lycalopex griseus" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 2
+	Query: "Dasypus" ; Times: 3
+	Query: "genus:liomys stateprovince:&#34;colima&#34; catalognumber:28001 institutioncode:OMNH" ; Times: 1
+	Query: "genus:Tamias county:&#34;torrance&#34; stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "genus:liomys stateprovince:&#34;colima&#34; catalognumber:28010 institutioncode:OMNH" ; Times: 1
+	Query: "genus:liomys catalognumber:47853 institutioncode:OMNH" ; Times: 1
+	Query: "Trichechus manatus mappable:1" ; Times: 1
+	Query: "genus:liomys stateprovince:&#34;colima&#34; catalognumber:28002 institutioncode:OMNH" ; Times: 1
+	Query: "genus:microcavia" ; Times: 1
+	Query: "(Sciurus carolinensis) hastissue:1" ; Times: 1
+	Query: "catalognumber:15144" ; Times: 1
+	Query: "(body size)" ; Times: 4
+	Query: "13701" ; Times: 1
+	Query: "31887" ; Times: 2
+	Query: "13463" ; Times: 1
+	Query: "giraffe" ; Times: 1
+	Query: "AMERICAN PIKA" ; Times: 3
+	Query: "Sorex dispar" ; Times: 1
+	Query: "genus:liomys catalognumber:47875 institutioncode:OMNH" ; Times: 1
+	Query: "genus:liomys catalognumber:47854 institutioncode:OMNH" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 1227 download events in this period)
+Total number of records downloaded: 1420
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: United States ; Times: 21
+	Country: Mexico ; Times: 11
+	Country: Costa Rica ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-18 ; Times: 1
+	Date: 2019-02-04 ; Times: 2
+	Date: 2019-02-14 ; Times: 7
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-15 ; Times: 2
+	Date: 2019-02-12 ; Times: 2
+	Date: 2019-02-25 ; Times: 10
+	Date: 2019-02-13 ; Times: 5
+	Date: 2019-02-27 ; Times: 1
+	Date: 2019-02-20 ; Times: 1
+	Date: 2019-02-07 ; Times: 1
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-23 ; Times: 2
+	Date: 2019-02-19 ; Times: 4
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-08 ; Times: 4
+	Date: 2019-02-28 ; Times: 3
+	Date: 2019-02-21 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "lycaon pictus" ; Times: 1
+	Query: "genus:Geomys county:&#34;Llano&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;Taylor&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Neotoma albigula vntype:specimen" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela institutioncode:OMNH" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Neotoma albigula" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "genus:eptesicus country:&#34;argentina&#34; institutioncode:OMNH" ; Times: 1
+	Query: "Phyllostomidae" ; Times: 1
+	Query: "Neofelis nebulosa" ; Times: 1
+	Query: "Lagothrix lagotricha" ; Times: 3
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "Prionailurus viverrinus" ; Times: 2
+	Query: "Pongo pygmaeus" ; Times: 3
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "porcupine" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Dusicyon australis" ; Times: 1
+	Query: "Dipodomys compactus" ; Times: 1
+	Query: "Cynomops" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: "neotoma stephensi" ; Times: 4
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "specificepithet:flavicollis genus:Apodemus" ; Times: 1
+	Query: "lycalopex griseus" ; Times: 1
+	Query: "Dipodomys gravipes" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "lycalopex gymnocercus" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 1
+	Query: "Atelerix albiventris" ; Times: 2
+	Query: "specificepithet:californicus genus:Lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Vulpes velox" ; Times: 1
+	Query: "class:Mammalia county:&#34;Runnels&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "lycalopex culpaeus" ; Times: 1
+	Query: "micoureus" ; Times: 1
+	Query: "genus:Trichechus class:Mammalia" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:Apodemus" ; Times: 1
+	Query: "Speothos venaticus" ; Times: 1
+
+
+End of report.
