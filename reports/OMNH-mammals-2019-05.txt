@@ -1,0 +1,396 @@
+Report for Institution Code OMNH, Resource mammals
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 397
+Number of records retrieved in searches: 3241
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 168
+	Country: United States ; Times: 146
+	Country: Netherlands ; Times: 1
+	Country: Peru ; Times: 10
+	Country: Colombia ; Times: 6
+	Country: Mexico ; Times: 23
+	Country: Denmark ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: Czechia ; Times: 2
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Ethiopia ; Times: 1
+	Country: Guatemala ; Times: 4
+	Country: Australia ; Times: 2
+	Country: Chile ; Times: 7
+	Country: Unknown ; Times: 8
+	Country: Belgium ; Times: 4
+	Country: Thailand ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 16
+	Date: 2019-05-31 ; Times: 7
+	Date: 2019-05-09 ; Times: 3
+	Date: 2019-05-08 ; Times: 11
+	Date: 2019-05-07 ; Times: 13
+	Date: 2019-05-06 ; Times: 67
+	Date: 2019-05-05 ; Times: 33
+	Date: 2019-05-04 ; Times: 1
+	Date: 2019-05-03 ; Times: 4
+	Date: 2019-05-02 ; Times: 20
+	Date: 2019-05-01 ; Times: 29
+	Date: 2019-05-25 ; Times: 8
+	Date: 2019-05-24 ; Times: 2
+	Date: 2019-05-27 ; Times: 15
+	Date: 2019-05-26 ; Times: 6
+	Date: 2019-05-21 ; Times: 8
+	Date: 2019-05-20 ; Times: 7
+	Date: 2019-05-23 ; Times: 11
+	Date: 2019-05-22 ; Times: 16
+	Date: 2019-05-29 ; Times: 10
+	Date: 2019-05-28 ; Times: 10
+	Date: 2019-05-18 ; Times: 3
+	Date: 2019-05-19 ; Times: 4
+	Date: 2019-05-10 ; Times: 15
+	Date: 2019-05-11 ; Times: 1
+	Date: 2019-05-13 ; Times: 14
+	Date: 2019-05-14 ; Times: 29
+	Date: 2019-05-15 ; Times: 22
+	Date: 2019-05-16 ; Times: 4
+	Date: 2019-05-17 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Nyctinomops aurispinosus" ; Times: 1
+	Query: "54721" ; Times: 1
+	Query: "Leopardus pardalis mappable:1" ; Times: 1
+	Query: "Microtus chrotorrhinus" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 7
+	Query: "Conepatus chinga mappable:1" ; Times: 1
+	Query: "glaucomys volans" ; Times: 2
+	Query: "leopardus wiedii" ; Times: 4
+	Query: "Monodelphis" ; Times: 1
+	Query: "OU 9981" ; Times: 2
+	Query: "sorex hoyi" ; Times: 2
+	Query: "47124" ; Times: 26
+	Query: "specificepithet:columbianus genus:Urocitellus" ; Times: 1
+	Query: "catalognumber:65838 OR 65711 institutioncode:OMNH" ; Times: 1
+	Query: "Pseudoryzomys simplex mappable:1" ; Times: 1
+	Query: "Lonchorhina aurita mappable:1" ; Times: 1
+	Query: "catalognumber:53893" ; Times: 1
+	Query: "Myotis levis mappable:1" ; Times: 1
+	Query: "gray jay" ; Times: 1
+	Query: "thylamys venustus year &gt;= 1970 year &lt;= 2019" ; Times: 2
+	Query: "Sorex sonomae" ; Times: 7
+	Query: "Akodon montensis mappable:1" ; Times: 3
+	Query: "oryctolagus" ; Times: 1
+	Query: "genus:megasorex" ; Times: 1
+	Query: "Gracilinanus agilis mappable:1" ; Times: 1
+	Query: "Puma yagouaroundi mappable:1" ; Times: 1
+	Query: "trichechus" ; Times: 6
+	Query: "peromyscus polionotus trissyllepsis" ; Times: 4
+	Query: "34885" ; Times: 1
+	Query: "oecomys" ; Times: 3
+	Query: "33485" ; Times: 1
+	Query: "Diphylla ecaudata mappable:1" ; Times: 1
+	Query: "34130" ; Times: 1
+	Query: "floresta" ; Times: 1
+	Query: "genus:canis mandible" ; Times: 1
+	Query: "OU 6819" ; Times: 2
+	Query: "Oecomys concolor mappable:1" ; Times: 1
+	Query: "specificepithet:pardalis genus:leopardus" ; Times: 1
+	Query: "procyon cancrivorus" ; Times: 2
+	Query: "neotoma magister" ; Times: 1
+	Query: "Micronycteris microtis mappable:1" ; Times: 1
+	Query: "Lepus europaeus mappable:1" ; Times: 1
+	Query: "Nasua narica" ; Times: 2
+	Query: "specificepithet:bulleri genus:Tamias" ; Times: 1
+	Query: "AJS 131" ; Times: 1
+	Query: "17485" ; Times: 1
+	Query: "lama guanicoe" ; Times: 5
+	Query: "thylamys pallidior" ; Times: 1
+	Query: "Hemicentetes semispinosus" ; Times: 1
+	Query: "Cerradomys subflavus mappable:1" ; Times: 1
+	Query: "megasorex gigas" ; Times: 6
+	Query: "gray wolf" ; Times: 1
+	Query: "Capybara skull" ; Times: 2
+	Query: "dipodomys elator" ; Times: 1
+	Query: "Rhipidomys mastacalis mappable:1" ; Times: 1
+	Query: "Monodelphis americana mappable:1" ; Times: 1
+	Query: "Nyctinomops aurispinosus mappable:1" ; Times: 1
+	Query: "Artibeus cinereus mappable:1" ; Times: 1
+	Query: "Helarctos malayanus" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 4
+	Query: "Leopardus wiedii mappable:1" ; Times: 1
+	Query: "virginia opossum" ; Times: 1
+	Query: "31985" ; Times: 1
+	Query: "thylamys karimii year &gt;= 1970 year &lt;= 2019" ; Times: 2
+	Query: "fresno kangaroo rat" ; Times: 1
+	Query: "specificepithet:austroriparius genus:Myotis country:&#34;United States&#34; sex:MALe" ; Times: 1
+	Query: "Cynomops abrasus mappable:1" ; Times: 1
+	Query: "Platyrrhinus lineatus mappable:1" ; Times: 6
+	Query: "thylamys pusillus year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus stateprovince:&#34;Tennessee&#34; institutioncode:OMNH" ; Times: 1
+	Query: "Molossops temminckii mappable:1" ; Times: 1
+	Query: "nyctinomops aurispinosus" ; Times: 2
+	Query: "genus:canis stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "Tayassu pecari mappable:1" ; Times: 1
+	Query: "myotis fortidens country:&#34;mexico&#34;" ; Times: 1
+	Query: "Oxymycterus quaestor mappable:1" ; Times: 1
+	Query: "vampire" ; Times: 2
+	Query: "&#34;*Urocitellus columbianus&#34;" ; Times: 1
+	Query: "Canis lupus familiaris" ; Times: 3
+	Query: "Eumops perotis mappable:1" ; Times: 1
+	Query: "western red-backed vole" ; Times: 1
+	Query: "genus:Peromyscus catalognumber:63355" ; Times: 1
+	Query: "catalognumber:11273 institutioncode:OMNH" ; Times: 2
+	Query: "Eptesicus furinalis mappable:1" ; Times: 1
+	Query: "Thaptomys nigrita mappable:1" ; Times: 1
+	Query: "Tonatia bidens" ; Times: 1
+	Query: "sciurus alleni" ; Times: 2
+	Query: "Missouri Dunklin county" ; Times: 1
+	Query: "Diclidurus albus mappable:1" ; Times: 1
+	Query: "Thylamys velutinus mappable:1" ; Times: 1
+	Query: "Abrothrix andinus mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 2
+	Query: "omnh 38247" ; Times: 2
+	Query: "omnh 38246" ; Times: 2
+	Query: "Anoura caudifer mappable:1" ; Times: 1
+	Query: "Eptesicus brasiliensis mappable:1" ; Times: 1
+	Query: "catalognumber:23465 institutioncode:OMNH" ; Times: 1
+	Query: "24880" ; Times: 1
+	Query: "Galea spixii mappable:1" ; Times: 1
+	Query: "catalognumber:53952 institutioncode:OMNH" ; Times: 2
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "tonatia" ; Times: 2
+	Query: "OU 32504" ; Times: 2
+	Query: "specificepithet:frenata genus:Mustela haslength:1" ; Times: 1
+	Query: "catalognumber:12483 institutioncode:OMNH" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;aguascalientes&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Akodon cursor mappable:1" ; Times: 3
+	Query: "Steno bredanensis mappable:1" ; Times: 1
+	Query: "39150" ; Times: 1
+	Query: "genus: canis mandible" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "Coendou spinosus mappable:1" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "genus:notiosorex country:&#34;mexico&#34;" ; Times: 1
+	Query: "Myotis riparius mappable:1" ; Times: 1
+	Query: "18900" ; Times: 1
+	Query: "jf 145" ; Times: 1
+	Query: "Red panda" ; Times: 1
+	Query: "thylamys pallidior year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "43627" ; Times: 1
+	Query: "class:Mammalia pallid bat" ; Times: 1
+	Query: "Caluromysiops irrupta" ; Times: 4
+	Query: "peromyscus leucopus stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "Myotis dinellii mappable:1" ; Times: 1
+	Query: "OU 15492" ; Times: 2
+	Query: "Eptesicus diminutus mappable:1" ; Times: 1
+	Query: "Capybara" ; Times: 1
+	Query: "ocelot" ; Times: 2
+	Query: "Eira barbara mappable:1" ; Times: 1
+	Query: "genus:Kerodon" ; Times: 2
+	Query: "Tonatia bidens mappable:1" ; Times: 1
+	Query: "Philander opossum year &gt;= 1965 year &lt;= 2019" ; Times: 1
+	Query: "Oligoryzomys nigripes mappable:1" ; Times: 1
+	Query: "Lutreolina crassicaudata mappable:1" ; Times: 1
+	Query: "GJK 152" ; Times: 2
+	Query: "thylamys sponsorius year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Procyon cancrivorus mappable:1" ; Times: 13
+	Query: "Dmh genus:Geomys" ; Times: 2
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "Tamias bulleri" ; Times: 3
+	Query: "specificepithet:austroriparius genus:Myotis country:&#34;United States&#34;" ; Times: 1
+	Query: "sciurus ignitus" ; Times: 1
+	Query: "Delomys dorsalis mappable:1" ; Times: 1
+	Query: "Didelphis albiventris mappable:1" ; Times: 1
+	Query: "specificepithet:austroriparius genus:Myotis country:&#34;United States&#34; sex:Female" ; Times: 1
+	Query: "Marmosa murina mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:niger genus:Sciurus stateprovince:&#34;Arkansas&#34; institutioncode:OMNH" ; Times: 1
+	Query: "Canis lupus familiaris mappable:1 year&gt;=1970 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "46899" ; Times: 1
+	Query: "tamaulipas county" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "Henthorn" ; Times: 2
+	Query: "family:leporidae order:lagomorpha stateprovince:&#34;tamaulipas&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "mustela nigripes" ; Times: 5
+	Query: "Stenella longirostris mappable:1" ; Times: 1
+	Query: "Nyctinomops macrotis mappable:1" ; Times: 1
+	Query: "10408" ; Times: 1
+	Query: "Myotis ruber mappable:1" ; Times: 1
+	Query: "34176" ; Times: 1
+	Query: "Eumops bonariensis mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:niger genus:Sciurus stateprovince:&#34;Tennessee&#34; year &gt;= 1981 year &lt;= 1987 institutioncode:OMNH" ; Times: 1
+	Query: "slow loris" ; Times: 1
+	Query: "Kerodon" ; Times: 1
+	Query: "Artibeus planirostris" ; Times: 1
+	Query: "Chrotopterus auritus mappable:1" ; Times: 10
+	Query: "Dipodomys gravipes" ; Times: 1
+	Query: "western red backed vole" ; Times: 2
+	Query: "peromyscus melanophrys melanophrys" ; Times: 1
+	Query: "Calomys tener mappable:1" ; Times: 1
+	Query: "gracilinanus agilis year &gt;= 1970 year &lt;= 2019" ; Times: 3
+	Query: "Myocastor coypus mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Histiotus montanus mappable:1" ; Times: 4
+	Query: "genus:nycticebus preparations:skeleton" ; Times: 2
+	Query: "Caluromys philander mappable:1" ; Times: 1
+	Query: "Herpestes javanicus" ; Times: 1
+	Query: "Eumops patagonicus mappable:1" ; Times: 1
+	Query: "Lycalopex gymnocercus mappable:1" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "histiotus" ; Times: 4
+	Query: "Bradypus variegatus mappable:1" ; Times: 1
+	Query: "Siphonaptera" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 4
+	Query: "Oxymycterus rufus mappable:1" ; Times: 1
+	Query: "tlacuatzin" ; Times: 3
+	Query: "genus:antilocapra stateprovince:&#34;wyoming&#34;" ; Times: 2
+	Query: "Euphractus sexcinctus mappable:1" ; Times: 1
+	Query: "genus:myocastor" ; Times: 1
+	Query: "Utah prairie dog" ; Times: 2
+	Query: "Thrichomys laurentius mappable:1" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Aguascalientes&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Sooretamys angouya mappable:1" ; Times: 1
+	Query: "Monodelphis domestica mappable:1" ; Times: 1
+	Query: "17610" ; Times: 1
+	Query: "Saccopteryx leptura mappable:1" ; Times: 1
+	Query: "thylamys cinderella year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "thylamys velutinus year &gt;= 1970 year &lt;= 2019" ; Times: 2
+	Query: "sorex 41343" ; Times: 2
+	Query: "northern yellow bat" ; Times: 1
+	Query: "Oecomys catherinae mappable:1" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 3
+	Query: "Promops nasutus mappable:1" ; Times: 1
+	Query: "Euryoryzomys russatus mappable:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:Boise stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "Myotis albescens mappable:1" ; Times: 1
+	Query: "Cavia aperea mappable:1" ; Times: 1
+	Query: "Lagidium viscacia" ; Times: 2
+	Query: "Myotis lavali mappable:1" ; Times: 1
+	Query: "specificepithet:catta genus:lemur preparations:skeleton" ; Times: 1
+	Query: "Monodelphis kunsi mappable:1" ; Times: 1
+	Query: "thylamys elegans year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "roan antelope" ; Times: 1
+	Query: "Pygoderma bilabiatum mappable:1" ; Times: 1
+	Query: "genus:lemur preparations:skeleton" ; Times: 2
+	Query: "genus:perodicticus preparations:skeleton" ; Times: 1
+	Query: "aloe" ; Times: 1
+	Query: "sciurus carolinensis hastissue:1" ; Times: 3
+	Query: "Myotis izecksohni mappable:1" ; Times: 1
+	Query: "&#34;leopardus pardalis&#34;" ; Times: 1
+	Query: "Trichechus manatus mappable:1" ; Times: 1
+	Query: "Abrothrix andinus mappable:1" ; Times: 1
+	Query: "59408" ; Times: 1
+	Query: "Lasiurus blossevillii mappable:1" ; Times: 1
+	Query: "Nasua nasua mappable:1" ; Times: 1
+	Query: "31934" ; Times: 1
+	Query: "Sylvilagus brasiliensis mappable:1" ; Times: 1
+	Query: "Sylvilagus brasiliensis" ; Times: 1
+	Query: "didelphis albiventris year &gt;= 1970 year &lt;= 2019" ; Times: 2
+	Query: "OU 13980" ; Times: 2
+	Query: "diphylla" ; Times: 2
+	Query: "Loxodonta africana mappable:1" ; Times: 2
+	Query: "Speothos venaticus" ; Times: 2
+	Query: "39672" ; Times: 1
+	Query: "silver-haired bat" ; Times: 1
+	Query: "Thylamys" ; Times: 1
+	Query: "Lycalopex culpaeus mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 53 (out of 940 download events in this period)
+Total number of records downloaded: 2476
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 16
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 21
+	Country: Ethiopia ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-06 ; Times: 7
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-27 ; Times: 1
+	Date: 2019-05-26 ; Times: 2
+	Date: 2019-05-21 ; Times: 2
+	Date: 2019-05-30 ; Times: 3
+	Date: 2019-05-23 ; Times: 1
+	Date: 2019-05-22 ; Times: 2
+	Date: 2019-05-14 ; Times: 5
+	Date: 2019-05-31 ; Times: 2
+	Date: 2019-05-29 ; Times: 1
+	Date: 2019-05-28 ; Times: 1
+	Date: 2019-05-09 ; Times: 2
+	Date: 2019-05-08 ; Times: 1
+	Date: 2019-05-07 ; Times: 3
+	Date: 2019-05-11 ; Times: 1
+	Date: 2019-05-13 ; Times: 8
+	Date: 2019-05-03 ; Times: 1
+	Date: 2019-05-15 ; Times: 7
+	Date: 2019-05-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Red panda" ; Times: 1
+	Query: "thylamys karimii year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "diphylla" ; Times: 1
+	Query: "thylamys cinderella year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:austroriparius genus:Myotis country:&#34;United States&#34; sex:MALe" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Peromyscus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Sorex sonomae" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "thylamys pallidior year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "marmosops noctivagus year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "thylamys pusillus year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "&#34;*Urocitellus columbianus&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus stateprovince:&#34;Tennessee&#34; institutioncode:OMNH" ; Times: 1
+	Query: "thylamys sponsorius year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "class:Mammalia stateprovince:Oregon" ; Times: 1
+	Query: "thylamys venustus year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Caluromysiops irrupta" ; Times: 1
+	Query: "class:Mammalia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "thylamys elegans year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "roan antelope" ; Times: 2
+	Query: "specificepithet:austroriparius genus:Myotis country:&#34;United States&#34; sex:Female" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "vntype:specimen specificepithet:niger genus:Sciurus stateprovince:&#34;Arkansas&#34; institutioncode:OMNH" ; Times: 1
+	Query: "order:Soricomorpha hastissue:1" ; Times: 1
+	Query: "tlacuatzin" ; Times: 1
+	Query: "sciurus carolinensis hastissue:1" ; Times: 1
+	Query: "didelphis marsupialis year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "gracilinanus agilis year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "thylamys velutinus year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "vntype:specimen specificepithet:niger genus:Sciurus stateprovince:&#34;Tennessee&#34; year &gt;= 1981 year &lt;= 1987 institutioncode:OMNH" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "specificepithet:bulleri genus:Tamias" ; Times: 1
+	Query: "didelphis albiventris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:pardalis genus:leopardus" ; Times: 1
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus year &gt;= 2018 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Philander opossum year &gt;= 1965 year &lt;= 2019" ; Times: 1
+	Query: "Hemicentetes semispinosus" ; Times: 1
+	Query: "megasorex gigas" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "marmosops incanus year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "class:Mammalia distance(location,geopoint(23.36048311832555,-110.01021818168437))&lt;39962" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+
+
+End of report.
