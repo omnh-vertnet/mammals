@@ -1,0 +1,392 @@
+Report for Institution Code OMNH, Resource mammals
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 358
+Number of records retrieved in searches: 4684
+Number of different countries where searches have been originated: 23
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 7
+	Country: Unknown ; Times: 6
+	Country: Nepal ; Times: 9
+	Country: Peru ; Times: 10
+	Country: Argentina ; Times: 78
+	Country: Ecuador ; Times: 5
+	Country: Israel ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Guatemala ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 2
+	Country: Thailand ; Times: 1
+	Country: Spain ; Times: 2
+	Country: Netherlands ; Times: 2
+	Country: United States ; Times: 209
+	Country: Vietnam ; Times: 3
+	Country: Russia ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 10
+	Country: United Kingdom ; Times: 2
+	Country: Austria ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 6
+	Date: 2019-07-18 ; Times: 14
+	Date: 2019-07-19 ; Times: 27
+	Date: 2019-07-08 ; Times: 47
+	Date: 2019-07-12 ; Times: 12
+	Date: 2019-07-13 ; Times: 1
+	Date: 2019-07-10 ; Times: 16
+	Date: 2019-07-11 ; Times: 14
+	Date: 2019-07-16 ; Times: 16
+	Date: 2019-07-17 ; Times: 32
+	Date: 2019-07-14 ; Times: 3
+	Date: 2019-07-15 ; Times: 18
+	Date: 2019-07-03 ; Times: 2
+	Date: 2019-07-23 ; Times: 7
+	Date: 2019-07-22 ; Times: 13
+	Date: 2019-07-21 ; Times: 16
+	Date: 2019-07-02 ; Times: 5
+	Date: 2019-07-26 ; Times: 22
+	Date: 2019-07-25 ; Times: 10
+	Date: 2019-07-24 ; Times: 3
+	Date: 2019-07-01 ; Times: 5
+	Date: 2019-07-30 ; Times: 11
+	Date: 2019-07-29 ; Times: 3
+	Date: 2019-07-28 ; Times: 1
+	Date: 2019-07-05 ; Times: 5
+	Date: 2019-07-04 ; Times: 8
+	Date: 2019-07-07 ; Times: 7
+	Date: 2019-07-06 ; Times: 14
+	Date: 2019-07-31 ; Times: 20
+
+List of queries that retrieved data from the resource: 
+	Query: "6.5 mi SE Norman" ; Times: 1
+	Query: "Las Pavas" ; Times: 1
+	Query: "Leopardus pardalis mappable:1" ; Times: 3
+	Query: "genus:neotoma class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:OMNH" ; Times: 1
+	Query: "giant anteater" ; Times: 1
+	Query: "specificepithet:bursarius genus:Geomys preparations:alcoholic" ; Times: 1
+	Query: "5 mi S Norman OMNH" ; Times: 1
+	Query: "specificepithet:pictus genus:Liomys preparations:alcoholic" ; Times: 1
+	Query: "specificepithet:deserti genus:Dipodomys preparations:alcoholic" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "nutria" ; Times: 1
+	Query: "Cerro El Manchao" ; Times: 1
+	Query: "Nyctinomops macrotis" ; Times: 2
+	Query: "specificepithet:humulis genus:Reithrodontomys stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "catalognumber:11983" ; Times: 1
+	Query: "specificepithet:crinitus genus:peromyscus class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:OMNH" ; Times: 1
+	Query: "Tlacuatzin canescens" ; Times: 1
+	Query: "specificepithet:breviceps genus:Geomys preparations:alcoholic" ; Times: 1
+	Query: "catalognumber:63611" ; Times: 1
+	Query: "catalognumber:63610" ; Times: 3
+	Query: "catalognumber:64954" ; Times: 1
+	Query: "artibeus aztecus" ; Times: 1
+	Query: "class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:OMNH" ; Times: 2
+	Query: "Blarina vntype:specimen genus:Blarina stateprovince:&#34;Oklahoma&#34; (Oklahoma)" ; Times: 2
+	Query: "specificepithet:bottae genus:Thomomys preparations:alcoholic" ; Times: 1
+	Query: "Neofelis nebulosa" ; Times: 3
+	Query: "specificepithet:monax class:MAMMALIA locality:alexander" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "specificepithet:flavus genus:Perognathus preparations:alcoholic" ; Times: 1
+	Query: "specificepithet:merriami genus:Perognathus preparations:alcoholic" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 3
+	Query: "OMNH 23616" ; Times: 2
+	Query: "catalognumber:54036" ; Times: 1
+	Query: "genus:Napaeozapus specificepithet:insignis" ; Times: 1
+	Query: "specificepithet:eremicus genus:peromyscus class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:OMNH" ; Times: 1
+	Query: "54-213" ; Times: 1
+	Query: "genus:Peromyscus locality:isla San Lorenzo" ; Times: 1
+	Query: "genus:Tamias specificepithet:cinereicollis" ; Times: 1
+	Query: "Berardius" ; Times: 2
+	Query: "genus:Pongo specificepithet:pygmaeus" ; Times: 1
+	Query: "Histiotus macrotus" ; Times: 1
+	Query: "OMNH 34127" ; Times: 1
+	Query: "2.25 mi S Norman" ; Times: 1
+	Query: "genus:Redunca" ; Times: 1
+	Query: "erinaceus" ; Times: 1
+	Query: "lama guanicoe" ; Times: 6
+	Query: "coypu" ; Times: 1
+	Query: "specificepithet:merriami genus:Dipodomys preparations:alcoholic" ; Times: 1
+	Query: "W 65-52" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "specificepithet:budini genus:akodon" ; Times: 3
+	Query: "Eastern Spotted Skunk" ; Times: 3
+	Query: "snow leopard" ; Times: 1
+	Query: "little brown bat" ; Times: 1
+	Query: "genus:Blarina stateprovince:&#34;Oklahoma&#34; institutioncode:OMNH" ; Times: 5
+	Query: "5 mi S Norman" ; Times: 1
+	Query: "specificepithet:formosus genus:Chaetodipus preparations:alcoholic" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys preparations:alcoholic" ; Times: 1
+	Query: "Myotis leibii mappable:1" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "genus:Corynorhinus specificepithet:rafinesquii" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "genus:chaetodipus class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:OMNH" ; Times: 1
+	Query: "Euryoryzomys russatus" ; Times: 1
+	Query: "Abrothrix illuteus" ; Times: 4
+	Query: "genus:dipodomys class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:OMNH" ; Times: 1
+	Query: "genus:Erinaceus specificepithet:europaeus" ; Times: 1
+	Query: "1.5 mi E Norman" ; Times: 1
+	Query: "vntype:specimen specificepithet:lotor genus:procyon locality:Chicago stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "nycteris thebaica" ; Times: 2
+	Query: "genus:Chaetodipus specificepithet:intermedius" ; Times: 1
+	Query: "ARG 4247" ; Times: 4
+	Query: "17380" ; Times: 1
+	Query: "Spilogale angustifrons" ; Times: 1
+	Query: "genus:Sciurus specificepithet:aberti" ; Times: 1
+	Query: "Caluromys philander" ; Times: 3
+	Query: "ARG 2635" ; Times: 2
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "20059" ; Times: 1
+	Query: "andinomys" ; Times: 1
+	Query: "class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:OMNH" ; Times: 2
+	Query: "Giraffa basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:polionotus county:&#34;lucie&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "Vulpes velox mappable:1" ; Times: 2
+	Query: "genus:Sciurus specificepithet:vulgaris" ; Times: 1
+	Query: "class:MAMMALIA country:&#34;jordan&#34; year &gt;= 1981 year &lt;= 1990" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 5
+	Query: "araripe" ; Times: 2
+	Query: "tlacuatzin canescens" ; Times: 1
+	Query: "genus:Sciurus specificepithet:sp." ; Times: 1
+	Query: "OMNH 35997" ; Times: 1
+	Query: "genus:chaetodipus class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:OMNH" ; Times: 1
+	Query: "county:&#34;Coryell&#34;" ; Times: 2
+	Query: "genus:Gorilla specificepithet:gorilla" ; Times: 1
+	Query: "genus:Glaucomys specificepithet:sabrinus" ; Times: 1
+	Query: "genus:Thylamys specificepithet:venustus" ; Times: 1
+	Query: "lmk" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "OMNH 34102" ; Times: 1
+	Query: "29221" ; Times: 1
+	Query: "Phyllotis osilae" ; Times: 6
+	Query: "genus:Caluromysiops specificepithet:irrupta" ; Times: 1
+	Query: "Oklahoma mammals" ; Times: 2
+	Query: "genus:Phyllostomus specificepithet:hastatus" ; Times: 1
+	Query: "genus:Eptesicus specificepithet:brasiliensis" ; Times: 1
+	Query: "genus:Phyllostomus specificepithet:discolor" ; Times: 1
+	Query: "genus:Alcelaphus " ; Times: 1
+	Query: "specificepithet:catta genus:lemur" ; Times: 1
+	Query: "genus:Papio specificepithet:sp." ; Times: 1
+	Query: "Berardius bairdii" ; Times: 1
+	Query: "genus:peromyscus class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:OMNH" ; Times: 1
+	Query: "Didelphis albiventris" ; Times: 1
+	Query: "oryzomys legatus" ; Times: 10
+	Query: "genus:Blarina stateprovince:&#34;Oklahoma&#34;" ; Times: 9
+	Query: "OMNH 34091" ; Times: 2
+	Query: "genus:Atelerix" ; Times: 1
+	Query: "class:Mammalia county:&#34;Union&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:parvus genus:Perognathus preparations:alcoholic" ; Times: 1
+	Query: "Lama" ; Times: 1
+	Query: "catalognumber:15911" ; Times: 2
+	Query: "genus:Dasypus stateprovince:&#34;Tennessee&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Lasionycteris specificepithet:noctivagans" ; Times: 1
+	Query: "family:soricidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:Ammospermophilus specificepithet:harrisii" ; Times: 1
+	Query: "specificepithet:budini genus:akodon hastissue:1" ; Times: 1
+	Query: "anteater skeleton" ; Times: 2
+	Query: "genus:Erethizon stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "bats" ; Times: 1
+	Query: "genus:Eptesicus specificepithet:diminutus" ; Times: 1
+	Query: "ocelot" ; Times: 2
+	Query: "genus:andinomys stateprovince:&#34;tucumán&#34;" ; Times: 1
+	Query: "neotoma angustapalata" ; Times: 1
+	Query: "Sus scrofa mappable:1" ; Times: 1
+	Query: "specificepithet:spectabilis genus:Dipodomys preparations:alcoholic" ; Times: 1
+	Query: "62264" ; Times: 2
+	Query: "59041" ; Times: 1
+	Query: "specificepithet:agilis genus:dipodomys class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:panamintinus genus:dipodomys class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:OMNH" ; Times: 1
+	Query: "Oklahoma AND Blarina vntype:specimen genus:Blarina stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:Marmota specificepithet:monax" ; Times: 1
+	Query: "lonchorhina aurita" ; Times: 1
+	Query: "genus:Neacomys" ; Times: 1
+	Query: "genus:Podomys" ; Times: 1
+	Query: "genus:Stenella specificepithet:attenuata" ; Times: 1
+	Query: "Myotis sodalis mappable:1" ; Times: 2
+	Query: "genus:Corynorhinus specificepithet:mexicanus" ; Times: 1
+	Query: "specificepithet:intermedius genus:Chaetodipus preparations:alcoholic" ; Times: 1
+	Query: "28317" ; Times: 1
+	Query: "specificepithet:concolor genus:puma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:lilium genus:Sturnira stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:borealis genus:lasiurus county:&#34;coryell&#34; stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "Thylamys pallidior" ; Times: 1
+	Query: "genus:peromyscus class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:OMNH" ; Times: 1
+	Query: "lactens" ; Times: 2
+	Query: "Oklahoma AND Blarina" ; Times: 1
+	Query: "ARG 4253" ; Times: 2
+	Query: "brown bear" ; Times: 1
+	Query: "specificepithet:borealis genus:Lasiurus stateprovince:&#34;Oklahoma&#34;" ; Times: 3
+	Query: "genus:capra class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "genus:Lemur specificepithet:catta" ; Times: 1
+	Query: "akodon budini" ; Times: 3
+	Query: "specificepithet:baileyi genus:Chaetodipus preparations:alcoholic" ; Times: 1
+	Query: "genus:Antrozous" ; Times: 1
+	Query: "Star Landing" ; Times: 1
+	Query: "sun bear" ; Times: 1
+	Query: "brucepattersonius" ; Times: 1
+	Query: "29240" ; Times: 3
+	Query: "12108" ; Times: 1
+	Query: "Clearwater Peromyscus" ; Times: 2
+	Query: "specificepithet:osilae genus:Phyllotis country:&#34;Argentina&#34;" ; Times: 6
+	Query: "arg 4233" ; Times: 1
+	Query: "specificepithet:merriami genus:dipodomys class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:OMNH" ; Times: 1
+	Query: "histiotus macrotus" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 4
+	Query: "Gorillas" ; Times: 1
+	Query: "genus:Alcelaphus  specificepithet:buselaphus" ; Times: 1
+	Query: "country:&#34;thailand&#34; continent:asia institutioncode:OMNH" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "order:Chiroptera county:&#34;Comanche&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:Desmodus" ; Times: 1
+	Query: "Andinomys" ; Times: 1
+	Query: "genus:Lasionycteris stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "&#34;Lacey&#34;" ; Times: 1
+	Query: "ARG 4220" ; Times: 4
+	Query: "siamang" ; Times: 3
+	Query: "specificepithet:catta genus:lemur year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "23937" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Caracal caracal" ; Times: 1
+	Query: "American Mink" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 9
+	Query: "specificepithet:noctivagans genus:Lasionycteris stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:Saimiri specificepithet:sciureus" ; Times: 1
+	Query: "Myotis septentrionalis mappable:1" ; Times: 2
+	Query: "nyctinomops aurispinosus" ; Times: 1
+	Query: "specificepithet:merriami genus:Peromyscus county:&#34;santa cruz&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "specificepithet:humulis genus:Reithrodontomys county:&#34;Sebastian&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "specificepithet:budini genus:Akodon" ; Times: 2
+	Query: "genus:Equus specificepithet:sp." ; Times: 1
+	Query: "genus:Eptesicus specificepithet:furinalis" ; Times: 1
+	Query: "23148" ; Times: 1
+	Query: "genus:Procyon specificepithet:cancrivorus" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "ARG 4237" ; Times: 2
+	Query: "class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:OMNH" ; Times: 2
+	Query: "ARG 4235" ; Times: 2
+	Query: "Oxymycterus paramensis" ; Times: 17
+	Query: "ARG 4233" ; Times: 3
+	Query: "OMNH 23148" ; Times: 1
+	Query: "armadillo skeleton" ; Times: 1
+	Query: "specificepithet:carolinensis class:MAMMALIA county:&#34;jefferson&#34; year &gt;= 1978" ; Times: 1
+	Query: "ARG 4239" ; Times: 2
+	Query: "genus:Papio specificepithet:hamadryas" ; Times: 1
+	Query: "giant anteater skeleton" ; Times: 2
+	Query: "specificepithet:fulvescens genus:Reithrodontomys country:&#34;Mexico&#34; hastissue:1" ; Times: 4
+	Query: "genus:Zapus stateprovince:&#34;New Mexico&#34;" ; Times: 3
+	Query: "specificepithet:penicillatus genus:Chaetodipus preparations:alcoholic" ; Times: 1
+	Query: "specificepithet:hispidus genus:Chaetodipus preparations:alcoholic" ; Times: 1
+	Query: "Cavia aperea" ; Times: 1
+	Query: "genus:perognathus class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:OMNH" ; Times: 1
+	Query: "coryell" ; Times: 1
+	Query: "genus:Corynorhinus specificepithet:townsendii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 86 (out of 985 download events in this period)
+Total number of records downloaded: 9013
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 5
+	Country: United States ; Times: 49
+	Country: Peru ; Times: 13
+	Country: Ecuador ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 2
+	Date: 2019-07-18 ; Times: 3
+	Date: 2019-07-19 ; Times: 4
+	Date: 2019-07-08 ; Times: 1
+	Date: 2019-07-12 ; Times: 2
+	Date: 2019-07-10 ; Times: 4
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-30 ; Times: 4
+	Date: 2019-07-31 ; Times: 4
+	Date: 2019-07-15 ; Times: 2
+	Date: 2019-07-23 ; Times: 5
+	Date: 2019-07-22 ; Times: 6
+	Date: 2019-07-21 ; Times: 4
+	Date: 2019-07-20 ; Times: 5
+	Date: 2019-07-25 ; Times: 20
+	Date: 2019-07-29 ; Times: 1
+	Date: 2019-07-28 ; Times: 1
+	Date: 2019-07-05 ; Times: 7
+	Date: 2019-07-04 ; Times: 5
+	Date: 2019-07-07 ; Times: 1
+	Date: 2019-07-17 ; Times: 3
+	Date: 2019-07-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:concolor genus:puma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "order:Chiroptera county:&#34;Comanche&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1971 year &lt;= 1975" ; Times: 1
+	Query: "genus:Lasionycteris stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:Dasypus stateprovince:&#34;Tennessee&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:borealis genus:Lasiurus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 3
+	Query: "order:Rodentia stateprovince:&#34;New Mexico&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 2
+	Query: "Blarina vntype:specimen genus:Blarina stateprovince:&#34;Oklahoma&#34; (Oklahoma)" ; Times: 2
+	Query: "dipodomys microps" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1996 year &lt;= 2000" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1951 year &lt;= 1960" ; Times: 2
+	Query: "Nyctinomops macrotis" ; Times: 2
+	Query: "Calomys lepidus" ; Times: 1
+	Query: "Caluromys philander" ; Times: 1
+	Query: "specificepithet:noctivagans genus:Lasionycteris stateprovince:&#34;Oklahoma&#34;" ; Times: 3
+	Query: "specificepithet:cinereoargenteus genus:Urocyon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 5
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1991 year &lt;= 1995" ; Times: 1
+	Query: "genus:Blarina stateprovince:&#34;Oklahoma&#34; institutioncode:OMNH" ; Times: 1
+	Query: "Oklahoma AND Blarina vntype:specimen genus:Blarina stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "galapagos" ; Times: 1
+	Query: "genus:Erethizon stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 2
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1990 year &lt;= 1995" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:urocyon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "Thylamys pallidior" ; Times: 1
+	Query: "histiotus macrotus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1931 year &lt;= 1940" ; Times: 1
+	Query: "lama guanicoe" ; Times: 1
+	Query: "family:soricidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1981 year &lt;= 1985" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "Platyrrhinus helleri" ; Times: 5
+	Query: "Histiotus macrotus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1966 year &lt;= 1970" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1986 year &lt;= 1990" ; Times: 1
+	Query: "Phyllotis osilae" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 2001 year &lt;= 2005" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Arizona&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "calomys lepidus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1961 year &lt;= 1965" ; Times: 3
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 2000 year &lt;= 2004" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Eastern Spotted Skunk" ; Times: 1
+	Query: "Berardius bairdii" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Didelphis albiventris" ; Times: 1
+	Query: "artibeus aztecus" ; Times: 1
+	Query: "genus:Blarina stateprovince:&#34;Oklahoma&#34;" ; Times: 3
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1976 year &lt;= 1980" ; Times: 2
+	Query: "Cavia porcellus" ; Times: 1
+
+
+End of report.
