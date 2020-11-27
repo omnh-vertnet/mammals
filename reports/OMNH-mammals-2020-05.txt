@@ -1,0 +1,298 @@
+Report for Institution Code OMNH, Resource mammals
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 257
+Number of records retrieved in searches: 1279
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 76
+	Country: Canada ; Times: 3
+	Country: Ireland ; Times: 10
+	Country: Australia ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Mexico ; Times: 21
+	Country: Nepal ; Times: 5
+	Country: Singapore ; Times: 1
+	Country: France ; Times: 5
+	Country: United States ; Times: 118
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 9
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 4
+	Date: 2020-05-24 ; Times: 5
+	Date: 2020-05-27 ; Times: 59
+	Date: 2020-05-26 ; Times: 15
+	Date: 2020-05-21 ; Times: 2
+	Date: 2020-05-20 ; Times: 1
+	Date: 2020-05-23 ; Times: 5
+	Date: 2020-05-22 ; Times: 4
+	Date: 2020-05-28 ; Times: 24
+	Date: 2020-05-18 ; Times: 3
+	Date: 2020-05-19 ; Times: 4
+	Date: 2020-05-10 ; Times: 7
+	Date: 2020-05-12 ; Times: 5
+	Date: 2020-05-13 ; Times: 8
+	Date: 2020-05-14 ; Times: 2
+	Date: 2020-05-15 ; Times: 8
+	Date: 2020-05-16 ; Times: 4
+	Date: 2020-05-17 ; Times: 19
+	Date: 2020-05-30 ; Times: 5
+	Date: 2020-05-31 ; Times: 2
+	Date: 2020-05-09 ; Times: 2
+	Date: 2020-05-08 ; Times: 20
+	Date: 2020-05-07 ; Times: 15
+	Date: 2020-05-06 ; Times: 9
+	Date: 2020-05-04 ; Times: 11
+	Date: 2020-05-03 ; Times: 1
+	Date: 2020-05-02 ; Times: 6
+	Date: 2020-05-01 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "64668" ; Times: 1
+	Query: "36580" ; Times: 1
+	Query: "conepatus leuconotus" ; Times: 1
+	Query: "65493" ; Times: 1
+	Query: "64666" ; Times: 1
+	Query: "recordedby:Adcock" ; Times: 1
+	Query: "DIDELPHIS ALBIVENTRIS" ; Times: 1
+	Query: "gdb" ; Times: 1
+	Query: "xenarthra" ; Times: 1
+	Query: "Molossops temminckii" ; Times: 1
+	Query: "47128" ; Times: 1
+	Query: "57822" ; Times: 1
+	Query: "melursus ursinus" ; Times: 5
+	Query: "64733" ; Times: 1
+	Query: "34415" ; Times: 1
+	Query: "dipodomys ingens" ; Times: 2
+	Query: "specificepithet:lucifugus genus:Myotis stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "28960" ; Times: 1
+	Query: "36803" ; Times: 1
+	Query: "OMNH 36026" ; Times: 1
+	Query: "18482" ; Times: 1
+	Query: "county:&#34;san cristobal&#34;" ; Times: 1
+	Query: "genus:Geomys county:&#34;McCurtain&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "34410" ; Times: 1
+	Query: "65127" ; Times: 1
+	Query: "specificepithet:boylii genus:peromyscus stateprovince:&#34;california&#34; institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 1
+	Query: "lama guanicoe" ; Times: 1
+	Query: "cervus canadensis" ; Times: 1
+	Query: "catalognumber:31824" ; Times: 1
+	Query: "64968" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "gdb genus:reithrodontomys" ; Times: 2
+	Query: "60453" ; Times: 1
+	Query: "51940" ; Times: 1
+	Query: "Baiomys taylori taylori stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "centronycteris maximiliani" ; Times: 2
+	Query: "guanaco" ; Times: 1
+	Query: "diclidurus albus" ; Times: 66
+	Query: "specificepithet:fulviventer genus:sigmodon stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "24183" ; Times: 1
+	Query: "45761" ; Times: 1
+	Query: "46888" ; Times: 1
+	Query: "Lepus americanus Alaska" ; Times: 1
+	Query: "southern yellow bat" ; Times: 1
+	Query: "55084" ; Times: 1
+	Query: "10041" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 5
+	Query: "vntype:specimen specificepithet:americanus genus:ursus stateprovince:&#34;mississippi&#34; year &gt;= 1930" ; Times: 1
+	Query: "perognathus merriami" ; Times: 2
+	Query: "33797" ; Times: 1
+	Query: "50345" ; Times: 1
+	Query: "nyctinomops aurispinosus" ; Times: 1
+	Query: "63237" ; Times: 1
+	Query: "genus:Bison specificepithet:Bison" ; Times: 1
+	Query: "9152 peromyscus" ; Times: 1
+	Query: "vampire" ; Times: 1
+	Query: "15583" ; Times: 1
+	Query: "Lama guanicoe" ; Times: 7
+	Query: "Museum of Biological Diversity" ; Times: 2
+	Query: "Centronycteris maximiliani" ; Times: 2
+	Query: "43990" ; Times: 1
+	Query: "specificepithet:fosteri genus:Thrichomys" ; Times: 1
+	Query: "catalognumber:19612" ; Times: 1
+	Query: "47956" ; Times: 1
+	Query: "37232" ; Times: 2
+	Query: "TAMIAS BULLERI" ; Times: 2
+	Query: "family:Ursidae lifestage:adult" ; Times: 1
+	Query: "2071 peromyscus" ; Times: 3
+	Query: "catalognumber:28784" ; Times: 2
+	Query: "(bat) year &gt;= 1935 year &lt;= 1943" ; Times: 1
+	Query: "44752" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+	Query: "16883" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "2074 peromyscus" ; Times: 1
+	Query: "mephitis macroura" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 3
+	Query: "2382 peromyscus" ; Times: 1
+	Query: "county:&#34;san cristobal&#34; stateprovince:&#34;Galapagos&#34; country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Manis crassicaudata" ; Times: 1
+	Query: "16804" ; Times: 1
+	Query: "Armadillo" ; Times: 2
+	Query: "catalognumber:45779" ; Times: 1
+	Query: "38592" ; Times: 1
+	Query: "Leopardus colocolo" ; Times: 1
+	Query: "58664" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 8
+	Query: "9738 peromyscus" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Geomys county:&#34;Haskell&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "20009" ; Times: 1
+	Query: "39437" ; Times: 1
+	Query: "sigmodon fulviventer texas" ; Times: 1
+	Query: "leopardus colocolo" ; Times: 2
+	Query: "Dicrostonyx groenlandicus" ; Times: 1
+	Query: "genus:Eira" ; Times: 2
+	Query: "33042" ; Times: 1
+	Query: "genus:Ondatra stateprovince:&#34;Illinois&#34;" ; Times: 2
+	Query: "Noctilio leporinus" ; Times: 4
+	Query: "family:soricidae stateprovince:&#34;nayarit&#34;" ; Times: 8
+	Query: "64748" ; Times: 1
+	Query: "51803" ; Times: 1
+	Query: "48626" ; Times: 1
+	Query: "specificepithet:pachyurus genus:Thrichomys" ; Times: 1
+	Query: "38633" ; Times: 1
+	Query: "15579" ; Times: 1
+	Query: "specificepithet:trinotatus genus:zapus" ; Times: 1
+	Query: "12549" ; Times: 1
+	Query: "38568" ; Times: 1
+	Query: "catalognumber:26392" ; Times: 1
+	Query: "(19565)" ; Times: 1
+	Query: "64705" ; Times: 1
+	Query: "46562" ; Times: 1
+	Query: "33761" ; Times: 1
+	Query: "catalognumber:16611" ; Times: 2
+	Query: "spilogale angustifrons" ; Times: 1
+	Query: "49138" ; Times: 1
+	Query: "genus:Ctenomys haslength:1" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "specificepithet:perotis genus:eumops haslength:1" ; Times: 1
+	Query: "12552" ; Times: 1
+	Query: "38185" ; Times: 1
+	Query: "catalognumber:26392 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Diclidurus albus" ; Times: 2
+	Query: "catalognumber:43943 institutioncode:OMNH" ; Times: 3
+	Query: "belize and chiroptera" ; Times: 2
+	Query: "genus:Urocyon hastissue:1" ; Times: 2
+	Query: "apsu" ; Times: 1
+	Query: "Perognathus merriami" ; Times: 3
+	Query: "37765" ; Times: 1
+	Query: "Peromyscus eremicus eremicus county:&#34;El Paso&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "30246" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Thalpomys" ; Times: 1
+	Query: "specificepithet:californicus genus:peromyscus institutioncode:OMNH" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 72 (out of 1106 download events in this period)
+Total number of records downloaded: 21173
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 2
+	Country: Nepal ; Times: 1
+	Country: United States ; Times: 41
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 1
+	Date: 2020-05-27 ; Times: 1
+	Date: 2020-05-26 ; Times: 2
+	Date: 2020-05-23 ; Times: 5
+	Date: 2020-05-22 ; Times: 12
+	Date: 2020-05-28 ; Times: 4
+	Date: 2020-05-18 ; Times: 2
+	Date: 2020-05-19 ; Times: 2
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-12 ; Times: 1
+	Date: 2020-05-13 ; Times: 4
+	Date: 2020-05-15 ; Times: 2
+	Date: 2020-05-16 ; Times: 1
+	Date: 2020-05-17 ; Times: 1
+	Date: 2020-05-30 ; Times: 8
+	Date: 2020-05-08 ; Times: 10
+	Date: 2020-05-07 ; Times: 3
+	Date: 2020-05-06 ; Times: 4
+	Date: 2020-05-04 ; Times: 2
+	Date: 2020-05-03 ; Times: 3
+	Date: 2020-05-02 ; Times: 1
+	Date: 2020-05-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Mus" ; Times: 4
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "order:Rodentia stateprovince:Utah" ; Times: 2
+	Query: "specificepithet:rufescens genus:Elephantulus" ; Times: 1
+	Query: "conepatus leuconotus" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Peromyscus eremicus eremicus county:&#34;El Paso&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "mephitis macroura" ; Times: 1
+	Query: "Perognathus flavus" ; Times: 1
+	Query: "vntype:specimen genus:Mus haslength:1" ; Times: 1
+	Query: "Perognathus fasciatus" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "Phoca vitulina" ; Times: 1
+	Query: "Zalophus californianus" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "melursus ursinus" ; Times: 1
+	Query: "Perognathus merriami" ; Times: 1
+	Query: "order:Rodentia stateprovince:New Mexico" ; Times: 2
+	Query: "Diclidurus albus" ; Times: 1
+	Query: "spilogale gracilis" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+	Query: "spilogale angustifrons" ; Times: 1
+	Query: "&#34;Peromyscus keeni&#34;" ; Times: 1
+	Query: "Lama guanicoe" ; Times: 4
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "specificepithet:lucifugus genus:Myotis stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Leopardus colocolo" ; Times: 1
+	Query: "Perognathus flavescens" ; Times: 1
+	Query: "peromyscus melanotis" ; Times: 1
+	Query: "order:Rodentia stateprovince:Nevada" ; Times: 2
+	Query: "specificepithet:trowbridgii genus:sorex" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "genus:Gulo" ; Times: 1
+	Query: "order:Rodentia stateprovince:Colorado" ; Times: 2
+	Query: "Peromyscus polionotus" ; Times: 1
+	Query: "Centronycteris maximiliani" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 2
+	Query: "specificepithet:fosteri genus:Thrichomys" ; Times: 1
+	Query: "Martes martes" ; Times: 1
+	Query: "lama guanicoe" ; Times: 2
+	Query: "cervus canadensis" ; Times: 1
+	Query: "egg texas" ; Times: 1
+	Query: "belize and chiroptera" ; Times: 1
+	Query: "odocoileus hemionus" ; Times: 1
+	Query: "genus:Eira" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Jackson Oregon" ; Times: 1
+	Query: "genus:Martes" ; Times: 2
+	Query: "nasua narica" ; Times: 1
+	Query: "diclidurus albus" ; Times: 2
+	Query: "Lasiurus cinereus" ; Times: 1
+
+
+End of report.
