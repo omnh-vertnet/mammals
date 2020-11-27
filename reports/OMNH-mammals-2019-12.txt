@@ -1,0 +1,235 @@
+Report for Institution Code OMNH, Resource mammals
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 186
+Number of records retrieved in searches: 1163
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 17
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Uruguay ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: Mexico ; Times: 9
+	Country: France ; Times: 7
+	Country: United States ; Times: 104
+	Country: Germany ; Times: 2
+	Country: Ecuador ; Times: 20
+	Country: Chile ; Times: 14
+	Country: Argentina ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 3
+	Date: 2019-12-24 ; Times: 8
+	Date: 2019-12-27 ; Times: 8
+	Date: 2019-12-26 ; Times: 3
+	Date: 2019-12-21 ; Times: 2
+	Date: 2019-12-20 ; Times: 5
+	Date: 2019-12-22 ; Times: 3
+	Date: 2019-12-28 ; Times: 1
+	Date: 2019-12-18 ; Times: 2
+	Date: 2019-12-19 ; Times: 4
+	Date: 2019-12-10 ; Times: 6
+	Date: 2019-12-11 ; Times: 24
+	Date: 2019-12-12 ; Times: 8
+	Date: 2019-12-13 ; Times: 6
+	Date: 2019-12-15 ; Times: 3
+	Date: 2019-12-17 ; Times: 12
+	Date: 2019-12-30 ; Times: 5
+	Date: 2019-12-31 ; Times: 20
+	Date: 2019-12-09 ; Times: 13
+	Date: 2019-12-08 ; Times: 5
+	Date: 2019-12-07 ; Times: 12
+	Date: 2019-12-06 ; Times: 7
+	Date: 2019-12-05 ; Times: 5
+	Date: 2019-12-04 ; Times: 11
+	Date: 2019-12-03 ; Times: 3
+	Date: 2019-12-02 ; Times: 4
+	Date: 2019-12-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "53319" ; Times: 1
+	Query: "Microtus chrotorrhinus" ; Times: 7
+	Query: "leopardus wiedii" ; Times: 2
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "SP 3030" ; Times: 1
+	Query: "dipodomys stephensi" ; Times: 2
+	Query: "specificepithet:putorius genus:SPilogale" ; Times: 4
+	Query: "Stenella longirostris mappable:1" ; Times: 2
+	Query: "genus:Odobenus" ; Times: 1
+	Query: "spilogale putorius" ; Times: 1
+	Query: "18569" ; Times: 1
+	Query: "recordnumber:pa" ; Times: 2
+	Query: "genus:ursus stateprovince:&#34;mississippi&#34; institutioncode:OMNH" ; Times: 1
+	Query: "24368" ; Times: 1
+	Query: "58319" ; Times: 1
+	Query: "marsh dulzura california" ; Times: 2
+	Query: "bulleri country:&#34;mexico&#34;" ; Times: 1
+	Query: "OMNH 36220" ; Times: 2
+	Query: "red squirrel" ; Times: 1
+	Query: "wild boar" ; Times: 1
+	Query: "specificepithet:cursor genus:Akodon" ; Times: 1
+	Query: "frederick island" ; Times: 2
+	Query: "27933" ; Times: 1
+	Query: "55084" ; Times: 1
+	Query: "32093" ; Times: 1
+	Query: "52713" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 7
+	Query: "20195" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "specificepithet:crinitus genus:peromyscus county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:OMNH" ; Times: 1
+	Query: "Sphiggurus" ; Times: 1
+	Query: "genus:Histiotus institutioncode:OMNH" ; Times: 2
+	Query: "specificepithet:lineatus genus:Chaetodipus" ; Times: 1
+	Query: "nyctinomops macrotis" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Tonatia bidens" ; Times: 2
+	Query: "OMNH 27933" ; Times: 4
+	Query: "country:&#34;Mexico&#34; recordedby:Huey basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:ailurus" ; Times: 1
+	Query: "specificepithet:parva genus:Cryptotis hastissue:1" ; Times: 1
+	Query: "big brown bat" ; Times: 2
+	Query: "OMNH 23783" ; Times: 1
+	Query: "pika" ; Times: 2
+	Query: "Steno bredanensis mappable:1" ; Times: 2
+	Query: "addax" ; Times: 1
+	Query: "OMNH 34544" ; Times: 1
+	Query: "OMNH 34545" ; Times: 1
+	Query: "37484" ; Times: 2
+	Query: "warfel" ; Times: 3
+	Query: "59361" ; Times: 1
+	Query: "Tonatia" ; Times: 1
+	Query: "SERVAL" ; Times: 2
+	Query: "17045" ; Times: 1
+	Query: "54011" ; Times: 1
+	Query: "Spotted skunk" ; Times: 1
+	Query: "gray fox" ; Times: 2
+	Query: "11270." ; Times: 1
+	Query: "28549" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus county:&#34;Comanche&#34; stateprovince:&#34;Oklahoma&#34; hastissue:1" ; Times: 1
+	Query: "microtus chrotorrhinus" ; Times: 16
+	Query: "asian golden cat" ; Times: 1
+	Query: "50129" ; Times: 2
+	Query: "13208" ; Times: 1
+	Query: "reindeer" ; Times: 1
+	Query: "Striped hyena" ; Times: 1
+	Query: "specificepithet:dispar genus:Sorex" ; Times: 1
+	Query: "56609" ; Times: 1
+	Query: "specificepithet:eremicus genus:peromyscus county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:OMNH" ; Times: 1
+	Query: "mustela nigripes" ; Times: 2
+	Query: "55764" ; Times: 1
+	Query: "OMNH 23496" ; Times: 3
+	Query: "OMNH 23497" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;north carolina&#34; hastissue:1" ; Times: 1
+	Query: "catalognumber:36799" ; Times: 1
+	Query: "catalognumber:46522 institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus locality:Vedauwoo county:&#34;Albany&#34; stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "rock vole" ; Times: 2
+	Query: "genus:Bassariscus" ; Times: 1
+	Query: "OMNH 23790" ; Times: 1
+	Query: "23783" ; Times: 1
+	Query: "13110" ; Times: 1
+	Query: "catopuma" ; Times: 1
+	Query: "TOLYPEUTES" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "genus:ursus stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "franklinii franklinii" ; Times: 1
+	Query: "58113" ; Times: 1
+	Query: "OMNH 23768" ; Times: 2
+	Query: "49481" ; Times: 2
+	Query: "specificepithet:cristata genus:Proteles" ; Times: 1
+	Query: "Abrothrix andinus" ; Times: 1
+	Query: "specificepithet:yagouaroundi" ; Times: 1
+	Query: "catalognumber:1129" ; Times: 1
+	Query: "14153" ; Times: 1
+	Query: "specificepithet:pallidior genus:Thylamys" ; Times: 3
+	Query: "oligoryzomys chacoensis" ; Times: 1
+	Query: "THYLAMYS ELEGANS" ; Times: 14
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "specificepithet:putorius genus:spilogale institutioncode:OMNH" ; Times: 1
+	Query: "nyctinomops aurispinosus" ; Times: 1
+	Query: "14865" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus locality:Vedauwoo county:&#34;Albany&#34; stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "33534" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "OMNH 39600" ; Times: 1
+	Query: "Trichechus manatus mappable:1" ; Times: 2
+	Query: "specificepithet:axis" ; Times: 1
+	Query: "lycalopex" ; Times: 1
+	Query: "Reithrodontomys mexicanus" ; Times: 1
+	Query: "11719" ; Times: 1
+	Query: "skunk" ; Times: 1
+	Query: "western harvest mouse" ; Times: 1
+	Query: "hedgehog" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 596 download events in this period)
+Total number of records downloaded: 1834
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Argentina ; Times: 3
+	Country: Chile ; Times: 3
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-27 ; Times: 2
+	Date: 2019-12-26 ; Times: 3
+	Date: 2019-12-02 ; Times: 5
+	Date: 2019-12-04 ; Times: 5
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-09 ; Times: 5
+	Date: 2019-12-08 ; Times: 3
+	Date: 2019-12-10 ; Times: 5
+	Date: 2019-12-11 ; Times: 2
+	Date: 2019-12-05 ; Times: 1
+	Date: 2019-12-13 ; Times: 2
+	Date: 2019-12-03 ; Times: 2
+	Date: 2019-12-12 ; Times: 3
+	Date: 2019-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Condylura" ; Times: 2
+	Query: "marmota monax" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 2
+	Query: "Spotted skunk" ; Times: 1
+	Query: "Abrothrix andinus" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "specificepithet:longicaudatus genus:Oligoryzomys" ; Times: 1
+	Query: "myotis melanorhinus" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "myotis volans" ; Times: 1
+	Query: "oligoryzomys chacoensis" ; Times: 2
+	Query: "vntype:specimen genus:phyllotis family:Cricetidae" ; Times: 1
+	Query: "specificepithet:lineatus genus:Chaetodipus" ; Times: 3
+	Query: "THYLAMYS ELEGANS" ; Times: 2
+	Query: "specificepithet:dispar genus:Sorex" ; Times: 1
+	Query: "genus:Odobenus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "abrothrix longipilis" ; Times: 1
+	Query: "specificepithet:pallidior genus:Thylamys" ; Times: 2
+	Query: "Perognathus flavescens" ; Times: 1
+	Query: "nyctinomops macrotis" ; Times: 1
+	Query: "oligoryzomys flavescens" ; Times: 1
+	Query: "country:&#34;Mexico&#34; recordedby:Huey basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "specificepithet:micropus genus:Loxodontomys" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+
+
+End of report.
