@@ -1,0 +1,348 @@
+Report for Institution Code OMNH, Resource mammals
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 269
+Number of records retrieved in searches: 4989
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 15
+	Country: Canada ; Times: 3
+	Country: Netherlands ; Times: 5
+	Country: Peru ; Times: 6
+	Country: Mexico ; Times: 26
+	Country: Denmark ; Times: 1
+	Country: India ; Times: 4
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Ireland ; Times: 6
+	Country: Unknown ; Times: 27
+	Country: Paraguay ; Times: 1
+	Country: Colombia ; Times: 13
+	Country: United States ; Times: 99
+	Country: Argentina ; Times: 10
+	Country: Ecuador ; Times: 47
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-08 ; Times: 7
+	Date: 2020-07-21 ; Times: 19
+	Date: 2020-07-20 ; Times: 8
+	Date: 2020-07-27 ; Times: 4
+	Date: 2020-07-26 ; Times: 4
+	Date: 2020-07-25 ; Times: 24
+	Date: 2020-07-22 ; Times: 9
+	Date: 2020-07-01 ; Times: 12
+	Date: 2020-07-03 ; Times: 8
+	Date: 2020-07-02 ; Times: 7
+	Date: 2020-07-05 ; Times: 2
+	Date: 2020-07-04 ; Times: 4
+	Date: 2020-07-07 ; Times: 13
+	Date: 2020-07-06 ; Times: 9
+	Date: 2020-07-24 ; Times: 4
+	Date: 2020-07-23 ; Times: 11
+	Date: 2020-07-29 ; Times: 28
+	Date: 2020-07-19 ; Times: 3
+	Date: 2020-07-12 ; Times: 2
+	Date: 2020-07-13 ; Times: 9
+	Date: 2020-07-10 ; Times: 2
+	Date: 2020-07-11 ; Times: 3
+	Date: 2020-07-16 ; Times: 14
+	Date: 2020-07-31 ; Times: 4
+	Date: 2020-07-14 ; Times: 22
+	Date: 2020-07-17 ; Times: 12
+	Date: 2020-07-15 ; Times: 5
+	Date: 2020-07-28 ; Times: 17
+	Date: 2020-07-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "58955" ; Times: 1
+	Query: "long tailed weasel" ; Times: 2
+	Query: "Artibeus lituratus (Great fruit-eating bat)" ; Times: 1
+	Query: "11825" ; Times: 1
+	Query: "specificepithet:polionotus genus:peromyscus county:&#34;st johns&#34; stateprovince:&#34;florida&#34;" ; Times: 2
+	Query: "catalognumber:41727 institutioncode:OMNH" ; Times: 1
+	Query: "39186" ; Times: 1
+	Query: "catalognumber:37676" ; Times: 1
+	Query: "OMNH Conepatus" ; Times: 2
+	Query: "Muntiacus muntjak" ; Times: 2
+	Query: "10347" ; Times: 1
+	Query: "Tlacuatzin canescens" ; Times: 1
+	Query: "catalognumber:42833" ; Times: 2
+	Query: "pallid bat" ; Times: 1
+	Query: "52151" ; Times: 1
+	Query: "artibeus aztecus" ; Times: 1
+	Query: "Conepatus" ; Times: 1
+	Query: "Lycalopex griseus" ; Times: 1
+	Query: "Stenella longirostris mappable:1" ; Times: 1
+	Query: "40497" ; Times: 1
+	Query: "27204" ; Times: 1
+	Query: "catalognumber:55271" ; Times: 1
+	Query: "genus:Microcavia" ; Times: 3
+	Query: "geomys bursarius missouri" ; Times: 1
+	Query: "county:&#34;newton&#34;" ; Times: 1
+	Query: "lobo" ; Times: 1
+	Query: "sus scrofa" ; Times: 2
+	Query: "Didelphis virginiana" ; Times: 2
+	Query: "specificepithet:megacephalus genus:Hylaeamys country:&#34;Brazil&#34;" ; Times: 1
+	Query: "ADM 4" ; Times: 1
+	Query: "45055" ; Times: 1
+	Query: "Dipodomys nitratoides" ; Times: 1
+	Query: "Dipodomys elator" ; Times: 1
+	Query: "Lama guanicoe country:&#34;Argentina&#34;" ; Times: 1
+	Query: "Warfel" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "15110" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 3
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "Loxodonta basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Oryzomys" ; Times: 8
+	Query: "Nasua nasua" ; Times: 2
+	Query: "vntype:specimen genus:Spilogale hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Mephitis hastissue:1" ; Times: 1
+	Query: "Noctilio leporinus vntype:specimen country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Lycalopex culpaeus" ; Times: 1
+	Query: "catalognumber:16553" ; Times: 1
+	Query: "genus:Spilogale hastissue:1" ; Times: 5
+	Query: "35921" ; Times: 1
+	Query: "genus:Lynx distance(location,geopoint(5.469554883887501,-102.01171874999999))&lt;4077596" ; Times: 1
+	Query: "genus:Neovison hastissue:1" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans)" ; Times: 1
+	Query: "genus:Antilocapra" ; Times: 3
+	Query: "Spilogale putorius interrupta" ; Times: 1
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "lycalopex culpaeus" ; Times: 1
+	Query: "Phyllostomus hastatus" ; Times: 2
+	Query: "Procyon cancrivorus" ; Times: 1
+	Query: "genus:Lynx distance(location,geopoint(5.469554883887501,-88.65234375))&lt;3923916" ; Times: 1
+	Query: "20502" ; Times: 1
+	Query: "silver haired bat" ; Times: 3
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Noctilio leporinus" ; Times: 4
+	Query: "puma" ; Times: 1
+	Query: "catalognumber:42945 institutioncode:OMNH" ; Times: 1
+	Query: "28482" ; Times: 1
+	Query: "specificepithet:lineatus genus:Chaetodipus" ; Times: 1
+	Query: "manis crassicaudata continent:Asia" ; Times: 1
+	Query: "OMNH 1460" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "glossophaga longirostris" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "56042" ; Times: 1
+	Query: "OMNH 35918" ; Times: 1
+	Query: "OMNH 35919" ; Times: 5
+	Query: "Yungas de Totora" ; Times: 1
+	Query: "catalognumber:40368 institutioncode:OMNH" ; Times: 1
+	Query: "19966" ; Times: 1
+	Query: "Rusa unicolor" ; Times: 1
+	Query: "OMNH 1592" ; Times: 1
+	Query: "geomys bursarius arkansas" ; Times: 1
+	Query: "pika" ; Times: 2
+	Query: "Steno bredanensis mappable:1" ; Times: 1
+	Query: "genus:Conepatus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:chrotorrhinus genus:Microtus" ; Times: 1
+	Query: "Gray Jay" ; Times: 1
+	Query: "catalognumber:43445 institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon (zoo OR captive)" ; Times: 1
+	Query: "11614" ; Times: 1
+	Query: "44107" ; Times: 1
+	Query: "OMNH 3839" ; Times: 1
+	Query: "warfel" ; Times: 2
+	Query: "Speothos venaticus" ; Times: 1
+	Query: "vntype:specimen genus:Conepatus hastissue:1" ; Times: 1
+	Query: "OMNH 4025" ; Times: 3
+	Query: "Eira barbara" ; Times: 1
+	Query: "Lasiurus blossevillii Mexico" ; Times: 2
+	Query: "catalognumber:43819 institutioncode:OMNH" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 3
+	Query: "40514" ; Times: 2
+	Query: "47000" ; Times: 2
+	Query: "OMNH 27947" ; Times: 3
+	Query: "Lonchorhina aurita Belize" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon hastissue:1" ; Times: 2
+	Query: "catalognumber:43943 institutioncode:OMNH" ; Times: 1
+	Query: "leopardus colocolo" ; Times: 4
+	Query: "spotted skunk" ; Times: 1
+	Query: "catalognumber:42676 institutioncode:OMNH" ; Times: 1
+	Query: "32839" ; Times: 1
+	Query: "Lycalopex gymnocercus" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "13459" ; Times: 1
+	Query: "ursus maritimus" ; Times: 4
+	Query: "neotoma floridana" ; Times: 2
+	Query: "Leopardus colocolo" ; Times: 1
+	Query: "specificepithet:ingens genus:Dipodomys" ; Times: 2
+	Query: "genus:Puma" ; Times: 2
+	Query: "19825" ; Times: 1
+	Query: "Pecari tajacu country:&#34;Argentina&#34;" ; Times: 1
+	Query: "corallus" ; Times: 1
+	Query: "Prionailurus viverrinus" ; Times: 1
+	Query: "genus:Mephitis hastissue:1" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 9
+	Query: "vntype:specimen specificepithet:macroura genus:Mephitis hastissue:1" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 2
+	Query: "promops nasutus" ; Times: 3
+	Query: "OMNH 27948" ; Times: 1
+	Query: "Leopardus colocolo hasmass:0" ; Times: 1
+	Query: "Dipodomys stephensi" ; Times: 1
+	Query: "Corallus hortulanus" ; Times: 1
+	Query: "OMNH 2328" ; Times: 1
+	Query: "12348" ; Times: 1
+	Query: "catalognumber:42842" ; Times: 1
+	Query: "Akodon cursor" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "nasua nasua" ; Times: 3
+	Query: "Bos frontalis" ; Times: 1
+	Query: "OMNH 35923" ; Times: 2
+	Query: "28567" ; Times: 1
+	Query: "16350" ; Times: 1
+	Query: "21252" ; Times: 1
+	Query: "promops centralis" ; Times: 3
+	Query: "11163" ; Times: 1
+	Query: "23630" ; Times: 1
+	Query: "Pika" ; Times: 1
+	Query: "catalognumber:42946 institutioncode:OMNH" ; Times: 1
+	Query: "eira barbara" ; Times: 1
+	Query: "Conepatus chinga OMNH" ; Times: 1
+	Query: "OMNH 42054" ; Times: 1
+	Query: "catalognumber:41875 institutioncode:OMNH" ; Times: 3
+	Query: "42543" ; Times: 1
+	Query: "64731" ; Times: 2
+	Query: "Myrmecophaga" ; Times: 2
+	Query: "28078" ; Times: 2
+	Query: "37676" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "46505" ; Times: 1
+	Query: "genus:Akodon" ; Times: 9
+	Query: "catalognumber:42942 institutioncode:OMNH" ; Times: 2
+	Query: "Macrotus waterhousii Mexico" ; Times: 1
+	Query: "Trichechus manatus mappable:1" ; Times: 1
+	Query: "27947" ; Times: 1
+	Query: "21099" ; Times: 1
+	Query: "13627" ; Times: 1
+	Query: "41449" ; Times: 1
+	Query: "catalognumber:63746" ; Times: 1
+	Query: "genus:Oligoryzomys" ; Times: 6
+	Query: "Stenella longirostris" ; Times: 1
+	Query: "31031" ; Times: 1
+	Query: "locality:shady valley county:&#34;johnson&#34; stateprovince:&#34;tennessee&#34;" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 1
+	Query: "Erythrocebus" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 68 (out of 940 download events in this period)
+Total number of records downloaded: 37122
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: Canada ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Colombia ; Times: 7
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 3
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 31
+	Country: Chile ; Times: 1
+	Country: Paraguay ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-22 ; Times: 4
+	Date: 2020-07-21 ; Times: 10
+	Date: 2020-07-27 ; Times: 2
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-30 ; Times: 2
+	Date: 2020-07-03 ; Times: 2
+	Date: 2020-07-02 ; Times: 1
+	Date: 2020-07-07 ; Times: 2
+	Date: 2020-07-06 ; Times: 3
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-29 ; Times: 1
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-19 ; Times: 3
+	Date: 2020-07-13 ; Times: 5
+	Date: 2020-07-10 ; Times: 2
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-16 ; Times: 11
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-14 ; Times: 4
+	Date: 2020-07-17 ; Times: 3
+	Date: 2020-07-15 ; Times: 2
+	Date: 2020-07-28 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Lynx distance(location,geopoint(38.15709787129506,-112.20703125))&lt;2365818.802354772" ; Times: 1
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Belize&#34;" ; Times: 1
+	Query: "nasua nasua" ; Times: 2
+	Query: "Bos frontalis" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "promops centralis" ; Times: 2
+	Query: "oligoryzomys longicaudatus" ; Times: 1
+	Query: "specificepithet:nelsoni genus:Chaetodipus" ; Times: 2
+	Query: "class:Mammalia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Muntiacus muntjak" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "Perognathus longimembris" ; Times: 1
+	Query: "bat year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "class:Mammalia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "eira barbara" ; Times: 1
+	Query: "Rusa unicolor" ; Times: 1
+	Query: "vntype:specimen genus:Conepatus hastissue:1" ; Times: 1
+	Query: "artibeus aztecus" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "specificepithet:heermanni genus:dipodomys" ; Times: 1
+	Query: "specificepithet:lineatus genus:Chaetodipus" ; Times: 1
+	Query: "spotted skunk" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus hastissue:1" ; Times: 1
+	Query: "manis crassicaudata continent:Asia" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "Pecari tajacu country:&#34;Argentina&#34;" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "specificepithet:pinetorum genus:Microtus" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "Lycalopex gymnocercus" ; Times: 1
+	Query: "Lycalopex griseus" ; Times: 1
+	Query: "class:mammalia county:&#34;gaines&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "specificepithet:megacephalus genus:Hylaeamys country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:ingens genus:Dipodomys" ; Times: 1
+	Query: "genus:Puma" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "Lama guanicoe country:&#34;Argentina&#34;" ; Times: 1
+	Query: "cetacea" ; Times: 1
+	Query: "specificepithet:nitratoides genus:dipodomys" ; Times: 1
+	Query: "dromiciops" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 1
+	Query: "Phyllostomidae vntype:specimen year &gt;= 1950 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:felidae" ; Times: 1
+	Query: "genus:Conepatus institutioncode:OMNH" ; Times: 1
+	Query: "promops nasutus" ; Times: 1
+	Query: "brazil mammalia bahia" ; Times: 1
+	Query: "Nasua nasua" ; Times: 2
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "stenella attenuata" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "Stenella longirostris" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "Stenella attenuata" ; Times: 1
+	Query: "Lycalopex culpaeus" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 1
+	Query: "Speothos venaticus" ; Times: 1
+	Query: "Peromyscus gossypinus vntype:specimen" ; Times: 1
+
+
+End of report.
