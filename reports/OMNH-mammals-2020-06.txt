@@ -1,0 +1,177 @@
+Report for Institution Code OMNH, Resource mammals
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 194
+Number of records retrieved in searches: 1220
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 45
+	Country: United States ; Times: 75
+	Country: Italy ; Times: 1
+	Country: Ireland ; Times: 1
+	Country: Mexico ; Times: 16
+	Country: Unknown ; Times: 2
+	Country: Poland ; Times: 1
+	Country: Nepal ; Times: 1
+	Country: India ; Times: 4
+	Country: Peru ; Times: 3
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 38
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Bolivia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-20 ; Times: 2
+	Date: 2020-06-21 ; Times: 1
+	Date: 2020-06-18 ; Times: 2
+	Date: 2020-06-08 ; Times: 18
+	Date: 2020-06-09 ; Times: 11
+	Date: 2020-06-06 ; Times: 7
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-04 ; Times: 19
+	Date: 2020-06-05 ; Times: 6
+	Date: 2020-06-02 ; Times: 8
+	Date: 2020-06-03 ; Times: 11
+	Date: 2020-06-01 ; Times: 42
+	Date: 2020-06-15 ; Times: 2
+	Date: 2020-06-14 ; Times: 1
+	Date: 2020-06-10 ; Times: 20
+	Date: 2020-06-11 ; Times: 25
+	Date: 2020-06-12 ; Times: 7
+	Date: 2020-06-17 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "Red panda" ; Times: 1
+	Query: "sloth" ; Times: 3
+	Query: "specificepithet:novemcinctus genus:dasypus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "locality:kentucky" ; Times: 3
+	Query: "collared lemming" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 6
+	Query: "nasua nasua" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "nine-banded armadillo" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "37841" ; Times: 1
+	Query: "Lasiurus borealis (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lasiurus borealis continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "bobcat" ; Times: 2
+	Query: "Muntiacus muntjak" ; Times: 6
+	Query: "genus:sylvilagus stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "pacific shrew" ; Times: 1
+	Query: "muskrat" ; Times: 1
+	Query: "Sus scrofa" ; Times: 6
+	Query: "Mustela nigripes" ; Times: 2
+	Query: "specificepithet:frenata genus:Mustela hastissue:1" ; Times: 1
+	Query: "Procyon lotor stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "vampire" ; Times: 1
+	Query: "Lasiurus borealis (skin OR fur) AND (NOT Mexico) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "eastern coyote" ; Times: 3
+	Query: "Lasiurus borealis (skin) AND (Mexico) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen genus:Mus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Lasiurus borealis (skin OR fur) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Cavia tschudii" ; Times: 1
+	Query: "genus:Neofelis" ; Times: 1
+	Query: "catalognumber:53248" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "catalognumber:61239" ; Times: 1
+	Query: "grey squirrel" ; Times: 2
+	Query: "Macaca mulatta" ; Times: 6
+	Query: "catalognumber:53419" ; Times: 1
+	Query: "catalognumber:57338" ; Times: 1
+	Query: "catalognumber: 49140" ; Times: 1
+	Query: "Tabasco" ; Times: 2
+	Query: "catalognumber: 61436" ; Times: 1
+	Query: "Paraechinus" ; Times: 1
+	Query: "Catopuma temminckii" ; Times: 4
+	Query: "Neotoma lepida" ; Times: 8
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Geomys arenarius" ; Times: 3
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "CENTRONYCTERIS MAXIMILIANI" ; Times: 33
+	Query: "21719" ; Times: 2
+	Query: "Rusa unicolor" ; Times: 6
+	Query: "Nasua narica" ; Times: 1
+	Query: "catalognumber:19611" ; Times: 1
+	Query: "catalognumber:36168" ; Times: 2
+	Query: "catalognumber:55845" ; Times: 1
+	Query: "scalopus aquaticus" ; Times: 2
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "eastern coyote data" ; Times: 1
+	Query: "59011" ; Times: 1
+	Query: "prairie dog" ; Times: 1
+	Query: "Nasua nasua" ; Times: 3
+	Query: "sea mink" ; Times: 2
+	Query: "Sirenia" ; Times: 1
+	Query: "gaur" ; Times: 1
+	Query: "catalognumber:25187" ; Times: 1
+	Query: "catalognumber:55841" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 5
+	Query: "Lasiurus blossevillii" ; Times: 3
+	Query: "specificepithet:cursor genus:Akodon" ; Times: 11
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 16
+	Query: "RT 286" ; Times: 2
+	Query: "RT 287" ; Times: 1
+	Query: "catalognumber:41469" ; Times: 1
+	Query: "class:mammalia (10058)" ; Times: 2
+	Query: "Lasiurus borealis (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 474 download events in this period)
+Total number of records downloaded: 11398
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Poland ; Times: 2
+	Country: Nepal ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 22
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 3
+	Date: 2020-06-09 ; Times: 2
+	Date: 2020-06-02 ; Times: 3
+	Date: 2020-06-04 ; Times: 10
+	Date: 2020-06-11 ; Times: 6
+	Date: 2020-06-03 ; Times: 2
+	Date: 2020-06-01 ; Times: 4
+	Date: 2020-06-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:novemcinctus genus:dasypus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 2
+	Query: "grey squirrel" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "white tailed deer" ; Times: 1
+	Query: "american beaver" ; Times: 1
+	Query: "Lasiurus borealis continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "pacific shrew" ; Times: 1
+	Query: "muskrat" ; Times: 1
+	Query: "dasyprocta punctata" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "Cavia tschudii" ; Times: 2
+	Query: "Myotis lucifugus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Dasyprocta punctata" ; Times: 1
+	Query: "Florida" ; Times: 1
+	Query: "Catopuma temminckii" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "Eptesicus fuscus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "scalopus aquaticus" ; Times: 3
+	Query: "locality:kentucky" ; Times: 1
+	Query: "order:Soricomorpha stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus country:&#34;united states&#34;" ; Times: 1
+	Query: "Myotis lucifugus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "raccoon" ; Times: 1
+
+
+End of report.
