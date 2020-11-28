@@ -1,0 +1,349 @@
+Report for Institution Code OMNH, Resource mammals
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 268
+Number of records retrieved in searches: 2185
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: United States ; Times: 151
+	Country: Netherlands ; Times: 10
+	Country: Italy ; Times: 1
+	Country: Ireland ; Times: 6
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 13
+	Country: Unknown ; Times: 4
+	Country: India ; Times: 1
+	Country: Burkina Faso ; Times: 1
+	Country: United Kingdom ; Times: 40
+	Country: Peru ; Times: 12
+	Country: Belgium ; Times: 1
+	Country: Japan ; Times: 5
+	Country: Colombia ; Times: 1
+	Country: Bolivia ; Times: 2
+	Country: Russia ; Times: 2
+	Country: Ecuador ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-28 ; Times: 2
+	Date: 2020-08-17 ; Times: 2
+	Date: 2020-08-16 ; Times: 3
+	Date: 2020-08-15 ; Times: 5
+	Date: 2020-08-14 ; Times: 5
+	Date: 2020-08-13 ; Times: 6
+	Date: 2020-08-12 ; Times: 11
+	Date: 2020-08-11 ; Times: 4
+	Date: 2020-08-10 ; Times: 9
+	Date: 2020-08-31 ; Times: 8
+	Date: 2020-08-30 ; Times: 7
+	Date: 2020-08-19 ; Times: 41
+	Date: 2020-08-18 ; Times: 6
+	Date: 2020-08-20 ; Times: 2
+	Date: 2020-08-08 ; Times: 13
+	Date: 2020-08-01 ; Times: 4
+	Date: 2020-08-02 ; Times: 3
+	Date: 2020-08-03 ; Times: 2
+	Date: 2020-08-04 ; Times: 6
+	Date: 2020-08-05 ; Times: 11
+	Date: 2020-08-06 ; Times: 10
+	Date: 2020-08-07 ; Times: 7
+	Date: 2020-08-26 ; Times: 4
+	Date: 2020-08-27 ; Times: 13
+	Date: 2020-08-24 ; Times: 23
+	Date: 2020-08-25 ; Times: 2
+	Date: 2020-08-22 ; Times: 5
+	Date: 2020-08-23 ; Times: 2
+	Date: 2020-08-09 ; Times: 2
+	Date: 2020-08-21 ; Times: 50
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:magister genus:Neotoma" ; Times: 2
+	Query: "Miopithecus talapoin" ; Times: 1
+	Query: "catalognumber:44714 institutioncode:OMNH" ; Times: 2
+	Query: "Syncerus zoo" ; Times: 1
+	Query: "spilogale pygmaea" ; Times: 1
+	Query: "10276 vntype:specimen" ; Times: 1
+	Query: "OMNH 39340" ; Times: 2
+	Query: "17163" ; Times: 2
+	Query: "OMNH 9428" ; Times: 1
+	Query: "Molossops temminckii" ; Times: 2
+	Query: "specificepithet:californicus genus:Lepus haslifestage:1" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes year&gt;=1900 year&lt;=1940" ; Times: 1
+	Query: "Muntiacus muntjak" ; Times: 1
+	Query: "Chlorocebus aethiops" ; Times: 1
+	Query: "MUSTELA NIGRIPES" ; Times: 5
+	Query: "Felis nigripes" ; Times: 1
+	Query: "mappable:1 scientificname:Myocastor coypus" ; Times: 1
+	Query: "Mandrillus sphinx" ; Times: 1
+	Query: "Dipodomys elator stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "genus:Mustela stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "specificepithet:townsendii genus:Lepus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "Sorex merriami" ; Times: 2
+	Query: "OMNH 5400" ; Times: 1
+	Query: "Leptailurus serval" ; Times: 1
+	Query: "class:Mammalia institutioncode:OMNH haslength:1" ; Times: 1
+	Query: "Netherlands" ; Times: 1
+	Query: "Macaca mulatta" ; Times: 1
+	Query: "Sylvilagus aquaticus" ; Times: 3
+	Query: "Ovis aries" ; Times: 1
+	Query: "OMNH 65724" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "lonchophylla mordax" ; Times: 1
+	Query: "12830" ; Times: 1
+	Query: "Lepus townsendii" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "genus:Lepus institutioncode:OMNH hastissue:1" ; Times: 2
+	Query: "44744" ; Times: 1
+	Query: "catalognumber:30627" ; Times: 1
+	Query: "Swamp rabbit" ; Times: 6
+	Query: "13097" ; Times: 1
+	Query: "genus:Sylvilagus country:&#34;United States&#34; institutioncode:OMNH hastissue:1" ; Times: 1
+	Query: "63162" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Symphalangus syndactylus" ; Times: 1
+	Query: "A. cahirinus" ; Times: 1
+	Query: "specificepithet:cursor genus:Akodon" ; Times: 1
+	Query: "(mustela nivalis OR mustela erminea)" ; Times: 2
+	Query: "american black bear" ; Times: 1
+	Query: "family:Geomyidae stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "Papio hamadryas" ; Times: 1
+	Query: "Felis silvestris" ; Times: 1
+	Query: "genus:Mustela stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "20858" ; Times: 1
+	Query: "vntype:specimen specificepithet:lupus genus:Canis stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:America" ; Times: 1
+	Query: "specificepithet:catta genus:Lemur" ; Times: 3
+	Query: "grey squirrel" ; Times: 1
+	Query: "35359" ; Times: 1
+	Query: "35358" ; Times: 1
+	Query: "Cercocebus torquatus" ; Times: 1
+	Query: "Ovis ammon" ; Times: 1
+	Query: "Procyon cancrivorus" ; Times: 1
+	Query: "catalognumber:6205" ; Times: 1
+	Query: "scientificname:Leopardus tigrinus" ; Times: 1
+	Query: "red panda" ; Times: 2
+	Query: "Sciurus alleni" ; Times: 1
+	Query: "Erythrocebus patas" ; Times: 1
+	Query: "genus:cavia haslength:1" ; Times: 1
+	Query: "Eira" ; Times: 1
+	Query: "thylamys velutinus" ; Times: 1
+	Query: "specificepithet:lateralis genus:Callospermophilus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Prairie Rattlesnake" ; Times: 2
+	Query: "Pongo pygmaeus" ; Times: 1
+	Query: "genus:lepus institutioncode:OMNH hastissue:1" ; Times: 1
+	Query: "Tabasco" ; Times: 1
+	Query: "64753" ; Times: 1
+	Query: "6502 order:rodentia" ; Times: 1
+	Query: "Helarctos malayanus" ; Times: 1
+	Query: "Hylobates pileatus" ; Times: 1
+	Query: "Megasorex gigas" ; Times: 4
+	Query: "Catopuma temminckii" ; Times: 1
+	Query: "big brown bat" ; Times: 1
+	Query: "29224" ; Times: 2
+	Query: "OMNH 31497" ; Times: 1
+	Query: "Gray wolf" ; Times: 1
+	Query: "Lepus capensis" ; Times: 1
+	Query: "19285" ; Times: 1
+	Query: "sylvilagus aquaticus" ; Times: 4
+	Query: "Felis catus" ; Times: 1
+	Query: "specificepithet:austroriparius genus:myotis" ; Times: 1
+	Query: "American Black Bear" ; Times: 1
+	Query: "catalognumber:5537 institutioncode:OMNH" ; Times: 4
+	Query: "M. reevesi" ; Times: 1
+	Query: "bog lemming" ; Times: 1
+	Query: "class:Mammalia institutioncode:OMNH haslifestage:1" ; Times: 1
+	Query: "Rodent Bolivia" ; Times: 1
+	Query: "Lepus californicus stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "31594" ; Times: 1
+	Query: "Sylvilagus obscurus" ; Times: 1
+	Query: "catalognumber:58879" ; Times: 1
+	Query: "swamp rabbit" ; Times: 2
+	Query: "56164" ; Times: 2
+	Query: "genus:urocyon hastissue:1" ; Times: 2
+	Query: "Allegheny woodrat" ; Times: 1
+	Query: "bats" ; Times: 1
+	Query: "25785" ; Times: 1
+	Query: "33873" ; Times: 1
+	Query: "pitts order:rodentia" ; Times: 1
+	Query: "Lepus europaeus" ; Times: 1
+	Query: "Muntiacus reevesi" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "specificepithet:obscurus genus:Sylvilagus" ; Times: 2
+	Query: "OMNH 55236" ; Times: 2
+	Query: "genus:Lepus country:&#34;United States&#34; institutioncode:OMNH hastissue:1" ; Times: 1
+	Query: "class:mammalia catalognumber:30627" ; Times: 2
+	Query: "Lepus timidus" ; Times: 1
+	Query: "west indian manatee" ; Times: 7
+	Query: "28881" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "genus:Sylvilagus institutioncode:OMNH hastissue:1" ; Times: 1
+	Query: "mustela nigripes" ; Times: 1
+	Query: "kit fox" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "catalognumber:27778" ; Times: 1
+	Query: "specificepithet:townsendii genus:Lepus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "65686" ; Times: 1
+	Query: "genus:Marmota stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "catalognumber:35691 institutioncode:OMNH" ; Times: 2
+	Query: "barred owl" ; Times: 1
+	Query: "Capra hircus" ; Times: 1
+	Query: "omnh 15012" ; Times: 1
+	Query: "class:mammalia county:&#34;cache&#34; stateprovince:&#34;utah&#34;" ; Times: 2
+	Query: "45388" ; Times: 1
+	Query: "genus:Equus institutioncode:OMNH" ; Times: 1
+	Query: "specificepithet:leibii genus:Myotis" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 3
+	Query: "44804" ; Times: 1
+	Query: "family:Geomyidae stateprovince:&#34;Tamaulipas&#34;" ; Times: 1
+	Query: "genus:sylvilagus obscurus" ; Times: 1
+	Query: "Sciurus pucheranii" ; Times: 1
+	Query: "Sciurus deppei" ; Times: 1
+	Query: "Lepus arcticus" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "genus:cavia" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "patagonian mara" ; Times: 1
+	Query: "Canis sp" ; Times: 2
+	Query: "lemur catta" ; Times: 1
+	Query: "catalognumber:44744 institutioncode:OMNH" ; Times: 1
+	Query: "Sciurus ignitus" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 2
+	Query: "genus:lepus institutioncode:OMNH" ; Times: 1
+	Query: "R 52046" ; Times: 1
+	Query: "Macaca nemestrina" ; Times: 1
+	Query: "genus:Erythrocebus" ; Times: 5
+	Query: "Myotis evotis stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "Eidolon helvum" ; Times: 1
+	Query: "Callithrix pygmaea" ; Times: 3
+	Query: "Hylobates lar" ; Times: 1
+	Query: "genus:Notiosorex country:&#34;Mexico&#34;" ; Times: 2
+	Query: "OMNH 11409" ; Times: 1
+	Query: "specificepithet:lanigera genus:Chinchilla haslength:1" ; Times: 1
+	Query: "order:rodentia class:Mammalia county:&#34;luna&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Mustela stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "32206" ; Times: 1
+	Query: "32207" ; Times: 1
+	Query: "specificepithet:soricina genus:glossophaga haslength:1" ; Times: 2
+	Query: "Sciurus colliaei" ; Times: 1
+	Query: "LASIURUS EGA" ; Times: 2
+	Query: "52769" ; Times: 1
+	Query: "37848 order:rodentia" ; Times: 2
+	Query: "Myotis auriculus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "41574" ; Times: 1
+	Query: "SAM 600" ; Times: 1
+	Query: "genus:Sylvilagus obscurus" ; Times: 3
+	Query: "specificepithet:dispar genus:sorex" ; Times: 1
+	Query: "8243" ; Times: 1
+	Query: "14370" ; Times: 2
+	Query: "OMNH 11452" ; Times: 1
+	Query: "Mammals Bolivia Potosi" ; Times: 1
+	Query: "genus:peromyscus county:&#34;Albany&#34;" ; Times: 1
+	Query: "genus:Erythrocebus year &gt;= 1861" ; Times: 1
+	Query: "14405" ; Times: 1
+	Query: "SAM 598" ; Times: 1
+	Query: "star nosed mole" ; Times: 2
+	Query: "45154" ; Times: 1
+	Query: "Ammospermophilus harrisii" ; Times: 1
+	Query: "Lepus californicus stateprovince:&#34;Nebraska&#34; year &gt;= 1971" ; Times: 1
+	Query: "47505" ; Times: 1
+	Query: "specificepithet:aquaticus genus:Sylvilagus" ; Times: 6
+	Query: "Erythrocebus" ; Times: 3
+	Query: "11295" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 65 (out of 756 download events in this period)
+Total number of records downloaded: 6997
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 57
+	Country: Bolivia ; Times: 2
+	Country: Burkina Faso ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-08 ; Times: 8
+	Date: 2020-08-29 ; Times: 1
+	Date: 2020-08-16 ; Times: 1
+	Date: 2020-08-15 ; Times: 2
+	Date: 2020-08-10 ; Times: 7
+	Date: 2020-08-13 ; Times: 4
+	Date: 2020-08-05 ; Times: 1
+	Date: 2020-08-11 ; Times: 1
+	Date: 2020-08-07 ; Times: 1
+	Date: 2020-08-26 ; Times: 11
+	Date: 2020-08-27 ; Times: 2
+	Date: 2020-08-24 ; Times: 12
+	Date: 2020-08-25 ; Times: 2
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-20 ; Times: 1
+	Date: 2020-08-21 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Mustela stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "baculum" ; Times: 1
+	Query: "vntype:specimen class:Mammalia stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "Sylvilagus obscurus" ; Times: 1
+	Query: "family:Geomyidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:Callospermophilus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "specificepithet:catta genus:Lemur" ; Times: 1
+	Query: "Canis sp" ; Times: 1
+	Query: "spilogale pygmaea" ; Times: 1
+	Query: "equinus" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "order:Rodentia county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 2
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus haslifestage:1" ; Times: 1
+	Query: "specificepithet:tigris genus:Panthera" ; Times: 2
+	Query: "red panda" ; Times: 1
+	Query: "Peromyscus gossypinus" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Mammals Bolivia Potosi" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 1
+	Query: "family:Geomyidae stateprovince:&#34;Tamaulipas&#34;" ; Times: 1
+	Query: "genus:Mustela stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "specificepithet:townsendii genus:Lepus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "specificepithet:cinereus genus:sorex" ; Times: 2
+	Query: "Myotis sodalis" ; Times: 2
+	Query: "Sorex cinereus" ; Times: 1
+	Query: "Sylvilagus aquaticus" ; Times: 1
+	Query: "genus:Mustela stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "myotis leibii" ; Times: 1
+	Query: "genus:ochotona" ; Times: 3
+	Query: "specificepithet:lateralis genus:Callospermophilus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Oregon&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "genus:Marmota stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "specificepithet:townsendii genus:Lepus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "class:Mammalia county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:arctos horribilis genus:Ursus" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "genus:Pongo" ; Times: 1
+	Query: "specificepithet:lateralis genus:Callospermophilus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "family:Geomyidae stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Gray wolf" ; Times: 1
+	Query: "specificepithet:africanus genus:Phacochoerus" ; Times: 1
+	Query: "specificepithet:pygmaeus genus:pongo" ; Times: 2
+	Query: "genus:Mustela stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:austroriparius genus:myotis" ; Times: 2
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 2
+	Query: "family:Geomyidae stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "family:Geomyidae stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Erythrocebus" ; Times: 1
+	Query: "Mammals Bolivia Cochabamba" ; Times: 1
+
+
+End of report.
