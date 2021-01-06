@@ -1,0 +1,308 @@
+Report for Institution Code OMNH, Resource mammals
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 264
+Number of records retrieved in searches: 10034
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Unknown ; Times: 8
+	Country: France ; Times: 2
+	Country: Peru ; Times: 11
+	Country: Bolivia ; Times: 1
+	Country: Ecuador ; Times: 2
+	Country: El Salvador ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Spain ; Times: 37
+	Country: Netherlands ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 133
+	Country: Pakistan ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 34
+	Country: Mozambique ; Times: 1
+	Country: Colombia ; Times: 7
+	Country: Kenya ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 10
+	Date: 2020-12-31 ; Times: 5
+	Date: 2020-12-09 ; Times: 14
+	Date: 2020-12-08 ; Times: 9
+	Date: 2020-12-07 ; Times: 5
+	Date: 2020-12-06 ; Times: 5
+	Date: 2020-12-05 ; Times: 5
+	Date: 2020-12-04 ; Times: 29
+	Date: 2020-12-03 ; Times: 9
+	Date: 2020-12-02 ; Times: 28
+	Date: 2020-12-01 ; Times: 9
+	Date: 2020-12-25 ; Times: 1
+	Date: 2020-12-24 ; Times: 4
+	Date: 2020-12-26 ; Times: 2
+	Date: 2020-12-21 ; Times: 4
+	Date: 2020-12-20 ; Times: 11
+	Date: 2020-12-23 ; Times: 1
+	Date: 2020-12-22 ; Times: 6
+	Date: 2020-12-29 ; Times: 3
+	Date: 2020-12-28 ; Times: 3
+	Date: 2020-12-18 ; Times: 1
+	Date: 2020-12-19 ; Times: 1
+	Date: 2020-12-10 ; Times: 5
+	Date: 2020-12-11 ; Times: 12
+	Date: 2020-12-12 ; Times: 4
+	Date: 2020-12-13 ; Times: 5
+	Date: 2020-12-14 ; Times: 52
+	Date: 2020-12-15 ; Times: 5
+	Date: 2020-12-16 ; Times: 14
+	Date: 2020-12-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:novemcinctus genus:Dasypus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "scientificname:Ursus americanus stateprovince:new york" ; Times: 2
+	Query: "Ovis aries" ; Times: 1
+	Query: "41264" ; Times: 1
+	Query: "Oligoryzomys fornesi" ; Times: 1
+	Query: "specificepithet:guanicoe genus:Lama" ; Times: 1
+	Query: "catalognumber:17258" ; Times: 1
+	Query: "Ochotona collaris" ; Times: 1
+	Query: "specificepithet:knoxjonesi genus:geomys stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "dromiciops gliroides" ; Times: 1
+	Query: "specificepithet:waterhousii genus:macrotus country:&#34;mexico&#34;" ; Times: 2
+	Query: "Felis nigripes" ; Times: 3
+	Query: "genus:baiomys stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "26573" ; Times: 1
+	Query: "19907" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "african elephant specimens" ; Times: 1
+	Query: "locality:black rapids stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "55866" ; Times: 1
+	Query: "scientificname:Chrysocyon brachyurus" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "specificepithet:andinus genus:Abrothrix hastissue:1" ; Times: 3
+	Query: "Glossophaga commissarisi" ; Times: 1
+	Query: "fox squirrel" ; Times: 5
+	Query: "scientificname:Mustela frenata stateprovince:new york" ; Times: 2
+	Query: "14840" ; Times: 1
+	Query: "26360" ; Times: 1
+	Query: "Cervus nippon" ; Times: 2
+	Query: "evolution" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "scientificname:Blarina brevicauda stateprovince:new york" ; Times: 4
+	Query: "Nasua nasua" ; Times: 3
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "(red panda)" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "Felis silvestris" ; Times: 1
+	Query: "Erinaceus europaeus" ; Times: 1
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:OMNH" ; Times: 1
+	Query: "notiomys" ; Times: 1
+	Query: "25529" ; Times: 1
+	Query: "Phacochoerus" ; Times: 4
+	Query: "Carnegie Museum Mammals" ; Times: 1
+	Query: "Ovis ammon" ; Times: 1
+	Query: "order:chiroptera county:&#34;colfax&#34; stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "25113" ; Times: 1
+	Query: "30561" ; Times: 1
+	Query: "35966" ; Times: 1
+	Query: "hog-nosed skunk" ; Times: 3
+	Query: "Oligoryzomys flavescens" ; Times: 1
+	Query: "vampire" ; Times: 2
+	Query: "17310" ; Times: 1
+	Query: "specificepithet:americanus genus:ursus haslength:1" ; Times: 1
+	Query: "Axis axis" ; Times: 1
+	Query: "4282 genus:Geomys" ; Times: 3
+	Query: "Pipistrellus kuhlii" ; Times: 1
+	Query: "cervus nippon lifestage:adult" ; Times: 1
+	Query: "class:mammalia locality:Flint River" ; Times: 1
+	Query: "Ovis dalli" ; Times: 1
+	Query: "white tail deer" ; Times: 4
+	Query: "12995" ; Times: 1
+	Query: "Leptonycteris sanborni" ; Times: 3
+	Query: "24209" ; Times: 1
+	Query: "Rusa unicolor" ; Times: 2
+	Query: "recordedby:Crew institutioncode:OMNH" ; Times: 3
+	Query: "specificepithet:arctos genus:Ursus haslength:1" ; Times: 1
+	Query: "pika" ; Times: 6
+	Query: "Felis catus" ; Times: 2
+	Query: "43687" ; Times: 1
+	Query: "27650" ; Times: 1
+	Query: "Puma jaguarundi" ; Times: 1
+	Query: "diclidurus albus" ; Times: 2
+	Query: "catalognumber:4457 institutioncode:OMNH" ; Times: 1
+	Query: "genus:MUS country:&#34;TRINIDAD&#34;" ; Times: 1
+	Query: "Odobenus rosmarus" ; Times: 1
+	Query: "DOT-123" ; Times: 1
+	Query: "mappable:1 scientificname:Loxodonta africana" ; Times: 1
+	Query: "geoxus" ; Times: 3
+	Query: "myocastor coypus" ; Times: 1
+	Query: "Paraechinus aethiopicus" ; Times: 1
+	Query: "catalognumber:33504 institutioncode:OMNH" ; Times: 1
+	Query: "neotomys ebriosus" ; Times: 7
+	Query: "cervus nippon" ; Times: 1
+	Query: "Oligoryzomys nigripes" ; Times: 1
+	Query: "sex:M" ; Times: 1
+	Query: "virginia opossum" ; Times: 1
+	Query: "lasiurus blossevillii" ; Times: 1
+	Query: "41740" ; Times: 1
+	Query: "gray fox" ; Times: 1
+	Query: "scientificname:Peromyscus leucopus stateprovince:new york" ; Times: 2
+	Query: "41856" ; Times: 1
+	Query: "Dasyprocta leporina" ; Times: 1
+	Query: "21726" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 3
+	Query: "specificepithet:virginianus genus:Odocoileus haslength:1" ; Times: 1
+	Query: "Micromys minutus" ; Times: 1
+	Query: "Dipodomys ingens" ; Times: 2
+	Query: "Myotis ruber" ; Times: 1
+	Query: "Equus caballus" ; Times: 1
+	Query: "OMNH 23496" ; Times: 1
+	Query: "catalognumber:34457 institutioncode:OMNH" ; Times: 1
+	Query: "Chaetophractus villosus" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus haslength:1" ; Times: 1
+	Query: "36800" ; Times: 1
+	Query: "49709" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Mexico&#34; year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus preparations:skull" ; Times: 1
+	Query: "42634" ; Times: 1
+	Query: "indian squirrel" ; Times: 2
+	Query: "marsupial" ; Times: 1
+	Query: "25857" ; Times: 1
+	Query: "genus:Rangifer tarandus" ; Times: 2
+	Query: "sorex saussurei" ; Times: 1
+	Query: "Spilogale pygmaea" ; Times: 2
+	Query: "Corallus hortulanus" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:OMNH" ; Times: 1
+	Query: "scientificname:Odocoileus virginianus stateprovince:new york" ; Times: 2
+	Query: "specificepithet:arenarius genus:geomys" ; Times: 1
+	Query: "specificepithet:longipilis genus:Abrothrix hastissue:1" ; Times: 1
+	Query: "genus:Corynorhinus stateprovince:&#34;Arkansas&#34;" ; Times: 3
+	Query: "Mongoose" ; Times: 1
+	Query: "35101" ; Times: 1
+	Query: "39031" ; Times: 1
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Lasiurus blossevillii Argentina" ; Times: 1
+	Query: "(21726)" ; Times: 1
+	Query: "Bos frontalis" ; Times: 2
+	Query: "Sciurus ignitus" ; Times: 1
+	Query: "17519" ; Times: 1
+	Query: "Procyon lotor stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus country:&#34;United States&#34;" ; Times: 1
+	Query: "Elaphurus davidianus" ; Times: 1
+	Query: "scientificname:Procyon lotor" ; Times: 40
+	Query: "Prairie rattlesnake" ; Times: 1
+	Query: "Rucervus duvaucelii" ; Times: 1
+	Query: "30727" ; Times: 1
+	Query: "specificepithet:illuteus genus:Abrothrix hastissue:1" ; Times: 2
+	Query: "micronycteris megalotis" ; Times: 1
+	Query: "Sciurus alleni" ; Times: 1
+	Query: "Sciurus colliaei" ; Times: 1
+	Query: "12880" ; Times: 1
+	Query: "scientificname:Peromyscus sp. stateprovince:new york" ; Times: 2
+	Query: "22063" ; Times: 1
+	Query: "specificepithet:thebaica genus:nycteris" ; Times: 2
+	Query: "specificepithet:astutus genus:bassariscus stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "genus:Ursus americanus hassex:1 haslength:1" ; Times: 1
+	Query: "60372" ; Times: 1
+	Query: "41988" ; Times: 1
+	Query: "11258" ; Times: 1
+	Query: "11296" ; Times: 1
+	Query: "musculus 1881" ; Times: 1
+	Query: "Black Bear" ; Times: 1
+	Query: "34899" ; Times: 2
+	Query: "34898" ; Times: 1
+	Query: "Artibeus hirsutus" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "scientificname:Sylvilagus floridanus stateprovince:new york" ; Times: 2
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "Gruber" ; Times: 1
+	Query: "hedgehog" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 46 (out of 705 download events in this period)
+Total number of records downloaded: 10415
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Turkey ; Times: 1
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 1
+	Country: United States ; Times: 20
+	Country: Germany ; Times: 4
+	Country: Chile ; Times: 1
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 2
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-22 ; Times: 2
+	Date: 2020-12-29 ; Times: 2
+	Date: 2020-12-28 ; Times: 1
+	Date: 2020-12-02 ; Times: 7
+	Date: 2020-12-01 ; Times: 6
+	Date: 2020-12-09 ; Times: 2
+	Date: 2020-12-07 ; Times: 3
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-04 ; Times: 3
+	Date: 2020-12-03 ; Times: 10
+	Date: 2020-12-15 ; Times: 4
+	Date: 2020-12-16 ; Times: 1
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:OMNH" ; Times: 1
+	Query: "Alouatta belzebul" ; Times: 1
+	Query: "specificepithet:andinus genus:Abrothrix hastissue:1" ; Times: 1
+	Query: "family:sciuridae" ; Times: 1
+	Query: "order:Chiroptera continent:South America year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "class:Mammalia country:Brazil" ; Times: 4
+	Query: "specificepithet:arenarius genus:geomys" ; Times: 2
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "dromiciops gliroides" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "vntype:specimen year &gt;= 1990 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Paraechinus aethiopicus" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "class:mammalia locality:Caloosahatchee River" ; Times: 1
+	Query: "specificepithet:illuteus genus:Abrothrix hastissue:1" ; Times: 1
+	Query: "genus:Lepus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "class:mammalia locality:Flint River" ; Times: 1
+	Query: "Procyon lotor stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Glossophaga commissarisi" ; Times: 1
+	Query: "genus:Martes specificepithet:americana*" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus haslength:1" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Sonora&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Mexico&#34; year &gt;= 2000 year &lt;= 2020" ; Times: 2
+	Query: "genus:Ursus americanus hassex:1 haslength:1" ; Times: 1
+	Query: "hastissue:1" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "Lepus capensis" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus haslength:1" ; Times: 1
+	Query: "genus:Rangifer tarandus" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "sorex saussurei" ; Times: 2
+	Query: "Spilogale pygmaea" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:OMNH" ; Times: 1
+	Query: "Odobenus rosmarus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Chihuahua&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "caracal caracal" ; Times: 1
+	Query: "family:Felidae year &gt;= 2000 year &lt;= 2020" ; Times: 1
+
+
+End of report.
